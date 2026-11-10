@@ -10,7 +10,7 @@ const TUTOR_NAV = [['#/t', 'Studio'], ['#/t/library', 'Library'], ['#/t/homework
 
 function bar(mode) {
   const here = location.hash || '#/';
-  const active = (href) => (href === '#/t' ? here === '#/t' || here.startsWith('#/t/s/') : here.startsWith(href) || (href === '#/t/library' && (here.startsWith('#/t/materials') || here.startsWith('#/t/teach'))) || (href === '#/t/homework' && here.startsWith('#/t/build')));
+  const active = (href) => (href === '#/t' ? here === '#/t' || here.startsWith('#/t/s/') : here.startsWith(href) || (href === '#/t/library' && (here.startsWith('#/t/materials') || here.startsWith('#/t/teach'))) || (href === '#/t/homework' && (here.startsWith('#/t/build') || here.startsWith('#/t/review'))));
   const nav = mode === 'tutor' ? h('nav', { class: 'nav', 'aria-label': 'Main' }, TUTOR_NAV.map(([href, label]) => h('a', { href, class: active(href) ? 'on' : '' }, label))) : null;
   topbar.replaceChildren(h('div', { class: 'topbar-in' },
     h('a', { class: 'logo', href: mode === 'tutor' ? '#/t' : '#/' }, h('span', { class: 'logo-mark', 'aria-hidden': 'true' }), h('span', { class: 'long' }, mode === 'tutor' ? 'Tutor Studio' : 'English Galaxy')),
@@ -40,6 +40,7 @@ async function route() {
       if (b === 's' && c) return (await import('./teacher/student.js')).studentView(app, c);
       if (b === 'library') return (await import('./teacher/library.js')).libraryView(app, c && decodeURIComponent(c));
       if (b === 'teach' && c) return (await import('./teacher/teach.js')).teachView(app, decodeURIComponent(c), d);
+      if (b === 'review' && c) return (await import('./teacher/review.js')).reviewView(app, decodeURIComponent(c), d);
       if (b === 'build') return (await import('./teacher/builder.js')).builderView(app, c && decodeURIComponent(c), d);
       if (b === 'homework') return (await import('./teacher/dashboard.js')).dashboardView(app, c && decodeURIComponent(c));
       if (b === 'materials') return (await import('./teacher/materials.js')).materialsView(app);

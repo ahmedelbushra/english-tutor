@@ -32,6 +32,7 @@ export async function studentView(root, id) {
         st.goal ? h('p', { class: 'lead', style: { margin: '4px 0 0' } }, '🎯 ', st.goal) : null),
       h('div', { class: 'row' },
         next ? h('a', { class: 'btn primary', href: `#/t/teach/${encodeURIComponent(next.id)}/${st.id}` }, `▶ Teach ${next.unit === 0 || next.unit === 9 ? next.title : 'Unit ' + next.unit}`) : null,
+        res[0] ? h('a', { class: 'btn', href: `#/t/review/${encodeURIComponent(res[0].homeworkId)}/${res[0].submissionId}`, title: `Review “${res[0].homeworkTitle}” together` }, '🎓 Review last homework') : null,
         h('a', { class: 'btn', href: `#/t/build//${st.id}` }, '＋ Homework'),
         h('button', { class: 'btn ghost', onclick: () => studentForm(st) }, '✎ Edit'))),
 

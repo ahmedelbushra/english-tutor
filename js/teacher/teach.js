@@ -70,7 +70,7 @@ export async function teachView(root, unitId, studentId) {
   go(i);
 }
 
-function fullscreen() {
+export function fullscreen() {
   if (document.fullscreenElement) document.exitFullscreen?.();
   else document.documentElement.requestFullscreen?.().catch(() => {});
 }
@@ -170,7 +170,7 @@ function highlight(sentence) {
 }
 
 /** Big-screen question cycler: show question → reveal answer → next. */
-function practiceSlide(title, items) {
+export function practiceSlide(title, items) {
   const order = shuffle(items.map((_, k) => k));
   let k = 0;
   const box = h('div');
@@ -197,7 +197,7 @@ function practiceSlide(title, items) {
   paint();
   return [title ? h('h2', null, title) : null, box];
 }
-const blanked = (t) => String(t).split('___').flatMap((p, n) => (n ? [h('span', { class: 'blank' }, ' '), p] : [p]));
+export const blanked = (t) => String(t).split('___').flatMap((p, n) => (n ? [h('span', { class: 'blank' }, ' '), p] : [p]));
 
 function readingSlide(r) {
   const qs = h('div', { class: 'ex-list' });
@@ -252,7 +252,7 @@ function wheelSlide(u) {
 }
 
 // ---------------------------------------------------------------- tools
-function timerTool() {
+export function timerTool() {
   let left = 60, iv = null;
   const num = h('div', { class: 'timer-num' }, '1:00');
   const paint = () => { num.textContent = `${Math.floor(left / 60)}:${String(left % 60).padStart(2, '0')}`; num.classList.toggle('end', left === 0); };
@@ -272,7 +272,7 @@ function beep() {
   } catch { /* no audio */ }
 }
 
-function starsTool(student) {
+export function starsTool(student) {
   let n = student ? student.stars || 0 : store.get('lessonStars', 0);
   const num = h('div', { class: 'star-count' }, `⭐ ${n}`);
   const set = (v) => {
@@ -293,7 +293,7 @@ function beepStar() {
   } catch { /* no audio */ }
 }
 
-function notesTool(student, u) {
+export function notesTool(student, u) {
   const key = `draftNote.${student?.id || 'none'}`;
   const ta = h('textarea', { placeholder: 'What went well? What needs practice?', style: { minHeight: '150px' }, oninput: () => store.set(key, ta.value) });
   ta.value = store.get(key, '');
