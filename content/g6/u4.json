@@ -1,0 +1,1159 @@
+{
+  "id": "u4",
+  "unit": 4,
+  "title": "Professions",
+  "emoji": "🧑‍🚀",
+  "color": "#364fc7",
+  "bigQuestion": "How are jobs changing, and why are all jobs important?",
+  "summary": "Students learn words for new technology and space jobs and for emergency services, tell stories with the Simple Past and Past Progressive, describe people and things with who / which / that, and make open and closed compound nouns.",
+  "warmup": [
+    "What do you want to be when you grow up? Why?",
+    "Which jobs help people in an emergency?",
+    "Would you like to travel into space? What would you do there?",
+    "Can you name a job that did not exist 50 years ago?",
+    "Who works hard to help people in your neighborhood?"
+  ],
+  "vocab": [
+    {
+      "word": "AI specialist",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Technology jobs",
+      "meaning": "a person who builds and studies smart computer programs",
+      "example": "My aunt is an AI specialist. She teaches computers to answer questions.",
+      "emoji": "🧑‍💻"
+    },
+    {
+      "word": "artificial intelligence",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Technology jobs",
+      "meaning": "computer programs that can think and learn a little like people",
+      "example": "This phone uses artificial intelligence to understand my voice.",
+      "emoji": "🤖"
+    },
+    {
+      "word": "cybersecurity analyst",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Technology jobs",
+      "meaning": "a person who keeps computers and information safe from attacks",
+      "example": "The bank asked a cybersecurity analyst to protect its website.",
+      "emoji": "🔐"
+    },
+    {
+      "word": "robotics engineer",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Technology jobs",
+      "meaning": "a person who designs, builds and tests robots",
+      "example": "Khalid wants to be a robotics engineer and build robots for hospitals.",
+      "emoji": "🦾"
+    },
+    {
+      "word": "astronaut",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Space",
+      "meaning": "a person who travels and works in space",
+      "example": "The astronaut floated around inside the space station.",
+      "emoji": "🧑‍🚀"
+    },
+    {
+      "word": "Earth",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Space",
+      "meaning": "the planet that we live on",
+      "example": "From space, Earth looks like a blue and white ball.",
+      "emoji": "🌍"
+    },
+    {
+      "word": "planet",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Space",
+      "meaning": "a very big round object that moves around a star",
+      "example": "Mars is a red planet.",
+      "emoji": "🪐"
+    },
+    {
+      "word": "rocket",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Space",
+      "meaning": "a vehicle that flies very fast up into space",
+      "example": "We watched the rocket fly up into the sky.",
+      "emoji": "🚀"
+    },
+    {
+      "word": "satellite",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Space",
+      "meaning": "a machine that goes around Earth and sends information",
+      "example": "A satellite takes pictures of the clouds for the weather report.",
+      "emoji": "🛰️"
+    },
+    {
+      "word": "space",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Space",
+      "meaning": "the area outside Earth where the stars and planets are",
+      "example": "There is no air in space.",
+      "emoji": "🌌"
+    },
+    {
+      "word": "design",
+      "pos": "verb",
+      "set": 1,
+      "cat": "Useful words",
+      "meaning": "to plan and draw how something will look and work",
+      "example": "Nouf likes to design new games on her computer.",
+      "emoji": "📐"
+    },
+    {
+      "word": "video message",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Useful words",
+      "meaning": "a short video that you record and send to someone",
+      "example": "Grandma sent us a video message from Jeddah.",
+      "emoji": "📹"
+    },
+    {
+      "word": "business",
+      "pos": "noun",
+      "set": 2,
+      "cat": "Useful words",
+      "meaning": "a company or shop that sells things or services",
+      "example": "My uncle has a small business that sells dates.",
+      "emoji": "💼"
+    },
+    {
+      "word": "missing",
+      "pos": "adjective",
+      "set": 2,
+      "cat": "Useful words",
+      "meaning": "lost; not in the place where it should be",
+      "example": "Our cat was missing for two days, but we found her.",
+      "emoji": "🔍"
+    },
+    {
+      "word": "ambulance",
+      "pos": "noun",
+      "set": 2,
+      "cat": "Emergency services",
+      "meaning": "a vehicle that takes sick or hurt people to the hospital",
+      "example": "The ambulance arrived quickly and took the man to the hospital.",
+      "emoji": "🚑"
+    },
+    {
+      "word": "fire",
+      "pos": "noun",
+      "set": 2,
+      "cat": "Emergency services",
+      "meaning": "the hot flames and smoke when something burns",
+      "example": "Never play with fire.",
+      "emoji": "🔥"
+    },
+    {
+      "word": "firefighter",
+      "pos": "noun",
+      "set": 2,
+      "cat": "Emergency services",
+      "meaning": "a person whose job is to stop fires and save people",
+      "example": "The firefighter climbed the ladder to help the family.",
+      "emoji": "🧑‍🚒"
+    },
+    {
+      "word": "fire station",
+      "pos": "noun",
+      "set": 2,
+      "cat": "Emergency services",
+      "meaning": "the building where firefighters and fire trucks wait",
+      "example": "Our class visited the fire station near our school.",
+      "emoji": "🧯"
+    },
+    {
+      "word": "fire truck",
+      "pos": "noun",
+      "set": 2,
+      "cat": "Emergency services",
+      "meaning": "a big red vehicle that carries firefighters, water and ladders",
+      "example": "The fire truck drove fast down the street.",
+      "emoji": "🚒"
+    },
+    {
+      "word": "police officer",
+      "pos": "noun",
+      "set": 2,
+      "cat": "Emergency services",
+      "meaning": "a person whose job is to keep people safe and stop crime",
+      "example": "A police officer helped the old man cross the road.",
+      "emoji": "👮"
+    },
+    {
+      "word": "police station",
+      "pos": "noun",
+      "set": 2,
+      "cat": "Emergency services",
+      "meaning": "the building where police officers work",
+      "example": "Fahad took the lost wallet to the police station.",
+      "emoji": "🚓"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "Simple Past and Past Progressive",
+      "rule": "Use the Past Progressive (was / were + -ing) for a longer action that was in progress in the past. Use the Simple Past for a short action that happened in the middle of it. We often join them with when or while.",
+      "form": "I / he / she / it + was + verb-ing · you / we / they + were + verb-ing · ... when + Simple Past · while + Past Progressive",
+      "examples": [
+        "We were driving to Abha when Grandma sent us a video message.",
+        "The phone rang while I was doing my homework.",
+        "Nouf wasn't sleeping when the fire truck went past.",
+        "What were you doing at seven o'clock last night?"
+      ],
+      "items": [
+        {
+          "type": "mc",
+          "prompt": "Omar ___ a video message when the lights went out.",
+          "options": [
+            "was recording",
+            "were recording",
+            "is recording",
+            "records"
+          ],
+          "answer": "was recording",
+          "explanation": "Recording was the longer action in the past, and Omar is one person, so we use was + -ing."
+        },
+        {
+          "type": "mc",
+          "prompt": "While the astronauts were sleeping, the satellite ___ a photo of Earth.",
+          "options": [
+            "took",
+            "was take",
+            "takes",
+            "taking"
+          ],
+          "answer": "took",
+          "explanation": "Taking a photo is the short action, so we use the Simple Past: took."
+        },
+        {
+          "type": "mc",
+          "prompt": "What ___ you doing at eight o'clock last night?",
+          "options": [
+            "were",
+            "was",
+            "did",
+            "are"
+          ],
+          "answer": "were",
+          "explanation": "Questions in the Past Progressive use were with you: What were you doing?"
+        },
+        {
+          "type": "mc",
+          "prompt": "The firefighters ___ dinner when the alarm rang.",
+          "options": [
+            "were eating",
+            "was eating",
+            "are eating",
+            "eats"
+          ],
+          "answer": "were eating",
+          "explanation": "Firefighters is plural, so we use were + -ing for the longer past action."
+        },
+        {
+          "type": "mc",
+          "prompt": "Sara ___ a fire truck while she was walking to school.",
+          "options": [
+            "saw",
+            "was see",
+            "sees",
+            "seeing"
+          ],
+          "answer": "saw",
+          "explanation": "Seeing the truck is the short action, so we use the Simple Past: saw."
+        },
+        {
+          "type": "mc",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "I was reading when the phone rang.",
+            "I was read when the phone rang.",
+            "I reading when the phone was ring."
+          ],
+          "answer": "I was reading when the phone rang.",
+          "explanation": "The longer action uses was + -ing, and the short action uses the Simple Past."
+        },
+        {
+          "type": "mc",
+          "prompt": "___ Khalid playing football when it started to rain?",
+          "options": [
+            "Was",
+            "Were",
+            "Did",
+            "Does"
+          ],
+          "answer": "Was",
+          "explanation": "For a Past Progressive question about one person, start with Was."
+        },
+        {
+          "type": "gap",
+          "prompt": "We ___ to Abha when Grandma called us.",
+          "hint": "(travel)",
+          "answer": [
+            "were traveling",
+            "were travelling"
+          ],
+          "explanation": "We is plural, so the longer action is were + traveling."
+        },
+        {
+          "type": "gap",
+          "prompt": "Nouf ___ her homework when her brother came home.",
+          "hint": "(do)",
+          "answer": "was doing",
+          "explanation": "Doing homework was in progress when her brother came, so we use was doing."
+        },
+        {
+          "type": "gap",
+          "prompt": "While the doctors were talking, the ambulance suddenly ___.",
+          "hint": "(arrive)",
+          "answer": "arrived",
+          "explanation": "Suddenly tells us it is a short action, so we use the Simple Past: arrived."
+        },
+        {
+          "type": "gap",
+          "prompt": "Reem ___ TV when I called her. She was reading a book.",
+          "hint": "(not / watch)",
+          "answer": [
+            "wasn't watching",
+            "was not watching"
+          ],
+          "explanation": "The negative of the Past Progressive is wasn't / was not + -ing."
+        },
+        {
+          "type": "gap",
+          "prompt": "___ they playing outside when the storm started?",
+          "hint": "(be)",
+          "answer": "Were",
+          "explanation": "They is plural, so the question starts with Were."
+        },
+        {
+          "type": "gap",
+          "prompt": "The robotics engineer ___ a new robot when she had a great idea.",
+          "hint": "(design)",
+          "answer": "was designing",
+          "explanation": "Designing was the longer action, and the idea came in the middle of it."
+        },
+        {
+          "type": "gap",
+          "prompt": "The police officer found the missing cat while he ___ in the park.",
+          "hint": "(walk)",
+          "answer": "was walking",
+          "explanation": "After while we usually use the Past Progressive for the longer action."
+        },
+        {
+          "type": "gap",
+          "prompt": "I ___ my leg while I was riding my bike.",
+          "hint": "(hurt)",
+          "answer": "hurt",
+          "explanation": "Hurting your leg is a short action, and hurt is irregular: hurt - hurt."
+        },
+        {
+          "type": "order",
+          "answer": "What were you doing at nine o'clock?",
+          "explanation": "Question order: What + were + you + verb-ing."
+        },
+        {
+          "type": "order",
+          "answer": "The phone rang while I was sleeping.",
+          "alt": [
+            "While I was sleeping the phone rang."
+          ],
+          "explanation": "While goes before the longer action: while I was sleeping."
+        },
+        {
+          "type": "order",
+          "answer": "They were not watching the rocket.",
+          "explanation": "Negative: were + not + verb-ing."
+        },
+        {
+          "type": "order",
+          "answer": "Was your sister sleeping when you came home?",
+          "explanation": "Past Progressive question: Was + person + verb-ing."
+        },
+        {
+          "type": "order",
+          "answer": "The firefighters were washing the fire truck.",
+          "explanation": "Plural subject + were + verb-ing."
+        },
+        {
+          "type": "transform",
+          "instruction": "Join the sentences with when.",
+          "prompt": "Sara was cooking. The fire alarm rang.",
+          "answer": [
+            "Sara was cooking when the fire alarm rang.",
+            "When the fire alarm rang, Sara was cooking.",
+            "When the fire alarm rang Sara was cooking."
+          ],
+          "explanation": "When goes before the short action in the Simple Past."
+        },
+        {
+          "type": "transform",
+          "instruction": "Join the sentences with while.",
+          "prompt": "The police officer found the missing bag. He was walking home.",
+          "answer": [
+            "The police officer found the missing bag while he was walking home.",
+            "While he was walking home, the police officer found the missing bag.",
+            "While he was walking home the police officer found the missing bag."
+          ],
+          "explanation": "While goes before the longer action in the Past Progressive."
+        },
+        {
+          "type": "transform",
+          "instruction": "Make it negative.",
+          "prompt": "They were watching the rocket launch.",
+          "answer": [
+            "They were not watching the rocket launch.",
+            "They weren't watching the rocket launch."
+          ],
+          "explanation": "Add not after were: were not / weren't + -ing."
+        },
+        {
+          "type": "transform",
+          "instruction": "Make a question.",
+          "prompt": "Omar was talking to the astronaut.",
+          "answer": [
+            "Was Omar talking to the astronaut?"
+          ],
+          "explanation": "Move was to the start of the sentence to make a question."
+        },
+        {
+          "type": "fix",
+          "sentence": "I was watching TV when my dad was come home.",
+          "correct": false,
+          "answer": "I was watching TV when my dad came home.",
+          "explanation": "The short action needs the Simple Past: came, not was come."
+        },
+        {
+          "type": "fix",
+          "sentence": "They was playing in the garden.",
+          "correct": false,
+          "answer": "They were playing in the garden.",
+          "explanation": "With they we use were, not was."
+        },
+        {
+          "type": "fix",
+          "sentence": "While Reem was reading, the lights went out.",
+          "correct": true,
+          "answer": "While Reem was reading, the lights went out.",
+          "explanation": "Correct: was reading is the longer action and went out is the short action."
+        },
+        {
+          "type": "fix",
+          "sentence": "What did you doing when the ambulance arrived?",
+          "correct": false,
+          "answer": "What were you doing when the ambulance arrived?",
+          "explanation": "The Past Progressive question uses were + -ing, not did + -ing."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": "Relative clauses with who, which, that",
+      "rule": "We use who, which or that to say exactly which person or thing we mean. Use who for people and which for things or animals. That is fine for both people and things.",
+      "form": "person + who / that + verb ... · thing / animal + which / that + verb ...",
+      "examples": [
+        "The firefighter who saved the cat works at our fire station.",
+        "This is the rocket which flew to the space station.",
+        "I know a girl that wants to be an astronaut.",
+        "The video message that Grandpa sent was very funny."
+      ],
+      "items": [
+        {
+          "type": "mc",
+          "prompt": "An astronaut is a person ___ travels into space.",
+          "options": [
+            "who",
+            "which",
+            "where"
+          ],
+          "answer": "who",
+          "explanation": "An astronaut is a person, so we use who."
+        },
+        {
+          "type": "mc",
+          "prompt": "A fire truck is a vehicle ___ carries water and ladders.",
+          "options": [
+            "which",
+            "who",
+            "where"
+          ],
+          "answer": "which",
+          "explanation": "A fire truck is a thing, so we use which."
+        },
+        {
+          "type": "mc",
+          "prompt": "The man ___ saved the cat is a firefighter.",
+          "options": [
+            "who",
+            "which",
+            "what"
+          ],
+          "answer": "who",
+          "explanation": "The man is a person, so we use who."
+        },
+        {
+          "type": "mc",
+          "prompt": "This is the satellite ___ sends photos of Earth.",
+          "options": [
+            "that",
+            "who",
+            "where",
+            "what"
+          ],
+          "answer": "that",
+          "explanation": "That can be used for things like a satellite."
+        },
+        {
+          "type": "mc",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "The girl who won the prize is my sister.",
+            "The girl which won the prize is my sister.",
+            "The girl who she won the prize is my sister."
+          ],
+          "answer": "The girl who won the prize is my sister.",
+          "explanation": "Use who for a person, and don't add she after who."
+        },
+        {
+          "type": "mc",
+          "prompt": "I like robots ___ can talk to people.",
+          "options": [
+            "that",
+            "who",
+            "where"
+          ],
+          "answer": "that",
+          "explanation": "Robots are things, so we use that (or which), not who."
+        },
+        {
+          "type": "mc",
+          "prompt": "The dog ___ was missing is now at home.",
+          "options": [
+            "which",
+            "where",
+            "what"
+          ],
+          "answer": "which",
+          "explanation": "For animals we use which or that."
+        },
+        {
+          "type": "gap",
+          "prompt": "A cybersecurity analyst is someone ___ protects computers.",
+          "bank": [
+            "who",
+            "which",
+            "where"
+          ],
+          "answer": [
+            "who",
+            "that"
+          ],
+          "explanation": "Someone is a person, so we use who (or that)."
+        },
+        {
+          "type": "gap",
+          "prompt": "The rocket ___ we saw on TV was very tall.",
+          "bank": [
+            "which",
+            "who",
+            "where"
+          ],
+          "answer": [
+            "which",
+            "that"
+          ],
+          "explanation": "A rocket is a thing, so we use which (or that)."
+        },
+        {
+          "type": "gap",
+          "prompt": "Do you know the woman ___ is talking to the police officer?",
+          "bank": [
+            "who",
+            "which",
+            "where"
+          ],
+          "answer": [
+            "who",
+            "that"
+          ],
+          "explanation": "The woman is a person, so we use who (or that)."
+        },
+        {
+          "type": "gap",
+          "prompt": "The ambulance ___ came to our street was very fast.",
+          "bank": [
+            "which",
+            "who",
+            "where"
+          ],
+          "answer": [
+            "which",
+            "that"
+          ],
+          "explanation": "An ambulance is a thing, so we use which (or that)."
+        },
+        {
+          "type": "gap",
+          "prompt": "The boy ___ lost his bag went to the police station.",
+          "bank": [
+            "who",
+            "which",
+            "where"
+          ],
+          "answer": [
+            "who",
+            "that"
+          ],
+          "explanation": "The boy is a person, so we use who (or that)."
+        },
+        {
+          "type": "gap",
+          "prompt": "This is the video message ___ my uncle sent from NEOM.",
+          "bank": [
+            "which",
+            "who",
+            "where"
+          ],
+          "answer": [
+            "which",
+            "that"
+          ],
+          "explanation": "A video message is a thing, so we use which (or that)."
+        },
+        {
+          "type": "gap",
+          "prompt": "Robotics engineers are people ___ design and build robots.",
+          "bank": [
+            "who",
+            "which",
+            "where"
+          ],
+          "answer": [
+            "who",
+            "that"
+          ],
+          "explanation": "People need who (or that)."
+        },
+        {
+          "type": "order",
+          "answer": "The man who fixes computers is my uncle.",
+          "alt": [
+            "My uncle is the man who fixes computers."
+          ],
+          "explanation": "Who fixes computers comes right after the man to tell us which man."
+        },
+        {
+          "type": "order",
+          "answer": "This is the rocket that went to space.",
+          "explanation": "That went to space tells us which rocket."
+        },
+        {
+          "type": "order",
+          "answer": "I have a robot which can clean the floor.",
+          "explanation": "Which can clean the floor comes right after a robot."
+        },
+        {
+          "type": "order",
+          "answer": "She is the doctor who works at the hospital.",
+          "explanation": "Who works at the hospital tells us which doctor."
+        },
+        {
+          "type": "order",
+          "answer": "Is this the fire truck that you saw?",
+          "explanation": "That you saw comes after the fire truck to tell us which one."
+        },
+        {
+          "type": "transform",
+          "instruction": "Join the sentences with who.",
+          "prompt": "The firefighter is very brave. He saved the cat.",
+          "answer": [
+            "The firefighter who saved the cat is very brave."
+          ],
+          "explanation": "Put who saved the cat right after the firefighter. Don't repeat he."
+        },
+        {
+          "type": "transform",
+          "instruction": "Join the sentences with which.",
+          "prompt": "I watched a video. It was about planets.",
+          "answer": [
+            "I watched a video which was about planets."
+          ],
+          "explanation": "Which replaces it, so we don't say it again."
+        },
+        {
+          "type": "transform",
+          "instruction": "Join the sentences with who.",
+          "prompt": "Nouf has an aunt. She is an AI specialist.",
+          "answer": [
+            "Nouf has an aunt who is an AI specialist."
+          ],
+          "explanation": "Who replaces she, so we don't say she again."
+        },
+        {
+          "type": "transform",
+          "instruction": "Join the sentences with that.",
+          "prompt": "This is the satellite. It takes photos of the weather.",
+          "answer": [
+            "This is the satellite that takes photos of the weather."
+          ],
+          "explanation": "That replaces it and tells us which satellite."
+        },
+        {
+          "type": "fix",
+          "sentence": "The police officer which helped me was kind.",
+          "correct": false,
+          "answer": "The police officer who helped me was kind.",
+          "explanation": "A police officer is a person, so use who (or that), not which."
+        },
+        {
+          "type": "fix",
+          "sentence": "The rocket who flew to the moon was huge.",
+          "correct": false,
+          "answer": "The rocket which flew to the moon was huge.",
+          "explanation": "A rocket is a thing, so use which (or that), not who."
+        },
+        {
+          "type": "fix",
+          "sentence": "I know a girl who wants to be an astronaut.",
+          "correct": true,
+          "answer": "I know a girl who wants to be an astronaut.",
+          "explanation": "Correct: a girl is a person, so who is right."
+        },
+        {
+          "type": "fix",
+          "sentence": "The man who he works at the fire station is my neighbor.",
+          "correct": false,
+          "answer": "The man who works at the fire station is my neighbor.",
+          "explanation": "Who already means the man, so we don't add he."
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "r1",
+      "title": "A Surprise in Class",
+      "genre": "story",
+      "text": "On Monday morning, Sara's class at her girls' school was having a science lesson. The students were drawing planets when someone knocked on the door. Their teacher, Ms. Amal, smiled. \"We have a special visitor today,\" she said.\n\nA woman in a blue jacket came in. \"Hello, everyone. I'm Dr. Huda, and I'm a robotics engineer,\" she said. The students were very excited. Dr. Huda showed them a photo of a robot which works on a satellite. \"My team designed this robot. It fixes small problems while the satellite is flying around Earth,\" she explained.\n\nSara put up her hand. \"Is your job difficult?\" she asked.\n\n\"Sometimes,\" said Dr. Huda. \"Last year, we were testing the robot when it suddenly stopped. We worked all night, and we found the problem. Every job needs hard work and teamwork.\"\n\nAt the end of the lesson, Dr. Huda played a video message from an astronaut who was living on the space station. Sara felt proud and happy. That evening, she told her mother, \"I want to be a robotics engineer too!\"",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "What were the students doing when the visitor knocked?",
+          "options": [
+            "drawing planets",
+            "watching a video",
+            "eating lunch"
+          ],
+          "answer": "drawing planets",
+          "explanation": "The story says they were drawing planets when someone knocked."
+        },
+        {
+          "type": "mc",
+          "prompt": "What is Dr. Huda's job?",
+          "options": [
+            "robotics engineer",
+            "astronaut",
+            "police officer"
+          ],
+          "answer": "robotics engineer",
+          "explanation": "She says, \"I'm a robotics engineer.\""
+        },
+        {
+          "type": "tf",
+          "statement": "The robot in the photo works on a satellite.",
+          "answer": true,
+          "explanation": "Dr. Huda showed a robot which works on a satellite."
+        },
+        {
+          "type": "tf",
+          "statement": "The robot never had any problems.",
+          "answer": false,
+          "explanation": "The robot suddenly stopped while they were testing it."
+        },
+        {
+          "type": "gap",
+          "prompt": "Dr. Huda says every job needs hard work and ___.",
+          "answer": "teamwork",
+          "explanation": "She says, \"Every job needs hard work and teamwork.\""
+        },
+        {
+          "type": "mc",
+          "prompt": "How did Sara feel at the end?",
+          "options": [
+            "proud and happy",
+            "bored and tired",
+            "angry and sad"
+          ],
+          "answer": "proud and happy",
+          "explanation": "The story says Sara felt proud and happy."
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "title": "The Missing Kitten",
+      "genre": "blog post",
+      "text": "Hi, I'm Reem! Something exciting happened to my family last week, and I want to tell you about it.\n\nOn Thursday evening, my little brother Omar was crying because his kitten, Lulu, was missing. We looked everywhere in the house and in the garden. Then, while I was looking out of the window, I heard a tiny \"meow\". Lulu was at the top of a very tall palm tree!\n\nMy dad called the fire station. Ten minutes later, a big red fire truck stopped in front of our house. A firefighter who was very tall climbed a ladder. Everyone was watching quietly. He was holding a towel, and he wrapped Lulu in it very gently. When he came down, all our neighbors clapped.\n\nThe next day, Omar recorded a video message for the firefighters. He said, \"Thank you for saving Lulu! You are heroes!\" The firefighters sent a message back with a photo of the fire truck.\n\nNow I understand that firefighters don't only stop fires. They help people and animals every day. I think their job is one of the most important jobs in our city.",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "Why was Omar crying?",
+          "options": [
+            "His kitten was missing.",
+            "He hurt his leg.",
+            "He lost his phone."
+          ],
+          "answer": "His kitten was missing.",
+          "explanation": "Omar was crying because Lulu was missing."
+        },
+        {
+          "type": "mc",
+          "prompt": "Where was Lulu?",
+          "options": [
+            "at the top of a palm tree",
+            "under a car",
+            "in the garden pool"
+          ],
+          "answer": "at the top of a palm tree",
+          "explanation": "Reem saw Lulu at the top of a very tall palm tree."
+        },
+        {
+          "type": "tf",
+          "statement": "Reem's dad called the police station.",
+          "answer": false,
+          "explanation": "He called the fire station, not the police station."
+        },
+        {
+          "type": "gap",
+          "prompt": "The firefighter wrapped Lulu in a ___.",
+          "answer": "towel",
+          "explanation": "He was holding a towel and wrapped Lulu in it."
+        },
+        {
+          "type": "tf",
+          "statement": "Omar sent a video message to say thank you.",
+          "answer": true,
+          "explanation": "Omar recorded a video message for the firefighters."
+        },
+        {
+          "type": "mc",
+          "prompt": "What does Reem think about firefighters now?",
+          "options": [
+            "Their job is very important.",
+            "Their job is easy.",
+            "They only stop fires."
+          ],
+          "answer": "Their job is very important.",
+          "explanation": "She thinks it is one of the most important jobs in the city."
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "title": "Mom Saves the Website",
+      "genre": "diary",
+      "text": "Tuesday, March 14\n\nDear Diary,\n\nToday was a strange day! I was doing my math homework after school when Uncle Khalid called. He has a small business which sells dates and coffee online. He sounded very worried. \"My website isn't working, and some customer information is missing!\" he said.\n\nMy mom is a cybersecurity analyst. Her job is to keep computers and information safe from attacks. She opened her laptop right away. While she was checking the website, I was sitting quietly next to her. She showed me some strange messages that came from another country.\n\n\"Someone tried to get into the website,\" Mom explained. \"But don't worry. The information isn't lost. It was only hidden.\" She worked for two hours, and at eight o'clock the website was working again!\n\nLater, Uncle Khalid sent us a video message. He said, \"Thank you! You are the person who saved my business!\"\n\nAfter dinner, Mom told me about her friend Nouf. She is an AI specialist who designs programs with artificial intelligence. These programs can find attacks very fast. Maybe one day I will have a job like Mom's.\n\nLama",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "What was Lama doing when Uncle Khalid called?",
+          "options": [
+            "doing her math homework",
+            "watching TV",
+            "eating dinner"
+          ],
+          "answer": "doing her math homework",
+          "explanation": "Lama writes, \"I was doing my math homework after school when Uncle Khalid called.\""
+        },
+        {
+          "type": "mc",
+          "prompt": "What does Uncle Khalid's business sell?",
+          "options": [
+            "dates and coffee",
+            "phones and laptops",
+            "books and toys"
+          ],
+          "answer": "dates and coffee",
+          "explanation": "The diary says his business sells dates and coffee online."
+        },
+        {
+          "type": "tf",
+          "statement": "Lama's mom keeps computers and information safe from attacks.",
+          "answer": true,
+          "explanation": "She is a cybersecurity analyst, and her job is to keep computers and information safe from attacks."
+        },
+        {
+          "type": "tf",
+          "statement": "The customer information was lost forever.",
+          "answer": false,
+          "explanation": "Mom says, \"The information isn't lost. It was only hidden.\""
+        },
+        {
+          "type": "gap",
+          "prompt": "Nouf is an AI specialist ___ designs programs with artificial intelligence.",
+          "bank": [
+            "who",
+            "which",
+            "where"
+          ],
+          "answer": [
+            "who",
+            "that"
+          ],
+          "explanation": "The text says \"an AI specialist who designs programs\", and we use who for people."
+        },
+        {
+          "type": "mc",
+          "prompt": "How did Uncle Khalid say thank you?",
+          "options": [
+            "He sent a video message.",
+            "He visited their house.",
+            "He wrote a letter."
+          ],
+          "answer": "He sent a video message.",
+          "explanation": "The diary says Uncle Khalid sent them a video message to say thank you."
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "title": "Ten Minutes with an Astronaut",
+      "genre": "interview",
+      "text": "Last week, Captain Majed, a Saudi astronaut, visited our boys' school in Riyadh. Omar and Fahad from Grade 6 interviewed him for the school newsletter.\n\nOmar: When did you first want to go to space?\nCaptain Majed: When I was ten, I was watching TV with my father when a rocket took off. I said, \"One day, that will be me!\"\n\nFahad: What was your job on the space station?\nCaptain Majed: I was part of a team that did science tests. For example, we grew small plants which can live without soil. We also checked a satellite that sends weather pictures to Earth.\n\nOmar: What was the most exciting moment?\nCaptain Majed: One night, I was looking out of the window while the others were sleeping. Suddenly, I saw the lights of Jeddah and the Red Sea. Our planet looked so beautiful!\n\nFahad: Did you miss your family?\nCaptain Majed: Yes, very much. Every Friday, my children recorded a video message for me.\n\nOmar: What is your advice for us?\nCaptain Majed: Study science and math, and never stop asking questions. The astronauts who will fly into space in the future are sitting in classrooms like yours today!",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "What was Captain Majed doing when he saw a rocket take off?",
+          "options": [
+            "watching TV with his father",
+            "reading a book",
+            "playing football"
+          ],
+          "answer": "watching TV with his father",
+          "explanation": "He says, \"I was watching TV with my father when a rocket took off.\""
+        },
+        {
+          "type": "tf",
+          "statement": "The plants on the space station grew in soil.",
+          "answer": false,
+          "explanation": "The team grew small plants which can live without soil."
+        },
+        {
+          "type": "tf",
+          "statement": "The satellite sends weather pictures to Earth.",
+          "answer": true,
+          "explanation": "Captain Majed checked a satellite that sends weather pictures to Earth."
+        },
+        {
+          "type": "mc",
+          "prompt": "What did he see from the window one night?",
+          "options": [
+            "the lights of Jeddah and the Red Sea",
+            "a red planet",
+            "another rocket"
+          ],
+          "answer": "the lights of Jeddah and the Red Sea",
+          "explanation": "He says he suddenly saw the lights of Jeddah and the Red Sea."
+        },
+        {
+          "type": "gap",
+          "prompt": "Every Friday, his children recorded a ___ for him.",
+          "answer": [
+            "video message",
+            "video"
+          ],
+          "explanation": "He says his children recorded a video message for him every Friday."
+        },
+        {
+          "type": "mc",
+          "prompt": "In \"we grew small plants which can live without soil\", what does which refer to?",
+          "options": [
+            "the plants",
+            "the team",
+            "the space station"
+          ],
+          "answer": "the plants",
+          "explanation": "Which comes right after small plants and tells us which plants: plants are things, so we use which."
+        }
+      ]
+    },
+    {
+      "id": "r5",
+      "title": "Fast Help at the Bakery",
+      "genre": "news report",
+      "text": "JEDDAH, Saturday: Firefighters, police officers and paramedics worked together yesterday morning after a small fire started in a bakery on Palm Street.\n\nAt about seven o'clock, the bakers were making bread for the busy weekend when smoke came out of an old oven. One baker, Mr. Yasser, called the emergency number. \"We were working fast, and suddenly the kitchen was full of smoke,\" he said.\n\nThe fire station is only two streets away, so the fire truck arrived in four minutes. The firefighters who came were quick and calm. They put out the fire in ten minutes. While they were working, two police officers closed the street and kept people away from the shop.\n\nAn ambulance came too. A young baker who was coughing went to the hospital, but he is fine now.\n\nLater, a little girl was missing in the crowd, and her mother was very scared. A police officer found her near a juice shop and brought her back to her mother.\n\nMr. Yasser's business is going to open again next week. \"I want to thank the people who helped us,\" he said. \"They are real heroes.\"",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "What were the bakers doing when the smoke came out of the oven?",
+          "options": [
+            "making bread",
+            "cleaning the kitchen",
+            "selling cakes"
+          ],
+          "answer": "making bread",
+          "explanation": "The report says the bakers were making bread when smoke came out of an old oven."
+        },
+        {
+          "type": "tf",
+          "statement": "The fire truck arrived quickly because the fire station is near the bakery.",
+          "answer": true,
+          "explanation": "The fire station is only two streets away, so the fire truck arrived in four minutes."
+        },
+        {
+          "type": "tf",
+          "statement": "The police officers put out the fire.",
+          "answer": false,
+          "explanation": "The firefighters put out the fire, and the police officers closed the street."
+        },
+        {
+          "type": "mc",
+          "prompt": "Who went to the hospital?",
+          "options": [
+            "a young baker who was coughing",
+            "Mr. Yasser",
+            "the little girl"
+          ],
+          "answer": "a young baker who was coughing",
+          "explanation": "The report says a young baker who was coughing went to the hospital."
+        },
+        {
+          "type": "gap",
+          "prompt": "A police officer found the missing girl near a ___.",
+          "answer": "juice shop",
+          "explanation": "The report says a police officer found her near a juice shop."
+        },
+        {
+          "type": "mc",
+          "prompt": "In \"The firefighters who came were quick and calm\", why does the writer use who?",
+          "options": [
+            "because firefighters are people",
+            "because firefighters are things",
+            "because it is a place"
+          ],
+          "answer": "because firefighters are people",
+          "explanation": "We use who for people, so the text says the firefighters who came."
+        }
+      ]
+    }
+  ],
+  "wordWork": {
+    "title": "Open and closed compound nouns",
+    "rule": "A compound noun is two words joined to make a new noun. Closed compounds are written as one word (firefighter), and open compounds are written as two words (fire truck).",
+    "items": [
+      {
+        "type": "gap",
+        "prompt": "fire + fighter = ___ (one word)",
+        "answer": "firefighter",
+        "explanation": "Firefighter is a closed compound: we write it as one word."
+      },
+      {
+        "type": "gap",
+        "prompt": "police + station = ___ (two words)",
+        "answer": "police station",
+        "explanation": "Police station is an open compound: we write two words."
+      },
+      {
+        "type": "mc",
+        "prompt": "Which is a closed compound noun?",
+        "options": [
+          "firefighter",
+          "fire truck",
+          "police officer"
+        ],
+        "answer": "firefighter",
+        "explanation": "Firefighter is one word, so it is closed. The others are two words."
+      },
+      {
+        "type": "mc",
+        "prompt": "Which is an open compound noun?",
+        "options": [
+          "video message",
+          "website",
+          "lifeguard"
+        ],
+        "answer": "video message",
+        "explanation": "Video message is written as two words, so it is open."
+      },
+      {
+        "type": "mc",
+        "prompt": "Which compound noun is a person?",
+        "options": [
+          "police officer",
+          "police station",
+          "fire truck"
+        ],
+        "answer": "police officer",
+        "explanation": "The second word, officer, tells us it is a person."
+      },
+      {
+        "type": "gap",
+        "prompt": "A ___ is a person who guards swimmers at the beach. (life + guard)",
+        "answer": "lifeguard",
+        "explanation": "Life + guard makes the closed compound lifeguard."
+      },
+      {
+        "type": "gap",
+        "prompt": "A ___ is a place where you buy books. (book + store)",
+        "answer": "bookstore",
+        "explanation": "Book + store makes the closed compound bookstore."
+      },
+      {
+        "type": "mc",
+        "prompt": "What is a fire station?",
+        "options": [
+          "a building for firefighters",
+          "a truck that carries water",
+          "a person who stops fires"
+        ],
+        "answer": "a building for firefighters",
+        "explanation": "The second word, station, tells us it is a place."
+      },
+      {
+        "type": "gap",
+        "prompt": "A ___ is a vest that keeps you safe in the water. (life + jacket)",
+        "answer": "life jacket",
+        "explanation": "Life jacket is an open compound: two words."
+      }
+    ]
+  },
+  "writing": [
+    {
+      "prompt": "Write about an exciting or unusual message you got or sent. What happened?",
+      "hint": "Use the Simple Past and Past Progressive with when / while. Say how you felt.",
+      "minWords": 50,
+      "model": "Last summer, my family was traveling to AlUla. We were driving through the desert when my phone beeped. It was a video message from my cousin Sara. She was standing in front of a rocket at a space museum! She said, \"I'm going to be an astronaut one day!\" I felt very happy for her, so I sent her a message back."
+    },
+    {
+      "prompt": "Describe a job that helps people. Who does it, and why is it important?",
+      "hint": "Use who / which / that. Use words like ambulance, police officer, firefighter.",
+      "minWords": 45,
+      "model": "A paramedic is a person who helps sick or hurt people. Paramedics drive an ambulance which has special machines inside. They often work at night. I think it is an important job because paramedics save lives. My neighbor is a paramedic who works in Riyadh, and she is very brave and kind."
+    }
+  ],
+  "speaking": [
+    "An astronaut is a person who travels into space.",
+    "Sara was traveling to AlUla when she recorded her video message.",
+    "The firefighter who climbed the tree saved the kitten.",
+    "A satellite is a machine which goes around Earth.",
+    "I was doing my homework when the phone rang.",
+    "My uncle is a robotics engineer who designs robots.",
+    "The ambulance arrived while the police officer was helping the man.",
+    "Every job is important, so we should thank the people who help us."
+  ]
+}

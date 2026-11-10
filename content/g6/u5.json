@@ -1,0 +1,1123 @@
+{
+  "id": "u5",
+  "unit": 5,
+  "title": "World Sports",
+  "emoji": "🏆",
+  "color": "#c2255c",
+  "bigQuestion": "How are sports around the world different, and how do we choose the best one for us?",
+  "summary": "Students learn words for sports, competitions and snow sports, compare things with comparatives, superlatives and (not) as ... as, understand compound words, and think about pros and cons before making a decision.",
+  "warmup": [
+    "What is your favorite sport? Why do you like it?",
+    "Have you ever watched a match in a stadium? How did you feel?",
+    "Which sports do people play in the snow?",
+    "Is it more important to win or to have fun?",
+    "Which sport do you think is the most difficult? Why?"
+  ],
+  "vocab": [
+    {
+      "word": "competition",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Competitions",
+      "meaning": "an event where people try to win a prize",
+      "example": "Our school has a reading competition every year.",
+      "emoji": "🏆"
+    },
+    {
+      "word": "enter",
+      "pos": "verb",
+      "set": 1,
+      "cat": "Competitions",
+      "meaning": "to join a competition or race",
+      "example": "Omar wants to enter the cycling race next month.",
+      "emoji": "📝"
+    },
+    {
+      "word": "match",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Competitions",
+      "meaning": "a game between two players or two teams",
+      "example": "The football match starts at eight o'clock.",
+      "emoji": "⚽"
+    },
+    {
+      "word": "quiz",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Competitions",
+      "meaning": "a game or short test where you answer questions",
+      "example": "Nouf answered every question in the sports quiz.",
+      "emoji": "❓"
+    },
+    {
+      "word": "race",
+      "pos": "noun / verb",
+      "set": 1,
+      "cat": "Competitions",
+      "meaning": "a competition to see who is fastest; to compete in one",
+      "example": "Fahad and Khalid like to race their bikes. Fahad won the race!",
+      "emoji": "🏁"
+    },
+    {
+      "word": "team",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Competitions",
+      "meaning": "a group of people who play or work together",
+      "example": "There are six players on a volleyball team.",
+      "emoji": "👥"
+    },
+    {
+      "word": "winner",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Competitions",
+      "meaning": "the person or team that wins",
+      "example": "The winner of the quiz got a new book.",
+      "emoji": "🥇"
+    },
+    {
+      "word": "stadium",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Things and places",
+      "meaning": "a big place with seats where people watch sports",
+      "example": "Thousands of fans were cheering in the stadium.",
+      "emoji": "🏟️"
+    },
+    {
+      "word": "tickets",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Things and places",
+      "meaning": "pieces of paper that let you go into an event",
+      "example": "Dad bought four tickets for the match.",
+      "emoji": "🎟️"
+    },
+    {
+      "word": "tire",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Things and places",
+      "meaning": "the rubber ring around the wheel of a car or bike",
+      "example": "My bike has a flat tire, so I can't ride it.",
+      "emoji": "🛞"
+    },
+    {
+      "word": "whistle",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Things and places",
+      "meaning": "a small thing you blow to make a loud, high sound",
+      "example": "The coach blew the whistle, and the game started.",
+      "emoji": "📣"
+    },
+    {
+      "word": "hotel",
+      "pos": "noun",
+      "set": 2,
+      "cat": "Things and places",
+      "meaning": "a building where you pay to sleep when you travel",
+      "example": "We stayed in a hotel near the sea in Jeddah.",
+      "emoji": "🏨"
+    },
+    {
+      "word": "sled",
+      "pos": "noun",
+      "set": 2,
+      "cat": "Things and places",
+      "meaning": "a small vehicle you sit on to slide down snow",
+      "example": "The children went down the snowy hill on a sled.",
+      "emoji": "🛷"
+    },
+    {
+      "word": "snowboard",
+      "pos": "noun",
+      "set": 2,
+      "cat": "Things and places",
+      "meaning": "a long, wide board you stand on to slide on snow",
+      "example": "Sara's snowboard is blue and white.",
+      "emoji": "🛹"
+    },
+    {
+      "word": "volleyball",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Sports",
+      "meaning": "a game where two teams hit a ball over a high net",
+      "example": "We play volleyball on the beach in the evening.",
+      "emoji": "🏐"
+    },
+    {
+      "word": "golf",
+      "pos": "noun",
+      "set": 2,
+      "cat": "Sports",
+      "meaning": "a game where you hit a small ball into holes with a club",
+      "example": "My grandfather plays golf every Friday morning.",
+      "emoji": "⛳"
+    },
+    {
+      "word": "cycling",
+      "pos": "noun",
+      "set": 2,
+      "cat": "Sports",
+      "meaning": "the sport or activity of riding a bike",
+      "example": "Cycling is a great way to stay healthy.",
+      "emoji": "🚴"
+    },
+    {
+      "word": "ice skating",
+      "pos": "noun",
+      "set": 2,
+      "cat": "Sports",
+      "meaning": "moving on ice in special boots with metal blades",
+      "example": "Reem tried ice skating at the mall in Riyadh.",
+      "emoji": "⛸️"
+    },
+    {
+      "word": "skiing",
+      "pos": "noun",
+      "set": 2,
+      "cat": "Sports",
+      "meaning": "moving over snow on two long, thin boards",
+      "example": "Skiing is difficult, but it is a lot of fun.",
+      "emoji": "⛷️"
+    },
+    {
+      "word": "snowboarding",
+      "pos": "noun",
+      "set": 2,
+      "cat": "Sports",
+      "meaning": "the sport of going down snowy hills on a snowboard",
+      "example": "My cousin loves snowboarding in the mountains.",
+      "emoji": "🏂"
+    },
+    {
+      "word": "cycle",
+      "pos": "verb",
+      "set": 2,
+      "cat": "Useful words",
+      "meaning": "to ride a bike",
+      "example": "Khalid and his dad cycle to the park on weekends.",
+      "emoji": "🚲"
+    },
+    {
+      "word": "sell",
+      "pos": "verb",
+      "set": 1,
+      "cat": "Useful words",
+      "meaning": "to give something to someone for money",
+      "example": "The shop near the stadium sells team shirts.",
+      "emoji": "🏷️"
+    },
+    {
+      "word": "soon",
+      "pos": "adverb",
+      "set": 1,
+      "cat": "Useful words",
+      "meaning": "in a short time from now",
+      "example": "Hurry up! The race will start soon.",
+      "emoji": "⏳"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "Comparatives and superlatives",
+      "rule": "Use a comparative (faster, more exciting) + than to compare two things. Use a superlative (the fastest, the most exciting) to say which one is number one in a group. Short words add -er / -est; long words use more / the most.",
+      "form": "short adj: fast → faster than → the fastest · long adj: exciting → more exciting than → the most exciting · adverbs: quickly → more quickly · good / well → better → the best · bad / badly → worse → the worst",
+      "examples": [
+        "A new snowboard is more expensive than a sled.",
+        "This is the biggest stadium in our city.",
+        "Nouf runs faster than her brother.",
+        "Khalid plays volleyball the best on our team."
+      ],
+      "items": [
+        {
+          "type": "mc",
+          "prompt": "This hotel costs only 100 riyals a night. It is the ___ hotel in town.",
+          "options": [
+            "cheapest",
+            "cheaper",
+            "cheap",
+            "most cheap"
+          ],
+          "answer": "cheapest",
+          "explanation": "Cheap is a short word, so the superlative is the cheapest."
+        },
+        {
+          "type": "mc",
+          "prompt": "Snowboards are ___ expensive than sleds.",
+          "options": [
+            "more",
+            "most",
+            "the most"
+          ],
+          "answer": "more",
+          "explanation": "Expensive is a long word. To compare two things we use more ... than."
+        },
+        {
+          "type": "mc",
+          "prompt": "Khalid runs ___ than Omar.",
+          "options": [
+            "faster",
+            "fastest",
+            "more fast",
+            "fast"
+          ],
+          "answer": "faster",
+          "explanation": "Fast is short, so the comparative is faster."
+        },
+        {
+          "type": "mc",
+          "prompt": "Nouf is the ___ player on the team.",
+          "options": [
+            "best",
+            "better",
+            "goodest",
+            "good"
+          ],
+          "answer": "best",
+          "explanation": "Good is irregular: good → better → the best."
+        },
+        {
+          "type": "mc",
+          "prompt": "Reem skis ___ carefully than her brother.",
+          "options": [
+            "more",
+            "most",
+            "the most"
+          ],
+          "answer": "more",
+          "explanation": "Carefully is a long adverb, so we compare with more ... than."
+        },
+        {
+          "type": "mc",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "This is the biggest stadium in Riyadh.",
+            "This is the most big stadium in Riyadh.",
+            "This is the bigest stadium in Riyadh."
+          ],
+          "answer": "This is the biggest stadium in Riyadh.",
+          "explanation": "Big is short: double the g and add -est → the biggest."
+        },
+        {
+          "type": "mc",
+          "prompt": "We lost again. Our team played ___ than last week.",
+          "options": [
+            "worse",
+            "worst",
+            "badder"
+          ],
+          "answer": "worse",
+          "explanation": "Bad / badly is irregular: worse → the worst."
+        },
+        {
+          "type": "gap",
+          "prompt": "I fall down a lot on the ice. Ice skating is ___ than cycling for me.",
+          "hint": "(difficult)",
+          "answer": "more difficult",
+          "explanation": "Difficult is a long word, so we say more difficult than."
+        },
+        {
+          "type": "gap",
+          "prompt": "Who is the ___ runner in your class?",
+          "hint": "(fast)",
+          "answer": "fastest",
+          "explanation": "We compare one person with the whole class, so we use the superlative: the fastest."
+        },
+        {
+          "type": "gap",
+          "prompt": "The winner of the race ran ___ than everyone else.",
+          "hint": "(quickly)",
+          "answer": "more quickly",
+          "explanation": "Quickly is an adverb ending in -ly, so we use more quickly."
+        },
+        {
+          "type": "gap",
+          "prompt": "This is the ___ match of the year!",
+          "hint": "(exciting)",
+          "answer": "most exciting",
+          "explanation": "Exciting is a long word, so the superlative is the most exciting."
+        },
+        {
+          "type": "gap",
+          "prompt": "Your bike was 900 riyals, but mine was 300. My bike is ___ than yours.",
+          "hint": "(cheap)",
+          "answer": "cheaper",
+          "explanation": "Cheap is short: add -er → cheaper."
+        },
+        {
+          "type": "gap",
+          "prompt": "Sara plays volleyball ___ than me. She always wins.",
+          "hint": "(well)",
+          "answer": "better",
+          "explanation": "Well is irregular: well → better → the best."
+        },
+        {
+          "type": "gap",
+          "prompt": "Yesterday was the ___ day of the year. It was 48°C!",
+          "hint": "(hot)",
+          "answer": "hottest",
+          "explanation": "Hot ends in one vowel + one consonant, so double the t: the hottest."
+        },
+        {
+          "type": "gap",
+          "prompt": "Omar arrived at the stadium ___ than his friends.",
+          "hint": "(early)",
+          "answer": "earlier",
+          "explanation": "Early ends in -y, so change y to i and add -er: earlier."
+        },
+        {
+          "type": "order",
+          "answer": "Golf balls are smaller than footballs.",
+          "explanation": "Comparative + than: smaller than."
+        },
+        {
+          "type": "order",
+          "answer": "Fahad is the tallest player on the team.",
+          "explanation": "The + superlative + noun: the tallest player."
+        },
+        {
+          "type": "order",
+          "answer": "Nouf swims faster than her brother.",
+          "explanation": "Verb + comparative adverb + than: swims faster than."
+        },
+        {
+          "type": "order",
+          "answer": "This is the most beautiful stadium in the city.",
+          "explanation": "Long adjectives use the most: the most beautiful."
+        },
+        {
+          "type": "order",
+          "answer": "Which sport is the most popular in Saudi Arabia?",
+          "alt": [
+            "Which is the most popular sport in Saudi Arabia?"
+          ],
+          "explanation": "Question word + noun + is + the most + adjective."
+        },
+        {
+          "type": "transform",
+          "instruction": "Compare the two using faster.",
+          "prompt": "The train is fast. The bus is slow.",
+          "answer": [
+            "The train is faster than the bus."
+          ],
+          "explanation": "Comparative + than compares two things."
+        },
+        {
+          "type": "transform",
+          "instruction": "Rewrite with the superlative.",
+          "prompt": "No one in our class is taller than Khalid.",
+          "answer": [
+            "Khalid is the tallest in our class.",
+            "Khalid is the tallest student in our class.",
+            "Khalid is the tallest boy in our class.",
+            "Khalid is the tallest person in our class."
+          ],
+          "explanation": "If no one is taller, Khalid is the tallest."
+        },
+        {
+          "type": "transform",
+          "instruction": "Compare the two using more carefully.",
+          "prompt": "Reem rides her bike carefully. Her brother doesn't.",
+          "answer": [
+            "Reem rides her bike more carefully than her brother.",
+            "Reem rides her bike more carefully than her brother does."
+          ],
+          "explanation": "Adverbs ending in -ly use more ... than."
+        },
+        {
+          "type": "transform",
+          "instruction": "Rewrite with the superlative.",
+          "prompt": "No hotel in the city is more expensive than this hotel.",
+          "answer": [
+            "This hotel is the most expensive in the city.",
+            "This hotel is the most expensive hotel in the city.",
+            "This hotel is the most expensive one in the city.",
+            "This is the most expensive hotel in the city."
+          ],
+          "explanation": "If no hotel is more expensive, this one is the most expensive."
+        },
+        {
+          "type": "fix",
+          "sentence": "Golf is more slow than football.",
+          "correct": false,
+          "answer": "Golf is slower than football.",
+          "explanation": "Slow is a short word, so we say slower, not more slow."
+        },
+        {
+          "type": "fix",
+          "sentence": "She is the goodest player on the team.",
+          "correct": false,
+          "answer": "She is the best player on the team.",
+          "explanation": "Good is irregular: the superlative is the best."
+        },
+        {
+          "type": "fix",
+          "sentence": "Cycling is more tiring than walking.",
+          "correct": true,
+          "answer": "Cycling is more tiring than walking.",
+          "explanation": "Correct: tiring is a long word, so we use more ... than."
+        },
+        {
+          "type": "fix",
+          "sentence": "Omar runs more fast than me.",
+          "correct": false,
+          "answer": "Omar runs faster than me.",
+          "explanation": "Fast is short: faster, not more fast."
+        },
+        {
+          "type": "fix",
+          "sentence": "This is the most hard race of the year.",
+          "correct": false,
+          "answer": "This is the hardest race of the year.",
+          "explanation": "Hard is short, so the superlative is the hardest."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": "Comparisons with (not) as ... as",
+      "rule": "Use as + adjective / adverb + as when two things are the same. Use not as ... as when the first thing is less than the second. The adjective stays in its simple form: as tall as, not as taller as.",
+      "form": "A + is / are + as + adjective + as + B · A + isn't / aren't + as + adjective + as + B · A + verb + as + adverb + as + B",
+      "examples": [
+        "Omar is as strong as his brother.",
+        "Golf isn't as fast as football.",
+        "Reem can swim as well as Sara.",
+        "The hotel isn't as old as the castle."
+      ],
+      "items": [
+        {
+          "type": "mc",
+          "prompt": "My sled isn't ___ heavy as Omar's.",
+          "options": [
+            "as",
+            "than",
+            "more",
+            "the"
+          ],
+          "answer": "as",
+          "explanation": "The pattern is not as + adjective + as."
+        },
+        {
+          "type": "mc",
+          "prompt": "You're as strong ___ your dad.",
+          "options": [
+            "as",
+            "than",
+            "like",
+            "to"
+          ],
+          "answer": "as",
+          "explanation": "After as + adjective we use as again: as strong as."
+        },
+        {
+          "type": "mc",
+          "prompt": "Golf is not as ___ as football.",
+          "options": [
+            "fast",
+            "faster",
+            "fastest"
+          ],
+          "answer": "fast",
+          "explanation": "Between as ... as we use the simple adjective: fast."
+        },
+        {
+          "type": "mc",
+          "prompt": "Omar can run as ___ as Khalid.",
+          "options": [
+            "quickly",
+            "quicker",
+            "quickest"
+          ],
+          "answer": "quickly",
+          "explanation": "Run is a verb, so we use the adverb: as quickly as."
+        },
+        {
+          "type": "mc",
+          "prompt": "Sara and Nouf are the same height. Which sentence is true?",
+          "options": [
+            "Sara is as tall as Nouf.",
+            "Sara isn't as tall as Nouf.",
+            "Sara is taller than Nouf."
+          ],
+          "answer": "Sara is as tall as Nouf.",
+          "explanation": "As tall as means the same height."
+        },
+        {
+          "type": "mc",
+          "prompt": "\"Skiing isn't as easy as cycling.\" What does this mean?",
+          "options": [
+            "Cycling is easier.",
+            "Skiing is easier.",
+            "They are equally easy."
+          ],
+          "answer": "Cycling is easier.",
+          "explanation": "Not as easy as means skiing is less easy, so cycling is easier."
+        },
+        {
+          "type": "gap",
+          "prompt": "My sled is as fast ___ my brother's sled. They are the same.",
+          "answer": "as",
+          "explanation": "We complete the pattern with as: as fast as."
+        },
+        {
+          "type": "gap",
+          "prompt": "The hotel isn't as ___ as the stadium.",
+          "hint": "(big)",
+          "answer": "big",
+          "explanation": "Use the simple adjective between as ... as: as big as."
+        },
+        {
+          "type": "gap",
+          "prompt": "Ice skating ___ as dangerous as snowboarding.",
+          "hint": "(not / be)",
+          "answer": [
+            "isn't",
+            "is not"
+          ],
+          "explanation": "For the negative we use isn't / is not before as ... as."
+        },
+        {
+          "type": "gap",
+          "prompt": "Reem plays golf as ___ as her dad.",
+          "hint": "(good / well)",
+          "answer": "well",
+          "explanation": "Plays is a verb, so we need the adverb well."
+        },
+        {
+          "type": "gap",
+          "prompt": "This quiz was ___ difficult as the last one. Both were very hard.",
+          "answer": "as",
+          "explanation": "Both were the same, so we use as difficult as."
+        },
+        {
+          "type": "gap",
+          "prompt": "The match tickets ___ as expensive as I thought. They were cheap!",
+          "hint": "(not / be)",
+          "answer": [
+            "weren't",
+            "were not"
+          ],
+          "explanation": "Tickets is plural and it is the past, so we use weren't / were not."
+        },
+        {
+          "type": "gap",
+          "prompt": "Khalid can't swim as ___ as Fahad. Fahad is faster.",
+          "hint": "(fast)",
+          "answer": "fast",
+          "explanation": "Fast is both an adjective and an adverb: as fast as."
+        },
+        {
+          "type": "order",
+          "answer": "My bike is not as new as yours.",
+          "explanation": "Not as + adjective + as + the other thing."
+        },
+        {
+          "type": "order",
+          "answer": "Is volleyball as popular as football?",
+          "alt": [
+            "Is football as popular as volleyball?"
+          ],
+          "explanation": "Question: Is + A + as + adjective + as + B?"
+        },
+        {
+          "type": "order",
+          "answer": "Nouf can run as fast as Reem.",
+          "explanation": "Verb + as + adverb + as."
+        },
+        {
+          "type": "order",
+          "answer": "This hotel isn't as big as that one.",
+          "explanation": "Isn't as + adjective + as."
+        },
+        {
+          "type": "order",
+          "answer": "The red team played as well as the blue team.",
+          "alt": [
+            "The blue team played as well as the red team."
+          ],
+          "explanation": "Played is a verb, so we use the adverb: as well as."
+        },
+        {
+          "type": "transform",
+          "instruction": "Rewrite with not as ... as. Start with Golf.",
+          "prompt": "Football is more popular than golf.",
+          "answer": [
+            "Golf is not as popular as football.",
+            "Golf isn't as popular as football."
+          ],
+          "explanation": "If football is more popular, golf is not as popular as football."
+        },
+        {
+          "type": "transform",
+          "instruction": "Rewrite with as ... as. Start with Fahad.",
+          "prompt": "Fahad is 150 cm tall. Omar is 150 cm tall too.",
+          "answer": [
+            "Fahad is as tall as Omar."
+          ],
+          "explanation": "They are the same height, so we use as tall as."
+        },
+        {
+          "type": "transform",
+          "instruction": "Rewrite with not as ... as. Start with I.",
+          "prompt": "My brother is older than me.",
+          "answer": [
+            "I am not as old as my brother.",
+            "I'm not as old as my brother."
+          ],
+          "explanation": "Older than becomes not as old as, and we change the order."
+        },
+        {
+          "type": "transform",
+          "instruction": "Rewrite with not as ... as and fast. Start with The bus.",
+          "prompt": "The bus is slower than the train.",
+          "answer": [
+            "The bus is not as fast as the train.",
+            "The bus isn't as fast as the train."
+          ],
+          "explanation": "Slower than means the bus is not as fast as the train."
+        },
+        {
+          "type": "fix",
+          "sentence": "This sled isn't as heavy than that one.",
+          "correct": false,
+          "answer": "This sled isn't as heavy as that one.",
+          "explanation": "The pattern is as ... as, not as ... than."
+        },
+        {
+          "type": "fix",
+          "sentence": "Reem is as taller as her sister.",
+          "correct": false,
+          "answer": "Reem is as tall as her sister.",
+          "explanation": "Use the simple adjective between as ... as: tall, not taller."
+        },
+        {
+          "type": "fix",
+          "sentence": "Cycling is as fun as swimming.",
+          "correct": true,
+          "answer": "Cycling is as fun as swimming.",
+          "explanation": "Correct: as + adjective + as."
+        },
+        {
+          "type": "fix",
+          "sentence": "Omar is not as faster as Khalid.",
+          "correct": false,
+          "answer": "Omar is not as fast as Khalid.",
+          "explanation": "Use the simple adjective: as fast as."
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "r1",
+      "title": "The Desert Bike Race",
+      "genre": "story",
+      "text": "Every winter, there is a cycling race in AlUla. This year, Khalid and his best friend Omar decided to enter the race for young riders. They practiced every afternoon for three months.\n\nOn the day of the race, the weather was cooler than usual, and the sky was clear. Hundreds of people were watching. A man blew a whistle, and the riders started. Khalid was cycling faster than ever before. Soon he was in second place, just behind a tall boy in a red shirt.\n\nThen Khalid heard a loud noise. Omar's bike had a flat tire! Omar stopped at the side of the road. Khalid had a difficult choice. If he stopped, he couldn't win. If he didn't stop, his friend would be alone. Khalid stopped and gave Omar his small pump. Together, they fixed the tire in five minutes.\n\nKhalid and Omar didn't win. They finished in eleventh and twelfth place. But at the end, the organizers gave Khalid a special prize for the kindest rider. \"That was the hardest race of my life,\" Khalid said, smiling, \"and also the best day.\"",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "Where is the cycling race?",
+          "options": [
+            "in AlUla",
+            "in Jeddah",
+            "in Abha"
+          ],
+          "answer": "in AlUla",
+          "explanation": "The story says the race is in AlUla every winter."
+        },
+        {
+          "type": "tf",
+          "statement": "The boys practiced for three months.",
+          "answer": true,
+          "explanation": "They practiced every afternoon for three months."
+        },
+        {
+          "type": "mc",
+          "prompt": "Why did Omar stop?",
+          "options": [
+            "His bike had a flat tire.",
+            "He was tired.",
+            "He hurt his arm."
+          ],
+          "answer": "His bike had a flat tire.",
+          "explanation": "Khalid heard a loud noise because Omar's bike had a flat tire."
+        },
+        {
+          "type": "tf",
+          "statement": "Khalid won the race.",
+          "answer": false,
+          "explanation": "They didn't win. They finished in eleventh and twelfth place."
+        },
+        {
+          "type": "gap",
+          "prompt": "Khalid got a special prize for the kindest ___.",
+          "answer": "rider",
+          "explanation": "The organizers gave him a prize for the kindest rider."
+        },
+        {
+          "type": "mc",
+          "prompt": "What did Khalid think about when Omar stopped?",
+          "options": [
+            "the good and bad points of stopping",
+            "the price of a new bike",
+            "the weather"
+          ],
+          "answer": "the good and bad points of stopping",
+          "explanation": "He thought about what would happen if he stopped and if he didn't stop."
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "title": "Snow Sports or Beach Sports?",
+      "genre": "blog post",
+      "text": "Hello, sports fans! It's Sara again. Last month, my family stayed in a hotel in the mountains, and I tried two snow sports for the first time: skiing and snowboarding.\n\nOn the first day, I tried skiing. I liked it because you can see where you are going. But skiing isn't as easy as it looks! I fell down ten times. On the second day, I tried snowboarding. It was more difficult than skiing at first, but I learned quickly. By the end of the day, I was going down the hill faster than my brother. Snowboarding is my favorite snow sport now.\n\nBut which is better, snow sports or beach sports? Here are my pros and cons. Snow sports are more exciting, and the mountains are the most beautiful places I know. But they are expensive, and it is very cold! Beach volleyball is cheaper, and I can play it with my friends in Jeddah all year. It isn't as exciting as snowboarding, but it is easier to do every week.\n\nSo, my answer is: snowboarding for vacations and volleyball for every day! What do you think? Write your comments below.",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "Where did Sara's family stay?",
+          "options": [
+            "in a hotel in the mountains",
+            "in a tent at the beach",
+            "at her uncle's house"
+          ],
+          "answer": "in a hotel in the mountains",
+          "explanation": "Sara says they stayed in a hotel in the mountains."
+        },
+        {
+          "type": "tf",
+          "statement": "Sara thinks skiing is easier than it looks.",
+          "answer": false,
+          "explanation": "She says skiing isn't as easy as it looks."
+        },
+        {
+          "type": "gap",
+          "prompt": "By the end of the second day, Sara was faster than her ___.",
+          "answer": "brother",
+          "explanation": "She was going down the hill faster than her brother."
+        },
+        {
+          "type": "mc",
+          "prompt": "What is one con of snow sports for Sara?",
+          "options": [
+            "They are expensive.",
+            "They are boring.",
+            "The mountains are ugly."
+          ],
+          "answer": "They are expensive.",
+          "explanation": "She says snow sports are expensive and very cold."
+        },
+        {
+          "type": "tf",
+          "statement": "Sara can play beach volleyball all year.",
+          "answer": true,
+          "explanation": "She can play it with her friends in Jeddah all year."
+        },
+        {
+          "type": "mc",
+          "prompt": "What is Sara's final decision?",
+          "options": [
+            "snowboarding for vacations, volleyball every day",
+            "only skiing",
+            "no more sports"
+          ],
+          "answer": "snowboarding for vacations, volleyball every day",
+          "explanation": "Her answer is snowboarding for vacations and volleyball for every day."
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "title": "We Are the Winners!",
+      "genre": "e-mail",
+      "text": "Hi Lama,\n\nHow are you? I have great news! Our school volleyball team entered a big competition for girls' schools in Riyadh. Twelve teams played, and yesterday we played the final match at the city's new indoor stadium. Mom bought tickets for the whole family.\n\nThe other team was taller than us, and their best player hit the ball harder than anyone. In the first set, they were faster than us, and we lost. Our coach said, \"You are not as tall as them, but you can be smarter. Move the ball quickly!\" In the second and third sets, we played much better. When the referee blew the whistle at the end, the score was 2-1 to us. We were the winners!\n\nThe best part was the prize. Every player got a gold medal, and our team captain, Reem, got the biggest cup I have ever seen. Grandpa said it was the most exciting match of the year.\n\nNext month, there is a sports quiz at school, so I'm going to study hard. Are you going to enter the cycling race in Abha soon? Write back!\n\nLove,\nNouf",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "Where did Nouf's team play the final match?",
+          "options": [
+            "at the new indoor stadium",
+            "at the beach in Jeddah",
+            "in a hotel"
+          ],
+          "answer": "at the new indoor stadium",
+          "explanation": "Nouf says they played the final match at the city's new indoor stadium."
+        },
+        {
+          "type": "tf",
+          "statement": "The other team was shorter than Nouf's team.",
+          "answer": false,
+          "explanation": "Nouf writes that the other team was taller than them."
+        },
+        {
+          "type": "tf",
+          "statement": "Nouf's team won the final match.",
+          "answer": true,
+          "explanation": "The score was 2-1 to them, and Nouf says, \"We were the winners!\""
+        },
+        {
+          "type": "gap",
+          "prompt": "The coach said, \"You are not as tall ___ them.\"",
+          "bank": [
+            "as",
+            "than",
+            "like"
+          ],
+          "answer": "as",
+          "explanation": "We say not as + adjective + as, so the coach says \"not as tall as them\"."
+        },
+        {
+          "type": "mc",
+          "prompt": "Who got the biggest cup?",
+          "options": [
+            "Reem",
+            "Nouf",
+            "Lama"
+          ],
+          "answer": "Reem",
+          "explanation": "The team captain, Reem, got the biggest cup Nouf has ever seen."
+        },
+        {
+          "type": "mc",
+          "prompt": "What is happening at Nouf's school next month?",
+          "options": [
+            "a sports quiz",
+            "a cycling race",
+            "a golf competition"
+          ],
+          "answer": "a sports quiz",
+          "explanation": "Nouf says there is a sports quiz at school next month."
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "title": "Our Best Sports Day Ever",
+      "genre": "school newsletter",
+      "text": "Al-Noor Boys' School Newsletter: Sports Day Special\n\nLast Thursday was our school's Sports Day, and it was the best one ever! More than two hundred students took part, and many parents came to watch.\n\nThe first event was the cycling race around the school field. Khalid from Grade 6 was the winner. He cycled faster than all the older boys! His bike had new tires, but he says practice is more important than a new bike.\n\nNext, there was a mini golf competition. Golf isn't as fast as cycling, but it was just as exciting. Fahad hit the ball into the last hole with only one try, and everyone cheered.\n\nIn the afternoon, the teachers played volleyball against the Grade 6 team. The teachers were taller, but the students were quicker. The match was very close, and the teachers won by two points.\n\nThe day finished with a sports quiz. Omar's team answered the most questions correctly and won a prize.\n\nThank you to the parents who sold juice and snacks. They made 3,000 riyals for the school library. Our next Sports Day is in March. See you there!",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "Who won the cycling race?",
+          "options": [
+            "Khalid",
+            "Fahad",
+            "Omar"
+          ],
+          "answer": "Khalid",
+          "explanation": "The newsletter says Khalid from Grade 6 was the winner of the cycling race."
+        },
+        {
+          "type": "tf",
+          "statement": "Khalid thinks a new bike is more important than practice.",
+          "answer": false,
+          "explanation": "Khalid says practice is more important than a new bike."
+        },
+        {
+          "type": "gap",
+          "prompt": "Golf isn't as ___ as cycling, but it was just as exciting.",
+          "answer": "fast",
+          "explanation": "The text says \"Golf isn't as fast as cycling\": not as + adjective + as."
+        },
+        {
+          "type": "tf",
+          "statement": "The teachers won the volleyball match.",
+          "answer": true,
+          "explanation": "The match was very close, and the teachers won by two points."
+        },
+        {
+          "type": "mc",
+          "prompt": "How were the students better than the teachers at volleyball?",
+          "options": [
+            "They were quicker.",
+            "They were taller.",
+            "They were older."
+          ],
+          "answer": "They were quicker.",
+          "explanation": "The newsletter says the teachers were taller, but the students were quicker."
+        },
+        {
+          "type": "mc",
+          "prompt": "What did the parents sell?",
+          "options": [
+            "juice and snacks",
+            "tickets",
+            "sports shirts"
+          ],
+          "answer": "juice and snacks",
+          "explanation": "The newsletter thanks the parents who sold juice and snacks."
+        }
+      ]
+    },
+    {
+      "id": "r5",
+      "title": "Reem on Ice",
+      "genre": "story",
+      "text": "Reem only knew ice skating from TV. So when her aunt took her to the new ice rink in a mall in Jeddah, she was very excited.\n\nReem put on her skates and stepped onto the ice. Whoosh! She fell down at once. \"Ice skating is harder than riding a bike!\" she laughed. Her cousin Sara was skating around the rink easily. Sara went there every week, so she was much better than Reem.\n\n\"Hold my hand,\" said Sara. \"Bend your knees and take small steps.\" Slowly, Reem started to move. She was not as fast as Sara, but she didn't fall again.\n\nNear the end of the day, there was a short race for girls who were beginners. Reem decided to enter it. Her heart was beating fast when the coach blew the whistle. Reem skated carefully and didn't look at the other girls. She came third out of eight!\n\n\"You're the bravest beginner on the ice today,\" said her aunt.\n\nOn the way home, Reem asked, \"Can we come back soon? I want to be as good as Sara one day.\" Her aunt smiled. \"Of course. Next time, I'll buy the tickets online.\"",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "Where is the ice rink?",
+          "options": [
+            "in a mall in Jeddah",
+            "in a hotel in Abha",
+            "in a stadium in Riyadh"
+          ],
+          "answer": "in a mall in Jeddah",
+          "explanation": "The story says her aunt took her to the new ice rink in a mall in Jeddah."
+        },
+        {
+          "type": "tf",
+          "statement": "Reem fell down when she first stepped onto the ice.",
+          "answer": true,
+          "explanation": "The story says she stepped onto the ice and fell down at once."
+        },
+        {
+          "type": "tf",
+          "statement": "Reem was faster than Sara.",
+          "answer": false,
+          "explanation": "The story says Reem was not as fast as Sara."
+        },
+        {
+          "type": "mc",
+          "prompt": "What place did Reem get in the race?",
+          "options": [
+            "third",
+            "first",
+            "eighth"
+          ],
+          "answer": "third",
+          "explanation": "The story says she came third out of eight."
+        },
+        {
+          "type": "gap",
+          "prompt": "Her aunt said, \"You're the ___ beginner on the ice today.\"",
+          "hint": "(brave)",
+          "answer": "bravest",
+          "explanation": "Her aunt uses the superlative: brave becomes the bravest."
+        },
+        {
+          "type": "mc",
+          "prompt": "Why was Sara better at ice skating than Reem?",
+          "options": [
+            "She went to the rink every week.",
+            "She had new skates.",
+            "She was older than Reem."
+          ],
+          "answer": "She went to the rink every week.",
+          "explanation": "The story says Sara went there every week, so she was much better than Reem."
+        }
+      ]
+    }
+  ],
+  "wordWork": {
+    "title": "Compound words",
+    "rule": "A compound word is two small words put together to make a new word, like snow + board = snowboard. The two small words often help you guess the meaning.",
+    "items": [
+      {
+        "type": "gap",
+        "prompt": "snow + board = ___",
+        "answer": "snowboard",
+        "explanation": "Snow + board makes snowboard: a board you use on snow."
+      },
+      {
+        "type": "gap",
+        "prompt": "volley + ball = ___",
+        "answer": "volleyball",
+        "explanation": "Volley (to hit a ball in the air) + ball makes volleyball."
+      },
+      {
+        "type": "mc",
+        "prompt": "What is a racetrack?",
+        "options": [
+          "a place where people race",
+          "a person who wins a race",
+          "a ticket for a race"
+        ],
+        "answer": "a place where people race",
+        "explanation": "A track is a path for racing, so a racetrack is a place where people race."
+      },
+      {
+        "type": "mc",
+        "prompt": "Which word is a compound word?",
+        "options": [
+          "basketball",
+          "cycling",
+          "winner"
+        ],
+        "answer": "basketball",
+        "explanation": "Basket + ball are two words joined together."
+      },
+      {
+        "type": "gap",
+        "prompt": "A sport where you ride a board in the snow is ___.",
+        "answer": "snowboarding",
+        "explanation": "Snow + board + -ing makes the name of the sport."
+      },
+      {
+        "type": "mc",
+        "prompt": "Which two words make football?",
+        "options": [
+          "foot + ball",
+          "food + ball",
+          "foot + all"
+        ],
+        "answer": "foot + ball",
+        "explanation": "You kick the ball with your foot, so foot + ball."
+      },
+      {
+        "type": "gap",
+        "prompt": "The ___ is the line at the end of a race. (finish + line)",
+        "answer": "finish line",
+        "explanation": "Finish line is two words that make one idea: the line where the race finishes."
+      },
+      {
+        "type": "mc",
+        "prompt": "A golf club is ...",
+        "options": [
+          "a stick you use to hit a golf ball",
+          "a golf ball",
+          "a golf hotel"
+        ],
+        "answer": "a stick you use to hit a golf ball",
+        "explanation": "In golf, a club is the long stick you hit the ball with."
+      },
+      {
+        "type": "gap",
+        "prompt": "A ___ is a small ball for a game where you swing a racket. (tennis + ball)",
+        "answer": "tennis ball",
+        "explanation": "Tennis + ball makes tennis ball, written as two words."
+      }
+    ]
+  },
+  "writing": [
+    {
+      "prompt": "Write an online post comparing two sports you know.",
+      "hint": "Use comparatives, superlatives and (not) as ... as. Give one pro and one con for each sport.",
+      "minWords": 50,
+      "model": "I play football and volleyball. Football is more popular than volleyball in my school, and it is the most exciting sport to watch. But football is more tiring because you run a lot. Volleyball isn't as tiring as football, and you can play it on the beach. I think volleyball is better for hot days."
+    },
+    {
+      "prompt": "Write about a competition you entered or watched. What happened?",
+      "hint": "Use words like enter, team, race, winner, whistle. Say who was the fastest or the best.",
+      "minWords": 45,
+      "model": "Last year, I entered a running race at my school. There were twenty students in the race. When the teacher blew the whistle, we started. Fahad was the fastest runner, and he was the winner. I was slower than him, but I finished in fourth place. I was very happy and proud."
+    }
+  ],
+  "speaking": [
+    "Golf clubs are more expensive than footballs.",
+    "This is the biggest stadium in the city.",
+    "My sled isn't as fast as your snowboard.",
+    "Snowboarding is more exciting than skiing.",
+    "Nouf runs faster than her sister.",
+    "Volleyball is as fun as football.",
+    "The referee blew the whistle, and the match started.",
+    "Before I decide, I think about the pros and cons."
+  ]
+}

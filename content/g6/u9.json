@@ -1,0 +1,1218 @@
+{
+  "id": "u9",
+  "unit": 9,
+  "title": "Goodbye!",
+  "emoji": "👋",
+  "color": "#f08c00",
+  "bigQuestion": "What have we learned this year?",
+  "summary": "An end-of-year revision unit: students review words from the year and practice modals with the first conditional, Present Perfect vs past tenses, as ... as with future forms, and reported speech.",
+  "warmup": [
+    "What was your favorite day this school year?",
+    "What is the most interesting thing you learned in English this year?",
+    "Where would you like to go in the summer?",
+    "Have you ever seen snow?"
+  ],
+  "vocab": [
+    {
+      "word": "foggy",
+      "pos": "adjective",
+      "set": 1,
+      "cat": "Weather",
+      "meaning": "with thick cloud near the ground, so it's hard to see",
+      "example": "It was foggy, so Dad drove slowly.",
+      "emoji": "🌫️"
+    },
+    {
+      "word": "snowy",
+      "pos": "adjective",
+      "set": 1,
+      "cat": "Weather",
+      "meaning": "covered with snow, or with a lot of snow falling",
+      "example": "The mountains near Tabuk were snowy in January.",
+      "emoji": "🌨️"
+    },
+    {
+      "word": "storm",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Weather",
+      "meaning": "very bad weather with strong wind and rain",
+      "example": "The storm broke a tree in our street.",
+      "emoji": "⛈️"
+    },
+    {
+      "word": "stormy",
+      "pos": "adjective",
+      "set": 1,
+      "cat": "Weather",
+      "meaning": "with a lot of strong wind and rain",
+      "example": "It was a stormy night, so we stayed inside.",
+      "emoji": "🌩️"
+    },
+    {
+      "word": "warm",
+      "pos": "adjective",
+      "set": 1,
+      "cat": "Weather",
+      "meaning": "a little hot, in a nice way",
+      "example": "Take a warm jacket. It's cold at night.",
+      "emoji": "🌡️"
+    },
+    {
+      "word": "castle",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Places and directions",
+      "meaning": "a big old building with strong, high walls",
+      "example": "We visited the old castle in Tabuk.",
+      "emoji": "🏰"
+    },
+    {
+      "word": "hill",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Places and directions",
+      "meaning": "high land, smaller than a mountain",
+      "example": "The children ran up the sandy hill.",
+      "emoji": "🌄"
+    },
+    {
+      "word": "north",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Places and directions",
+      "meaning": "the direction toward the top of a map",
+      "example": "Tabuk is in the north of Saudi Arabia.",
+      "emoji": "⬆️"
+    },
+    {
+      "word": "concert",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Fun and free time",
+      "meaning": "a show where people sing or play music",
+      "example": "Our school had a concert for National Day.",
+      "emoji": "🎶"
+    },
+    {
+      "word": "festival",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Fun and free time",
+      "meaning": "a special event with food, shows and fun",
+      "example": "We went to the date festival in Buraydah.",
+      "emoji": "🎉"
+    },
+    {
+      "word": "magazine",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Fun and free time",
+      "meaning": "a thin book with articles and pictures, sold every month",
+      "example": "My dad buys a science magazine every month.",
+      "emoji": "📰"
+    },
+    {
+      "word": "microphone",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Fun and free time",
+      "meaning": "a device that makes your voice louder",
+      "example": "The principal spoke into the microphone.",
+      "emoji": "🎙️"
+    },
+    {
+      "word": "puzzle",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Fun and free time",
+      "meaning": "a game where you put pieces together or solve a problem",
+      "example": "We finished a 500-piece puzzle together.",
+      "emoji": "🧩"
+    },
+    {
+      "word": "race",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Fun and free time",
+      "meaning": "a competition to see who is the fastest",
+      "example": "Khalid came first in the running race.",
+      "emoji": "🏁"
+    },
+    {
+      "word": "snacks",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Fun and free time",
+      "meaning": "small amounts of food that you eat between meals",
+      "example": "We took snacks for the long drive.",
+      "emoji": "🍿"
+    },
+    {
+      "word": "snowboard",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Fun and free time",
+      "meaning": "a board you stand on to slide down snow",
+      "example": "He stood on his snowboard and slid down the hill.",
+      "emoji": "🏂"
+    },
+    {
+      "word": "snowboarding",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Fun and free time",
+      "meaning": "the sport of sliding down snow on a board",
+      "example": "Snowboarding is popular in cold countries.",
+      "emoji": "🏔️"
+    },
+    {
+      "word": "sunglasses",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Fun and free time",
+      "meaning": "dark glasses that protect your eyes from the sun",
+      "example": "Don't forget your sunglasses at the beach!",
+      "emoji": "🕶️"
+    },
+    {
+      "word": "adventure",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Adventures and accidents",
+      "meaning": "an exciting trip or experience",
+      "example": "Camping in the desert was a great adventure.",
+      "emoji": "🧭"
+    },
+    {
+      "word": "ambulance",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Adventures and accidents",
+      "meaning": "a vehicle that takes sick or hurt people to the hospital",
+      "example": "The ambulance arrived in five minutes.",
+      "emoji": "🚑"
+    },
+    {
+      "word": "embarrassed",
+      "pos": "adjective",
+      "set": 1,
+      "cat": "Adventures and accidents",
+      "meaning": "feeling shy or silly because of something you did",
+      "example": "I was embarrassed when I fell in front of my class.",
+      "emoji": "😳"
+    },
+    {
+      "word": "explode",
+      "pos": "verb",
+      "set": 1,
+      "cat": "Adventures and accidents",
+      "meaning": "to burst suddenly with a loud noise",
+      "example": "The balloon exploded with a loud bang!",
+      "emoji": "💥"
+    },
+    {
+      "word": "fire truck",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Adventures and accidents",
+      "meaning": "a big red truck that firefighters use",
+      "example": "The fire truck raced down the street.",
+      "emoji": "🚒"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ga",
+      "title": "Revision: must, have to, should and the first conditional",
+      "rule": "Must and have to show that something is necessary; have to is often a rule from someone else. Should gives advice. After all three, use the base verb. For a real possible future, use the first conditional: If + Simple Present, will + base verb.",
+      "form": "must / have to / should + base verb | If + subject + present verb, subject + will / won't + base verb",
+      "examples": [
+        "You must wear a helmet when you go snowboarding.",
+        "We have to leave before the storm.",
+        "You should bring some snacks.",
+        "If it's foggy, we will drive slowly.",
+        "If you don't wear gloves, your hands will get cold."
+      ],
+      "items": [
+        {
+          "type": "mc",
+          "prompt": "You ___ wear a helmet when you go snowboarding. It's the rule.",
+          "options": [
+            "have to",
+            "could",
+            "don't have to"
+          ],
+          "answer": "have to",
+          "explanation": "Have to is for a rule from someone else."
+        },
+        {
+          "type": "mc",
+          "prompt": "If it's stormy tomorrow, we ___ stay at home.",
+          "options": [
+            "will",
+            "are",
+            "would"
+          ],
+          "answer": "will",
+          "explanation": "First conditional: If + present, will + base verb."
+        },
+        {
+          "type": "mc",
+          "prompt": "If you ___ your sunglasses, your eyes will hurt.",
+          "options": [
+            "forget",
+            "will forget",
+            "forgot"
+          ],
+          "answer": "forget",
+          "explanation": "After if, use the Simple Present, not will."
+        },
+        {
+          "type": "mc",
+          "prompt": "It's getting foggy. We ___ go back now.",
+          "options": [
+            "should",
+            "should to",
+            "shoulds"
+          ],
+          "answer": "should",
+          "explanation": "Should + base verb, with no to and no -s."
+        },
+        {
+          "type": "gap",
+          "prompt": "If we leave now, we ___ be late for the concert.",
+          "hint": "(will not)",
+          "answer": [
+            "won't",
+            "will not"
+          ],
+          "explanation": "The result part uses will / won't + base verb."
+        },
+        {
+          "type": "gap",
+          "prompt": "If it ___ snowy, we will go snowboarding.",
+          "hint": "(be)",
+          "answer": "is",
+          "explanation": "After if, use the Simple Present: it is."
+        },
+        {
+          "type": "gap",
+          "prompt": "Fahad ___ to finish his puzzle before dinner.",
+          "bank": [
+            "has",
+            "must",
+            "should"
+          ],
+          "answer": "has",
+          "explanation": "Only has goes before to: has to."
+        },
+        {
+          "type": "gap",
+          "prompt": "You ___ call an ambulance if someone is badly hurt.",
+          "bank": [
+            "must",
+            "could not",
+            "can't"
+          ],
+          "answer": [
+            "must",
+            "should",
+            "have to"
+          ],
+          "explanation": "Must shows that something is very important to do."
+        },
+        {
+          "type": "order",
+          "answer": "You should bring warm clothes to the north.",
+          "explanation": "should + base verb (bring)."
+        },
+        {
+          "type": "order",
+          "answer": "We have to leave before the storm.",
+          "explanation": "have to + base verb (leave)."
+        },
+        {
+          "type": "transform",
+          "instruction": "Join the sentences with if. Start with: If it is foggy ...",
+          "prompt": "It is foggy. We will drive slowly.",
+          "answer": [
+            "If it is foggy, we will drive slowly.",
+            "If it is foggy we will drive slowly.",
+            "If it is foggy, we'll drive slowly.",
+            "If it is foggy we'll drive slowly."
+          ],
+          "explanation": "If + Simple Present, will + base verb."
+        },
+        {
+          "type": "transform",
+          "instruction": "Rewrite with has to.",
+          "prompt": "Reem must buy a ticket for the festival. (It's the festival's rule.)",
+          "answer": [
+            "Reem has to buy a ticket for the festival."
+          ],
+          "explanation": "For a rule from outside, use has to with she."
+        },
+        {
+          "type": "fix",
+          "sentence": "If it will snow, we will build a snowman.",
+          "correct": false,
+          "answer": "If it snows, we will build a snowman.",
+          "explanation": "Don't use will after if. Use the Simple Present: if it snows."
+        },
+        {
+          "type": "fix",
+          "sentence": "You must to rest after the race.",
+          "correct": false,
+          "answer": "You must rest after the race.",
+          "explanation": "No to after must."
+        },
+        {
+          "type": "fix",
+          "sentence": "If you feel cold, you should wear your gloves.",
+          "correct": true,
+          "answer": "If you feel cold, you should wear your gloves.",
+          "explanation": "Correct: if + present, should + base verb."
+        }
+      ]
+    },
+    {
+      "id": "gb",
+      "title": "Revision: Present Perfect vs Simple Past and Past Progressive",
+      "rule": "Use the Present Perfect (have/has + past participle) for the past without a time; use yet in questions and negatives. Use the Simple Past for a finished action at a known time (yesterday, last week, two days ago). Use the Past Progressive (was/were + -ing) for an action in progress when something else happened.",
+      "form": "have/has (not) + past participle (+ yet) | Simple Past + time word | was/were + verb-ing + when + Simple Past",
+      "examples": [
+        "Have you packed your snacks yet?",
+        "I haven't finished the puzzle yet.",
+        "We went to the festival last weekend.",
+        "I was snowboarding when I fell."
+      ],
+      "items": [
+        {
+          "type": "mc",
+          "prompt": "Have you packed your snacks ___?",
+          "options": [
+            "yet",
+            "yesterday",
+            "last week"
+          ],
+          "answer": "yet",
+          "explanation": "Present Perfect questions use yet, not a finished time."
+        },
+        {
+          "type": "mc",
+          "prompt": "We ___ to the festival last weekend.",
+          "options": [
+            "went",
+            "have gone",
+            "go"
+          ],
+          "answer": "went",
+          "explanation": "Last weekend is a finished time, so we use the Simple Past."
+        },
+        {
+          "type": "mc",
+          "prompt": "I ___ snowboarding when I hurt my knee.",
+          "options": [
+            "was",
+            "were",
+            "have"
+          ],
+          "answer": "was",
+          "explanation": "Past Progressive: I was + verb-ing."
+        },
+        {
+          "type": "mc",
+          "prompt": "Nouf hasn't read the new magazine ___.",
+          "options": [
+            "yet",
+            "ago",
+            "last night"
+          ],
+          "answer": "yet",
+          "explanation": "Present Perfect negatives use yet at the end."
+        },
+        {
+          "type": "gap",
+          "prompt": "I ___ the puzzle yet.",
+          "hint": "(not finish)",
+          "answer": [
+            "haven't finished",
+            "have not finished"
+          ],
+          "explanation": "With yet, use the Present Perfect: haven't finished."
+        },
+        {
+          "type": "gap",
+          "prompt": "Omar ___ a race two days ago.",
+          "hint": "(win)",
+          "answer": "won",
+          "explanation": "Two days ago is a finished time, so use the Simple Past: won."
+        },
+        {
+          "type": "gap",
+          "prompt": "While we ___ up the hill, the fog came down.",
+          "bank": [
+            "were climbing",
+            "have climbed",
+            "climb"
+          ],
+          "answer": "were climbing",
+          "explanation": "The climbing was in progress when the fog came: Past Progressive."
+        },
+        {
+          "type": "gap",
+          "prompt": "Has the fire truck ___ yet?",
+          "hint": "(arrive)",
+          "answer": "arrived",
+          "explanation": "Has + past participle: arrived."
+        },
+        {
+          "type": "order",
+          "answer": "Have you bought the concert tickets yet?",
+          "explanation": "Have + you + past participle ... yet?"
+        },
+        {
+          "type": "order",
+          "answer": "I was sleeping when the storm started.",
+          "explanation": "Past Progressive (was sleeping) + when + Simple Past (started)."
+        },
+        {
+          "type": "transform",
+          "instruction": "Make a question with yet.",
+          "prompt": "Khalid has finished his snacks.",
+          "answer": [
+            "Has Khalid finished his snacks yet?"
+          ],
+          "explanation": "Has + subject + past participle ... yet?"
+        },
+        {
+          "type": "transform",
+          "instruction": "Change to the Simple Past. Add yesterday at the end.",
+          "prompt": "I have seen an ambulance.",
+          "answer": [
+            "I saw an ambulance yesterday."
+          ],
+          "explanation": "With yesterday, use the Simple Past: saw."
+        },
+        {
+          "type": "fix",
+          "sentence": "I have gone to the concert last night.",
+          "correct": false,
+          "answer": "I went to the concert last night.",
+          "explanation": "Last night is a finished time, so use the Simple Past."
+        },
+        {
+          "type": "fix",
+          "sentence": "They were watching the race when it started to rain.",
+          "correct": true,
+          "answer": "They were watching the race when it started to rain.",
+          "explanation": "Correct: Past Progressive + when + Simple Past."
+        },
+        {
+          "type": "fix",
+          "sentence": "She didn't finished her puzzle yet.",
+          "correct": false,
+          "answer": "She hasn't finished her puzzle yet.",
+          "explanation": "With yet, use the Present Perfect: hasn't finished."
+        }
+      ]
+    },
+    {
+      "id": "gc",
+      "title": "Revision: as ... as and future forms",
+      "rule": "Use as + adjective + as when two things are the same, and not as ... as when they are different. Use be going to for plans and for things we can see will happen. Use will for quick decisions, offers and what we think will happen.",
+      "form": "(not) as + adjective + as | am/is/are + going to + base verb | will / won't + base verb",
+      "examples": [
+        "Today is as warm as yesterday.",
+        "This hill isn't as high as that one.",
+        "We're going to visit the castle tomorrow.",
+        "Look at the clouds! It's going to be stormy.",
+        "I'll carry the microphone for you."
+      ],
+      "items": [
+        {
+          "type": "mc",
+          "prompt": "This hill is ___ high as that one.",
+          "options": [
+            "as",
+            "more",
+            "than"
+          ],
+          "answer": "as",
+          "explanation": "Same: as + adjective + as."
+        },
+        {
+          "type": "mc",
+          "prompt": "Today isn't as ___ as yesterday.",
+          "options": [
+            "warm",
+            "warmer",
+            "warmest"
+          ],
+          "answer": "warm",
+          "explanation": "Use the normal adjective between as ... as."
+        },
+        {
+          "type": "mc",
+          "prompt": "Look at those dark clouds! It ___ rain.",
+          "options": [
+            "is going to",
+            "going to",
+            "are going to"
+          ],
+          "answer": "is going to",
+          "explanation": "We can see it will happen: it is going to + base verb."
+        },
+        {
+          "type": "mc",
+          "prompt": "\"This box is heavy!\" \"I ___ help you.\"",
+          "options": [
+            "will",
+            "am",
+            "going"
+          ],
+          "answer": "will",
+          "explanation": "An offer made right now uses will + base verb."
+        },
+        {
+          "type": "gap",
+          "prompt": "My brother is ___ tall as my dad now.",
+          "bank": [
+            "as",
+            "than",
+            "more"
+          ],
+          "answer": "as",
+          "explanation": "Same height: as tall as."
+        },
+        {
+          "type": "gap",
+          "prompt": "We ___ going to visit the festival on Friday.",
+          "hint": "(be)",
+          "answer": ["are", "'re"],
+          "explanation": "We + are + going to."
+        },
+        {
+          "type": "gap",
+          "prompt": "The old castle isn't as ___ as the new museum.",
+          "bank": [
+            "big",
+            "bigger",
+            "biggest"
+          ],
+          "answer": "big",
+          "explanation": "Use the normal adjective between as ... as."
+        },
+        {
+          "type": "gap",
+          "prompt": "I think it ___ be snowy in Tabuk tomorrow.",
+          "bank": [
+            "will",
+            "is",
+            "are"
+          ],
+          "answer": [
+            "will",
+            "is going to"
+          ],
+          "explanation": "Predictions with I think usually use will + base verb."
+        },
+        {
+          "type": "order",
+          "answer": "Khalid isn't as fast as me.",
+          "explanation": "not as + adjective + as."
+        },
+        {
+          "type": "order",
+          "answer": "We are going to watch the race.",
+          "explanation": "are + going to + base verb for a plan."
+        },
+        {
+          "type": "transform",
+          "instruction": "Rewrite with not as ... as. Start with: The hill ...",
+          "prompt": "The mountain is higher than the hill.",
+          "answer": [
+            "The hill isn't as high as the mountain.",
+            "The hill is not as high as the mountain."
+          ],
+          "explanation": "not as high as = lower than."
+        },
+        {
+          "type": "transform",
+          "instruction": "Make a plan with be going to.",
+          "prompt": "We / visit / the castle / next week",
+          "answer": [
+            "We are going to visit the castle next week.",
+            "We're going to visit the castle next week."
+          ],
+          "explanation": "Plans use am/is/are + going to + base verb."
+        },
+        {
+          "type": "fix",
+          "sentence": "This magazine is as interesting than that one.",
+          "correct": false,
+          "answer": "This magazine is as interesting as that one.",
+          "explanation": "Use as ... as, not as ... than."
+        },
+        {
+          "type": "fix",
+          "sentence": "Look! The sky is dark. It is going to be stormy.",
+          "correct": true,
+          "answer": "Look! The sky is dark. It is going to be stormy.",
+          "explanation": "Correct: we can see it will happen, so we use going to."
+        },
+        {
+          "type": "fix",
+          "sentence": "Sara are going to read a magazine.",
+          "correct": false,
+          "answer": "Sara is going to read a magazine.",
+          "explanation": "Sara is one person, so use is going to."
+        }
+      ]
+    },
+    {
+      "id": "gd",
+      "title": "Revision: reported speech",
+      "rule": "Use said (no person) or told + person to report what someone said, and asked to report a question. Move the verb back: Simple Present → Simple Past, Present Progressive → Past Progressive. For yes/no questions add if, and use normal word order after asked.",
+      "form": "said (that) + past verb | told + person + past verb | asked (+ person) + if / wh- word + subject + past verb",
+      "examples": [
+        "\"I'm embarrassed.\" → Sara said she was embarrassed.",
+        "\"We are buying snacks.\" → They told me they were buying snacks.",
+        "\"Do you like puzzles?\" → Omar asked me if I liked puzzles.",
+        "\"Where is the castle?\" → Reem asked where the castle was."
+      ],
+      "items": [
+        {
+          "type": "mc",
+          "prompt": "\"I am embarrassed.\" → Sara said she ___ embarrassed.",
+          "options": [
+            "was",
+            "were",
+            "am"
+          ],
+          "answer": "was",
+          "explanation": "Am moves back to was."
+        },
+        {
+          "type": "mc",
+          "prompt": "Fahad ___ us he was watching the race.",
+          "options": [
+            "told",
+            "said",
+            "asked"
+          ],
+          "answer": "told",
+          "explanation": "Told + person (us) for reporting a statement."
+        },
+        {
+          "type": "mc",
+          "prompt": "\"Do you like snowboarding?\" → Omar asked me ___ I liked snowboarding.",
+          "options": [
+            "if",
+            "that",
+            "what"
+          ],
+          "answer": "if",
+          "explanation": "Yes/no questions are reported with if."
+        },
+        {
+          "type": "mc",
+          "prompt": "\"Where is the castle?\" → Reem asked where the castle ___.",
+          "options": [
+            "was",
+            "is it",
+            "did"
+          ],
+          "answer": "was",
+          "explanation": "Subject first, then the verb moved back: the castle was."
+        },
+        {
+          "type": "gap",
+          "prompt": "\"I need a microphone.\" → The teacher said she ___ a microphone.",
+          "hint": "(need)",
+          "answer": "needed",
+          "explanation": "Need moves back to needed."
+        },
+        {
+          "type": "gap",
+          "prompt": "\"We are buying snacks.\" → They told me they ___ snacks.",
+          "hint": "(buy)",
+          "answer": "were buying",
+          "explanation": "Are buying moves back to were buying."
+        },
+        {
+          "type": "gap",
+          "prompt": "\"What time does the concert start?\" → Khalid asked what time the concert ___.",
+          "hint": "(start)",
+          "answer": "started",
+          "explanation": "Remove does and move start back to started."
+        },
+        {
+          "type": "gap",
+          "prompt": "Nouf ___ me she was going to the festival.",
+          "bank": [
+            "told",
+            "said",
+            "asked"
+          ],
+          "answer": "told",
+          "explanation": "Told + person (me) for reporting a statement."
+        },
+        {
+          "type": "order",
+          "answer": "He told me he loved the festival.",
+          "explanation": "told + me + he + past verb."
+        },
+        {
+          "type": "order",
+          "answer": "She asked if the road was foggy.",
+          "explanation": "asked + if + subject + was."
+        },
+        {
+          "type": "transform",
+          "instruction": "Report it. Start with: Omar said ...",
+          "prompt": "Omar: \"I'm reading a magazine.\"",
+          "answer": [
+            "Omar said he was reading a magazine.",
+            "Omar said that he was reading a magazine."
+          ],
+          "explanation": "I'm reading becomes he was reading."
+        },
+        {
+          "type": "transform",
+          "instruction": "Report the question. Start with: Mom asked ...",
+          "prompt": "Mom: \"Is it snowy in the north?\"",
+          "answer": [
+            "Mom asked if it was snowy in the north.",
+            "Mom asked whether it was snowy in the north."
+          ],
+          "explanation": "Yes/no question: asked if + it + was."
+        },
+        {
+          "type": "fix",
+          "sentence": "Reem said me she was cold.",
+          "correct": false,
+          "answer": "Reem told me she was cold.",
+          "explanation": "With a person (me), use told, not said."
+        },
+        {
+          "type": "fix",
+          "sentence": "He asked where was the ambulance.",
+          "correct": false,
+          "answer": "He asked where the ambulance was.",
+          "explanation": "In reported questions, the subject comes before the verb."
+        },
+        {
+          "type": "fix",
+          "sentence": "They told us they were watching the storm.",
+          "correct": true,
+          "answer": "They told us they were watching the storm.",
+          "explanation": "Correct: told + us + Past Progressive."
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "r1",
+      "title": "Snow in the North",
+      "genre": "story",
+      "text": "Last January, the news said it was snowy in the north of Saudi Arabia. Fahad's dad smiled. \"We're going to Tabuk this weekend!\" he said.\n\nFahad packed warm clothes, his gloves and a puzzle magazine for the long drive. His sister Nouf packed lots of snacks. \"If we get hungry, we'll have food,\" she said.\n\nOn the way, the weather changed. First it was foggy, and Dad had to drive slowly. Then the sky became dark. \"Is a storm coming?\" Nouf asked. Dad told her it was only a few clouds.\n\nWhen they arrived at the mountain, everything was white. Many families were playing in the snow. Some young men were snowboarding down a small hill. It was Fahad's first time in the snow, so he ran and jumped into it. It was much colder than he thought!\n\nFahad and Nouf had a race to the top of the hill. Nouf won, but Fahad didn't mind. That evening, they drank hot milk in the car and watched the snow fall. \"This is the best adventure ever,\" Fahad said.",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "Where did the family go?",
+          "options": [
+            "Tabuk",
+            "Jeddah",
+            "AlUla"
+          ],
+          "answer": "Tabuk",
+          "explanation": "Dad said, \"We're going to Tabuk this weekend!\""
+        },
+        {
+          "type": "tf",
+          "statement": "Nouf packed snacks for the trip.",
+          "answer": true,
+          "explanation": "His sister Nouf packed lots of snacks."
+        },
+        {
+          "type": "mc",
+          "prompt": "Why did Dad drive slowly?",
+          "options": [
+            "It was foggy.",
+            "The car was old.",
+            "Nouf was sleeping."
+          ],
+          "answer": "It was foggy.",
+          "explanation": "First it was foggy, and Dad had to drive slowly."
+        },
+        {
+          "type": "tf",
+          "statement": "A big storm came, and the family went home.",
+          "answer": false,
+          "explanation": "Dad said it was only a few clouds, and they arrived at the mountain."
+        },
+        {
+          "type": "gap",
+          "prompt": "Fahad and Nouf had a ___ to the top of the hill.",
+          "answer": "race",
+          "explanation": "They had a race to the top of the hill."
+        },
+        {
+          "type": "mc",
+          "prompt": "Who won the race?",
+          "options": [
+            "Nouf",
+            "Fahad",
+            "Dad"
+          ],
+          "answer": "Nouf",
+          "explanation": "The text says: \"Nouf won, but Fahad didn't mind.\""
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "title": "Our Year in Review",
+      "genre": "article",
+      "text": "What a year it has been for Class 6B! Before we say goodbye for the summer, our class magazine team asked students about their favorite moments.\n\nOmar said his favorite day was the science festival in March. \"Our model volcano exploded, and everyone screamed!\" he laughed. It was only baking soda, of course.\n\nKhalid told us that he was most proud of the school race. He trained hard all year, and he finished second. \"Next year, I'm going to win,\" he said.\n\nSaud said he was embarrassed at the National Day concert because his microphone didn't work at first. \"But the teacher fixed it, and I read my poem,\" he said. \"In the end, it was great.\"\n\nNot everything has gone perfectly. We haven't finished our big class puzzle yet. It has 1,000 pieces! We will finish it in Grade 7.\n\nThank you, teachers, for a wonderful year. We have learned so much. Enjoy the summer, and remember: if it's hot outside, you should drink lots of water!",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "What exploded at the science festival?",
+          "options": [
+            "a model volcano",
+            "a microphone",
+            "a fire truck"
+          ],
+          "answer": "a model volcano",
+          "explanation": "Omar said, \"Our model volcano exploded.\""
+        },
+        {
+          "type": "tf",
+          "statement": "Khalid won the school race.",
+          "answer": false,
+          "explanation": "He finished second."
+        },
+        {
+          "type": "mc",
+          "prompt": "Why was Saud embarrassed?",
+          "options": [
+            "His microphone didn't work at first.",
+            "He forgot his poem.",
+            "He was late for the concert."
+          ],
+          "answer": "His microphone didn't work at first.",
+          "explanation": "He was embarrassed because his microphone didn't work at first."
+        },
+        {
+          "type": "tf",
+          "statement": "The class has finished the big puzzle.",
+          "answer": false,
+          "explanation": "The text says: \"We haven't finished our big class puzzle yet.\""
+        },
+        {
+          "type": "gap",
+          "prompt": "Khalid said he was going to ___ the race next year.",
+          "answer": "win",
+          "explanation": "He said, \"Next year, I'm going to win.\""
+        },
+        {
+          "type": "mc",
+          "prompt": "What advice does the article give for the summer?",
+          "options": [
+            "drink lots of water when it's hot",
+            "read ten books",
+            "go snowboarding"
+          ],
+          "answer": "drink lots of water when it's hot",
+          "explanation": "It says: if it's hot outside, you should drink lots of water."
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "title": "The Storm at the Castle",
+      "genre": "story",
+      "text": "Last spring, Khalid's family visited his uncle in Abha. On Friday, they drove to see an old stone castle on top of a hill. Khalid wore his sunglasses because the morning was sunny and warm.\n\nThey were climbing the hill when the sky suddenly became dark. The wind was blowing hard. \"A storm is coming,\" Uncle Ali said. \"We should go back to the car now.\"\n\nWhile they were running down the hill, it started to rain heavily. They got into the car just in time. Khalid's little brother, Saad, was scared. Khalid told him the storm wasn't as dangerous as it looked. Then he took out a puzzle magazine and some snacks, and the boys played until the rain stopped.\n\nOn the way home, they saw a fire truck and an ambulance next to the road. Firefighters were moving a big tree off the road. Luckily, nobody was hurt.\n\nThat evening, Khalid wrote in his diary: \"I have never seen a storm like that before. Next time, I'm going to check the weather first. If the sky is stormy, we'll visit the castle another day!\"",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "Why did Khalid wear his sunglasses?",
+          "options": [
+            "The morning was sunny and warm.",
+            "It was snowy on the hill.",
+            "He was embarrassed."
+          ],
+          "answer": "The morning was sunny and warm.",
+          "explanation": "The story says he wore his sunglasses because the morning was sunny and warm."
+        },
+        {
+          "type": "tf",
+          "statement": "The sky became dark while the family was climbing the hill.",
+          "answer": true,
+          "explanation": "\"They were climbing the hill when the sky suddenly became dark.\""
+        },
+        {
+          "type": "mc",
+          "prompt": "What did Uncle Ali say?",
+          "options": [
+            "\"We should go back to the car now.\"",
+            "\"We must climb faster.\"",
+            "\"We'll wait inside the castle.\""
+          ],
+          "answer": "\"We should go back to the car now.\"",
+          "explanation": "Uncle Ali said a storm was coming and they should go back to the car."
+        },
+        {
+          "type": "gap",
+          "prompt": "Khalid told Saad the storm ___ as dangerous as it looked.",
+          "answer": [
+            "wasn't",
+            "was not"
+          ],
+          "explanation": "Khalid told him the storm wasn't as dangerous as it looked."
+        },
+        {
+          "type": "tf",
+          "statement": "Somebody was hurt by the big tree.",
+          "answer": false,
+          "explanation": "The story says, \"Luckily, nobody was hurt.\""
+        },
+        {
+          "type": "mc",
+          "prompt": "What is Khalid going to do next time?",
+          "options": [
+            "check the weather first",
+            "bring more snacks",
+            "drive the car himself"
+          ],
+          "answer": "check the weather first",
+          "explanation": "He wrote, \"Next time, I'm going to check the weather first.\""
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "title": "Fact File: Saudi Weather Surprises",
+      "genre": "fact file",
+      "text": "Many people think Saudi Arabia is always hot and sunny. That isn't true! Our country is very big, and the weather is different from place to place.\n\nThe North: In winter, it can be very cold in the north. Tabuk and the mountains near it sometimes get snow. On snowy days, families drive there to play and take photos. A few people even go snowboarding!\n\nThe South: Abha is high in the mountains, so it is not as hot as Riyadh in summer. It is often foggy in the mornings. If you drive there, you should drive slowly and turn on your lights. If you visit Abha in August, you will need a jacket in the evening.\n\nSandstorms: A sandstorm is a storm of wind and sand. In spring, there are sometimes big sandstorms in the center of the country. On stormy days, the sky turns orange, and it's hard to see. If there is a sandstorm, you must stay inside and close the windows.\n\nThe Coast: Jeddah is warm all year. Winter there is as warm as summer in many other countries!\n\nDid you know? Before your next adventure, check the weather. You might need gloves instead of sunglasses!",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "Where does it sometimes snow?",
+          "options": [
+            "in Tabuk",
+            "in Jeddah",
+            "in Riyadh"
+          ],
+          "answer": "in Tabuk",
+          "explanation": "The fact file says Tabuk and the mountains near it sometimes get snow."
+        },
+        {
+          "type": "tf",
+          "statement": "Abha is hotter than Riyadh in summer.",
+          "answer": false,
+          "explanation": "Abha is not as hot as Riyadh in summer."
+        },
+        {
+          "type": "gap",
+          "prompt": "In the mornings, Abha is often ___.",
+          "answer": "foggy",
+          "explanation": "The South section says it is often foggy in the mornings."
+        },
+        {
+          "type": "mc",
+          "prompt": "What must you do in a sandstorm?",
+          "options": [
+            "stay inside and close the windows",
+            "drive slowly with your lights on",
+            "go to the coast"
+          ],
+          "answer": "stay inside and close the windows",
+          "explanation": "If there is a sandstorm, you must stay inside and close the windows."
+        },
+        {
+          "type": "tf",
+          "statement": "Jeddah is warm all year.",
+          "answer": true,
+          "explanation": "The Coast section says Jeddah is warm all year."
+        },
+        {
+          "type": "gap",
+          "prompt": "If you visit Abha in August, you ___ a jacket in the evening.",
+          "answer": [
+            "will need",
+            "'ll need"
+          ],
+          "explanation": "This is a first conditional: If + Simple Present, will + base verb (will need)."
+        }
+      ]
+    },
+    {
+      "id": "r5",
+      "title": "The Day the Fire Truck Came",
+      "genre": "e-mail",
+      "text": "Hi Reem,\n\nGuess what? I've just finished Grade 6! I can't believe the year has gone so fast.\n\nIn our last week, something exciting happened at school. We were having our end-of-year party when the fire alarm rang. Everyone was surprised! We left our snacks and walked outside quickly. Then we saw a big red fire truck and an ambulance in the schoolyard.\n\nDon't worry, it was only a practice! A firefighter talked to us with a microphone. She told us that we must never use the elevator in a fire. She also said a fire could start from very small things, like a phone charger. Then the ambulance team showed us some first aid. I asked one of them if her job was scary. She said it was sometimes scary, but she loved helping people.\n\nMy summer plans? We're going to visit my grandma in the north, and then we'll go to a book festival in Riyadh. If I find a good puzzle book, I'll buy one for you!\n\nHave you finished your exams yet? Write back soon!\n\nLove,\nSara",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "What were the girls doing when the fire alarm rang?",
+          "options": [
+            "having their end-of-year party",
+            "taking an exam",
+            "reading in the library"
+          ],
+          "answer": "having their end-of-year party",
+          "explanation": "Sara writes, \"We were having our end-of-year party when the fire alarm rang.\""
+        },
+        {
+          "type": "tf",
+          "statement": "There was a real fire at the school.",
+          "answer": false,
+          "explanation": "Sara says, \"Don't worry, it was only a practice!\""
+        },
+        {
+          "type": "mc",
+          "prompt": "Who talked to the girls with a microphone?",
+          "options": [
+            "a firefighter",
+            "the principal",
+            "Sara's grandma"
+          ],
+          "answer": "a firefighter",
+          "explanation": "A firefighter talked to them with a microphone."
+        },
+        {
+          "type": "gap",
+          "prompt": "The firefighter said that they must never use the ___ in a fire.",
+          "answer": "elevator",
+          "explanation": "She told them that they must never use the elevator in a fire."
+        },
+        {
+          "type": "tf",
+          "statement": "The ambulance worker said her job was sometimes scary.",
+          "answer": true,
+          "explanation": "She said it was sometimes scary, but she loved helping people."
+        },
+        {
+          "type": "mc",
+          "prompt": "\"I asked one of them if her job was scary.\" What were Sara's exact words?",
+          "options": [
+            "\"Is your job scary?\"",
+            "\"Did you like your job?\"",
+            "\"Why is your job scary?\""
+          ],
+          "answer": "\"Is your job scary?\"",
+          "explanation": "A yes/no question is reported with asked + if, and the verb moves back: is becomes was."
+        }
+      ]
+    }
+  ],
+  "wordWork": {
+    "title": "Weather adjectives with -y",
+    "rule": "We can add -y to some weather nouns to make adjectives: storm → stormy, snow → snowy. If a short word ends in one vowel + one consonant, double the last letter first: fog → foggy, sun → sunny.",
+    "items": [
+      {
+        "type": "gap",
+        "prompt": "storm → ___",
+        "answer": "stormy",
+        "explanation": "Just add -y: stormy."
+      },
+      {
+        "type": "gap",
+        "prompt": "fog → ___",
+        "answer": "foggy",
+        "explanation": "Fog ends in vowel + consonant, so double the g: foggy."
+      },
+      {
+        "type": "gap",
+        "prompt": "snow → ___",
+        "answer": "snowy",
+        "explanation": "Snow ends in w, and we never double w: snowy."
+      },
+      {
+        "type": "gap",
+        "prompt": "sun → ___",
+        "answer": "sunny",
+        "explanation": "Sun ends in vowel + consonant, so double the n: sunny."
+      },
+      {
+        "type": "gap",
+        "prompt": "wind → ___",
+        "answer": "windy",
+        "explanation": "Just add -y: windy."
+      },
+      {
+        "type": "gap",
+        "prompt": "It's very ___ today. I can't see the hill!",
+        "bank": [
+          "foggy",
+          "fog",
+          "snow"
+        ],
+        "answer": "foggy",
+        "explanation": "After it's very, we need an adjective: foggy."
+      },
+      {
+        "type": "mc",
+        "prompt": "Which word is spelled correctly?",
+        "options": [
+          "foggy",
+          "fogy",
+          "foggey"
+        ],
+        "answer": "foggy",
+        "explanation": "Double the g and add -y: foggy."
+      },
+      {
+        "type": "mc",
+        "prompt": "There was a big ___ last night, with thunder and rain.",
+        "options": [
+          "storm",
+          "stormy",
+          "snowy"
+        ],
+        "answer": "storm",
+        "explanation": "After a big, we need a noun: storm."
+      },
+      {
+        "type": "mc",
+        "prompt": "Which word is a noun?",
+        "options": [
+          "snow",
+          "snowy",
+          "sunny"
+        ],
+        "answer": "snow",
+        "explanation": "Snow is a thing; snowy and sunny are adjectives."
+      }
+    ]
+  },
+  "writing": [
+    {
+      "prompt": "Write a story about a day when something went wrong at a festival or concert.",
+      "hint": "Use: First, ... After that, ... But ... In the end, ... Use the Past Progressive (We were walking when ...) and words like ambulance, microphone, embarrassed.",
+      "minWords": 60,
+      "model": "Last spring, my family went to a food festival in Jeddah. First, we ate snacks and watched a show. After that, we were walking to the car when my little brother fell and hurt his arm. He cried, and I was very worried. But a nurse at the festival helped him quickly. She told us it was only a small cut. In the end, my brother got a sticker and a big smile!"
+    },
+    {
+      "prompt": "Write a goodbye letter to your class about this school year.",
+      "hint": "Use: This year we have ..., My favorite day was ..., Next year I'm going to ..., You should ...",
+      "minWords": 50,
+      "model": "Dear Class 6A,\n\nWhat a great year! We have learned so many new words, and we have read lots of stories. My favorite day was the science festival, when our volcano exploded. Next year, I'm going to join the reading club. You should all enjoy the summer and read some books. I will miss you!\n\nReem"
+    }
+  ],
+  "speaking": [
+    "If it's stormy, we will stay inside.",
+    "You should take warm clothes to the north.",
+    "Have you packed your snacks yet?",
+    "I was snowboarding when I fell.",
+    "This hill isn't as high as that one.",
+    "We're going to visit the castle tomorrow.",
+    "She told me she was embarrassed.",
+    "He asked if the concert was starting."
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "id": "u7",
+  "unit": 7,
+  "title": "Styles",
+  "emoji": "👕",
+  "color": "#9c36b5",
+  "bigQuestion": "How do our clothes change with the seasons?",
+  "summary": "Students learn clothes, seasons and shopping words, report what people say with said/told, report questions with asked (if / wh-), and think about clothing waste and fast fashion.",
+  "warmup": [
+    "What do you like to wear in the winter?",
+    "Which season is your favorite? Why?",
+    "Do you like clothes with stripes or spots?",
+    "Where does your family buy clothes?",
+    "What do you do with clothes that don't fit you anymore?"
+  ],
+  "vocab": [
+    { "word": "fall", "pos": "noun", "set": 1, "cat": "Seasons and weather", "meaning": "the season between summer and winter (autumn)", "example": "The weather gets cooler in the fall.", "emoji": "🍂" },
+    { "word": "spring", "pos": "noun", "set": 1, "cat": "Seasons and weather", "meaning": "the season between winter and summer", "example": "In the spring, the desert has small flowers.", "emoji": "🌸" },
+    { "word": "summer", "pos": "noun", "set": 1, "cat": "Seasons and weather", "meaning": "the hottest season of the year", "example": "Riyadh is very hot in the summer.", "emoji": "☀️" },
+    { "word": "winter", "pos": "noun", "set": 1, "cat": "Seasons and weather", "meaning": "the coldest season of the year", "example": "It sometimes snows in Tabuk in the winter.", "emoji": "❄️" },
+    { "word": "warm", "pos": "adjective", "set": 1, "cat": "Seasons and weather", "meaning": "a little hot, in a nice way", "example": "My grandmother made me a warm jacket.", "emoji": "🌡️" },
+
+    { "word": "bracelet", "pos": "noun", "set": 1, "cat": "Clothes and accessories", "meaning": "a piece of jewelry you wear around your wrist", "example": "Nouf made a bracelet with blue beads.", "emoji": "📿" },
+    { "word": "flip-flops", "pos": "noun", "set": 1, "cat": "Clothes and accessories", "meaning": "light open shoes with a strap between your toes", "example": "I wear flip-flops at the beach in Jeddah.", "emoji": "🩴" },
+    { "word": "gloves", "pos": "noun", "set": 1, "cat": "Clothes and accessories", "meaning": "things you wear on your hands to keep them warm", "example": "Put on your gloves. It's cold outside!", "emoji": "🧤" },
+    { "word": "pajamas", "pos": "noun", "set": 1, "cat": "Clothes and accessories", "meaning": "soft, loose clothes that you sleep in", "example": "Omar is still wearing his pajamas at ten o'clock!", "emoji": "🛌" },
+    { "word": "sunglasses", "pos": "noun", "set": 1, "cat": "Clothes and accessories", "meaning": "dark glasses that protect your eyes from the sun", "example": "Dad always wears sunglasses when he drives.", "emoji": "🕶️" },
+    { "word": "sneakers", "pos": "noun", "set": 1, "cat": "Clothes and accessories", "meaning": "soft shoes for sports or walking", "example": "I need new sneakers for P.E. class.", "emoji": "👟" },
+    { "word": "handkerchief", "pos": "noun", "set": 2, "cat": "Clothes and accessories", "meaning": "a small square of cloth for your nose or face", "example": "Grandpa keeps a white handkerchief in his pocket.", "emoji": "🤧" },
+    { "word": "tank top", "pos": "noun", "set": 2, "cat": "Clothes and accessories", "meaning": "a shirt with no sleeves", "example": "My brother wears a tank top under his shirt.", "emoji": "🎽" },
+    { "word": "tracksuit", "pos": "noun", "set": 2, "cat": "Clothes and accessories", "meaning": "a matching jacket and pants for sports", "example": "Khalid wears a green tracksuit to football practice.", "emoji": "🏃" },
+
+    { "word": "pocket", "pos": "noun", "set": 1, "cat": "Patterns and parts", "meaning": "a small bag sewn into clothes for keeping things", "example": "My phone is in my jacket pocket.", "emoji": "👖" },
+    { "word": "spots", "pos": "noun", "set": 1, "cat": "Patterns and parts", "meaning": "small round marks of color, like dots", "example": "Sara's new scarf has white spots on it.", "emoji": "🐞" },
+    { "word": "stripes", "pos": "noun", "set": 1, "cat": "Patterns and parts", "meaning": "long, thin lines of color", "example": "A zebra has black and white stripes.", "emoji": "🦓" },
+
+    { "word": "baggy", "pos": "adjective", "set": 2, "cat": "Size and price", "meaning": "big and loose, not tight", "example": "These pants are too baggy for me.", "emoji": "🎈" },
+    { "word": "cheap", "pos": "adjective", "set": 2, "cat": "Size and price", "meaning": "costing only a little money", "example": "The socks were cheap, only five riyals.", "emoji": "🪙" },
+    { "word": "expensive", "pos": "adjective", "set": 2, "cat": "Size and price", "meaning": "costing a lot of money", "example": "That watch is too expensive for me.", "emoji": "💰" },
+    { "word": "fit", "pos": "verb", "set": 2, "cat": "Size and price", "meaning": "to be the right size for you", "example": "My old sneakers don't fit me anymore.", "emoji": "✅" },
+    { "word": "oversized", "pos": "adjective", "set": 2, "cat": "Size and price", "meaning": "bigger than the normal size", "example": "Reem likes wearing an oversized sweater at home.", "emoji": "🐘" },
+    { "word": "size", "pos": "noun", "set": 2, "cat": "Size and price", "meaning": "how big or small something is", "example": "What size shoes do you wear?", "emoji": "📏" },
+    { "word": "slim", "pos": "adjective", "set": 2, "cat": "Size and price", "meaning": "thin and narrow, not wide", "example": "These slim jeans are too tight for me.", "emoji": "🧍" }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "Reported speech with say and tell",
+      "rule": "When we tell someone what another person said, we use reported speech. We usually move the verb one step back: Simple Present becomes Simple Past, and Present Progressive becomes Past Progressive. Use tell with a person (told me, told us), but use say without a person (said).",
+      "form": "subject + said (that) + subject + past verb | subject + told + person + (that) + subject + past verb",
+      "examples": [
+        "\"I need new gloves.\" → Omar said he needed new gloves.",
+        "\"I'm wearing my warm jacket.\" → Sara told me she was wearing her warm jacket.",
+        "\"We like stripes.\" → They told us that they liked stripes.",
+        "\"It is too expensive.\" → Reem said it was too expensive."
+      ],
+      "items": [
+        { "type": "mc", "prompt": "\"I love summer.\" → Nouf said she ___ summer.", "options": ["loved", "love", "loving"], "answer": "loved", "explanation": "Simple Present love moves back to Simple Past loved." },
+        { "type": "mc", "prompt": "\"I'm wearing my sneakers.\" → Fahad said he ___ his sneakers.", "options": ["was wearing", "were wearing", "wearing", "wear"], "answer": "was wearing", "explanation": "Present Progressive am wearing moves back to Past Progressive was wearing." },
+        { "type": "mc", "prompt": "Khalid ___ me he was looking for a new tracksuit.", "options": ["told", "said", "says"], "answer": "told", "explanation": "There is a person after the verb (me), so we use told." },
+        { "type": "mc", "prompt": "Reem ___ that she wanted a bracelet.", "options": ["said", "told", "tell"], "answer": "said", "explanation": "There is no person after the verb, so we use said." },
+        { "type": "mc", "prompt": "\"I need a bigger size.\" → Sara said ___ needed a bigger size.", "options": ["she", "I", "he"], "answer": "she", "explanation": "Sara is talking about herself, so I changes to she." },
+        { "type": "mc", "prompt": "\"We aren't going to the mall.\" → They said they ___ going to the mall.", "options": ["weren't", "wasn't", "didn't"], "answer": "weren't", "explanation": "Aren't moves back to weren't, and we use weren't with they." },
+        { "type": "mc", "prompt": "Which sentence is correct?", "options": ["Omar told us he was buying flip-flops.", "Omar said us he was buying flip-flops.", "Omar told he was buying flip-flops."], "answer": "Omar told us he was buying flip-flops.", "explanation": "Tell needs a person right after it (told us), but say does not." },
+
+        { "type": "gap", "prompt": "\"I want a slim bracelet.\" → Reem said she ___ a slim bracelet.", "hint": "(want)", "answer": "wanted", "explanation": "Want moves back to wanted in reported speech." },
+        { "type": "gap", "prompt": "\"My brother is buying a tank top.\" → Fahad said his brother ___ a tank top.", "hint": "(buy)", "answer": "was buying", "explanation": "Is buying moves back to was buying." },
+        { "type": "gap", "prompt": "\"We don't need sunglasses.\" → They told me they ___ sunglasses.", "hint": "(not need)", "answer": ["didn't need", "did not need"], "explanation": "Don't need moves back to didn't need." },
+        { "type": "gap", "prompt": "\"I'm looking for warm gloves.\" → Omar told us he ___ for warm gloves.", "hint": "(look)", "answer": "was looking", "explanation": "Am looking moves back to was looking." },
+        { "type": "gap", "prompt": "Sara ___ me she liked my new sneakers.", "bank": ["told", "said", "says"], "answer": "told", "explanation": "We use told when a person (me) comes after the verb." },
+        { "type": "gap", "prompt": "\"These pajamas don't fit me.\" → Nouf said the pajamas ___ her.", "hint": "(not fit)", "answer": ["didn't fit", "did not fit"], "explanation": "Don't fit moves back to didn't fit, and me changes to her." },
+        { "type": "gap", "prompt": "\"It is very expensive.\" → Khalid said it ___ very expensive.", "hint": "(be)", "answer": "was", "explanation": "Is moves back to was in reported speech." },
+
+        { "type": "order", "answer": "She said she was wearing her new sneakers.", "explanation": "said + she + was wearing (Past Progressive)." },
+        { "type": "order", "answer": "He told us he wanted a tracksuit.", "explanation": "told + person (us) + he + past verb." },
+        { "type": "order", "answer": "They said the gloves were too baggy.", "explanation": "said + the gloves + were (past of are)." },
+        { "type": "order", "answer": "Reem told me she liked spots and stripes.", "alt": ["Reem told me she liked stripes and spots."], "explanation": "told + me + she + liked (past of like)." },
+
+        { "type": "transform", "instruction": "Report it. Start with: Omar said ...", "prompt": "Omar: \"I'm buying some flip-flops.\"", "answer": ["Omar said he was buying some flip-flops.", "Omar said that he was buying some flip-flops."], "explanation": "I'm buying becomes he was buying." },
+        { "type": "transform", "instruction": "Report it. Start with: Sara told me ...", "prompt": "Sara: \"I like your bracelet.\"", "answer": ["Sara told me she liked my bracelet.", "Sara told me that she liked my bracelet."], "explanation": "I like becomes she liked, and your becomes my." },
+        { "type": "transform", "instruction": "Report it. Start with: The boys said ...", "prompt": "The boys: \"We are wearing our tracksuits.\"", "answer": ["The boys said they were wearing their tracksuits.", "The boys said that they were wearing their tracksuits."], "explanation": "We are wearing becomes they were wearing, and our becomes their." },
+        { "type": "transform", "instruction": "Report it. Start with: Nouf told us ...", "prompt": "Nouf: \"My gloves are in my pocket.\"", "answer": ["Nouf told us her gloves were in her pocket.", "Nouf told us that her gloves were in her pocket."], "explanation": "My becomes her, and are becomes were." },
+        { "type": "transform", "instruction": "Report it. Start with: Khalid said ...", "prompt": "Khalid: \"I don't wear baggy clothes.\"", "answer": ["Khalid said he didn't wear baggy clothes.", "Khalid said he did not wear baggy clothes.", "Khalid said that he didn't wear baggy clothes.", "Khalid said that he did not wear baggy clothes."], "explanation": "Don't wear becomes didn't wear, and I becomes he." },
+
+        { "type": "fix", "sentence": "Fahad said me he was cold.", "correct": false, "answer": "Fahad told me he was cold.", "explanation": "With a person (me) we use told, not said." },
+        { "type": "fix", "sentence": "Reem told us she was looking for sunglasses.", "correct": true, "answer": "Reem told us she was looking for sunglasses.", "explanation": "Correct: told + us + Past Progressive." },
+        { "type": "fix", "sentence": "Omar said he was wear his gloves.", "correct": false, "answer": "Omar said he was wearing his gloves.", "explanation": "Past Progressive needs was + verb-ing: was wearing." },
+        { "type": "fix", "sentence": "Sara told that she needed a bigger size.", "correct": false, "answer": "Sara said that she needed a bigger size.", "explanation": "Told needs a person after it. Without a person, use said." },
+        { "type": "fix", "sentence": "They said they liked the cheap sneakers.", "correct": true, "answer": "They said they liked the cheap sneakers.", "explanation": "Correct: said + they + liked (Simple Past)." }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": "Reporting questions with asked",
+      "rule": "To report a question, we use asked. For yes/no questions, we add if. For Wh- questions, we keep the question word (what, where, when ...). After asked, use normal sentence order with no do or does, and move the verb one step back.",
+      "form": "asked (+ person) + if + subject + past verb | asked (+ person) + wh- word + subject + past verb",
+      "examples": [
+        "\"Do you sell tank tops?\" → He asked the assistant if they sold tank tops.",
+        "\"What size do you wear?\" → She asked what size I wore.",
+        "\"Where are the gloves?\" → Omar asked where the gloves were.",
+        "\"Is it expensive?\" → Reem asked if it was expensive."
+      ],
+      "items": [
+        { "type": "mc", "prompt": "\"Does the shop sell tank tops?\" → He asked if the shop ___ tank tops.", "options": ["sold", "does sell", "selling"], "answer": "sold", "explanation": "Remove does and move sell back to sold." },
+        { "type": "mc", "prompt": "\"Is this tracksuit cheap?\" → Reem asked ___ the tracksuit was cheap.", "options": ["if", "what", "that"], "answer": "if", "explanation": "This is a yes/no question, so we report it with if." },
+        { "type": "mc", "prompt": "\"Where are the sunglasses?\" → Omar asked ___.", "options": ["where the sunglasses were", "where were the sunglasses", "where are the sunglasses"], "answer": "where the sunglasses were", "explanation": "In a reported question, the subject comes before the verb: the sunglasses were." },
+        { "type": "mc", "prompt": "\"What size do you wear?\" → The assistant asked me what size I ___.", "options": ["wore", "did wear", "wearing"], "answer": "wore", "explanation": "Remove do and move wear back to wore." },
+        { "type": "mc", "prompt": "Which reported question is correct?", "options": ["She asked me if I liked spots.", "She asked me did I like spots.", "She asked me if did I like spots."], "answer": "She asked me if I liked spots.", "explanation": "Use if + subject + past verb. Don't use did in a reported question." },
+        { "type": "mc", "prompt": "\"Are you wearing your gloves?\" → Dad asked me if I ___ my gloves.", "options": ["was wearing", "wearing", "did wear"], "answer": "was wearing", "explanation": "Are you wearing moves back to I was wearing." },
+
+        { "type": "gap", "prompt": "\"Do you like stripes?\" → Nouf asked me ___ I liked stripes.", "bank": ["if", "what", "that"], "answer": ["if", "whether"], "explanation": "Yes/no questions are reported with if." },
+        { "type": "gap", "prompt": "\"What color do you want?\" → Sara asked me what color I ___.", "hint": "(want)", "answer": "wanted", "explanation": "Remove do and move want back to wanted." },
+        { "type": "gap", "prompt": "\"When does the store close?\" → We asked when the store ___.", "hint": "(close)", "answer": "closed", "explanation": "Remove does and move close back to closed." },
+        { "type": "gap", "prompt": "\"Where can I find flip-flops?\" → She asked where she ___ find flip-flops.", "hint": "(can)", "answer": "could", "explanation": "Can moves back to could, and it comes after the subject." },
+        { "type": "gap", "prompt": "\"Is the tank top too baggy?\" → Khalid asked if the tank top ___ too baggy.", "hint": "(be)", "answer": "was", "explanation": "Is moves back to was, after the subject." },
+        { "type": "gap", "prompt": "\"Why are you wearing pajamas?\" → My brother asked me why I ___ pajamas.", "hint": "(wear)", "answer": "was wearing", "explanation": "Are you wearing becomes I was wearing." },
+        { "type": "gap", "prompt": "\"Do they have a smaller size?\" → Reem ___ if they had a smaller size.", "bank": ["asked", "said", "told"], "answer": "asked", "explanation": "We use asked to report a question." },
+
+        { "type": "order", "answer": "She asked me what size I wore.", "explanation": "asked + me + what size + I + wore." },
+        { "type": "order", "answer": "He asked if they sold tank tops.", "explanation": "asked + if + they + sold." },
+        { "type": "order", "answer": "Omar asked where the sneakers were.", "explanation": "The subject (the sneakers) comes before the verb (were)." },
+        { "type": "order", "answer": "My mom asked me if I was warm.", "explanation": "asked + me + if + I + was." },
+        { "type": "order", "answer": "Sara asked how much the bracelet was.", "explanation": "how much + subject (the bracelet) + verb (was)." },
+
+        { "type": "transform", "instruction": "Report the question. Start with: Fahad asked ...", "prompt": "Fahad: \"Does the store sell sneakers?\"", "answer": ["Fahad asked if the store sold sneakers.", "Fahad asked whether the store sold sneakers."], "explanation": "Yes/no question: asked if + the store + sold." },
+        { "type": "transform", "instruction": "Report the question. Start with: Nouf asked ...", "prompt": "Nouf: \"What time does the mall open?\"", "answer": ["Nouf asked what time the mall opened."], "explanation": "Keep what time, remove does, and change open to opened." },
+        { "type": "transform", "instruction": "Report the question. Start with: Omar asked ...", "prompt": "Omar: \"Is this tracksuit expensive?\"", "answer": ["Omar asked if the tracksuit was expensive.", "Omar asked if that tracksuit was expensive.", "Omar asked if this tracksuit was expensive.", "Omar asked whether the tracksuit was expensive.", "Omar asked whether that tracksuit was expensive.", "Omar asked whether this tracksuit was expensive."], "explanation": "Yes/no question: asked if + subject + was." },
+        { "type": "transform", "instruction": "Report the question. Start with: Reem asked ...", "prompt": "Reem: \"Where are my sunglasses?\"", "answer": ["Reem asked where her sunglasses were."], "explanation": "My becomes her, and the subject comes before were." },
+        { "type": "transform", "instruction": "Report the question. Start with: Mom asked ...", "prompt": "Mom: \"Are the boys wearing their gloves?\"", "answer": ["Mom asked if the boys were wearing their gloves.", "Mom asked whether the boys were wearing their gloves."], "explanation": "Are the boys wearing becomes if the boys were wearing." },
+
+        { "type": "fix", "sentence": "She asked me what size did I wear.", "correct": false, "answer": "She asked me what size I wore.", "explanation": "No did in a reported question: what size I wore." },
+        { "type": "fix", "sentence": "He asked if they sold handkerchiefs.", "correct": true, "answer": "He asked if they sold handkerchiefs.", "explanation": "Correct: asked if + they + sold." },
+        { "type": "fix", "sentence": "Omar asked that the shoes were cheap.", "correct": false, "answer": "Omar asked if the shoes were cheap.", "explanation": "Yes/no questions are reported with if, not that." },
+        { "type": "fix", "sentence": "Sara asked where the fitting room was.", "correct": true, "answer": "Sara asked where the fitting room was.", "explanation": "Correct: where + subject + was." },
+        { "type": "fix", "sentence": "Khalid said me if the tank top was slim.", "correct": false, "answer": "Khalid asked me if the tank top was slim.", "explanation": "To report a question, we use asked." }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "r1",
+      "title": "Omar's Winter Trip",
+      "genre": "story",
+      "text": "It was winter, and Omar's family was going camping near AlUla for the weekend. Omar was packing his bag when his mom came into his room.\n\n\"Did you pack warm clothes?\" she asked. Omar said he was packing everything he needed. He put in his flip-flops, his sunglasses and a tank top. \"It's always hot in the desert,\" he thought.\n\nIn the afternoon, the sun was bright, and Omar was happy with his sunglasses. But at night, the desert became very cold. Omar sat by the fire and shook. His little sister Sara laughed. \"Mom told us the nights were cold in winter!\" she said.\n\nThen Grandpa sat next to Omar. He took a pair of wool gloves out of his big coat pocket. \"I always bring extra gloves,\" he said with a smile. He also gave Omar his old tracksuit. It was baggy, but it was warm.\n\nThe next morning, Omar called his friend Fahad. Fahad asked him if he was having fun. Omar told him he was. Then he said he needed a lesson about the seasons!",
+      "questions": [
+        { "type": "mc", "prompt": "Which season was it?", "options": ["summer", "winter", "spring"], "answer": "winter", "explanation": "The story starts: \"It was winter.\"" },
+        { "type": "tf", "statement": "Omar packed warm clothes for the trip.", "answer": false, "explanation": "He packed flip-flops, sunglasses and a tank top, not warm clothes." },
+        { "type": "mc", "prompt": "What did Grandpa take out of his pocket?", "options": ["sunglasses", "gloves", "a bracelet"], "answer": "gloves", "explanation": "He took a pair of wool gloves out of his coat pocket." },
+        { "type": "tf", "statement": "Grandpa's tracksuit was baggy but warm.", "answer": true, "explanation": "The text says: \"It was baggy, but it was warm.\"" },
+        { "type": "gap", "prompt": "Sara laughed because Mom told them the nights were ___ in winter.", "answer": "cold", "explanation": "Sara said, \"Mom told us the nights were cold in winter!\"" },
+        { "type": "mc", "prompt": "What did Fahad ask Omar?", "options": ["if he was having fun", "where his gloves were", "what he was eating"], "answer": "if he was having fun", "explanation": "Fahad asked him if he was having fun." }
+      ]
+    },
+    {
+      "id": "r2",
+      "title": "Old Clothes, New Life",
+      "genre": "blog post",
+      "text": "Last month, our teacher, Ms. Huda, asked us a question: \"How many clothes do you have that you never wear?\" I counted at home. I had eleven! Some were too small, and some I just didn't like anymore.\n\nMs. Huda told us about fast fashion. She said that many shops sold cheap clothes that changed every season. People buy them, wear them a few times and then throw them away. This makes a lot of waste, and making new clothes uses a lot of water and energy.\n\nSo our class had a clothes swap. Everyone brought clean clothes that didn't fit them anymore. I brought a striped dress and two pairs of gloves. I took home a jacket with big pockets and a pair of sneakers in my size. They weren't expensive. They were free!\n\nWe gave the rest of the clothes to a charity in Riyadh. Now, before I buy something new, I ask myself three questions: Do I really need it? Will I wear it many times? Can I find it second-hand? Try it! It's good for your wallet and for our planet.",
+      "questions": [
+        { "type": "mc", "prompt": "How many clothes did the writer never wear?", "options": ["eleven", "seven", "three"], "answer": "eleven", "explanation": "She counted at home and had eleven." },
+        { "type": "tf", "statement": "Ms. Huda said fast-fashion clothes were very expensive.", "answer": false, "explanation": "She said many shops sold cheap clothes." },
+        { "type": "mc", "prompt": "What did the writer take home from the swap?", "options": ["a striped dress", "a jacket and sneakers", "two pairs of gloves"], "answer": "a jacket and sneakers", "explanation": "She took home a jacket with big pockets and a pair of sneakers." },
+        { "type": "tf", "statement": "The class gave the extra clothes to a charity.", "answer": true, "explanation": "They gave the rest of the clothes to a charity in Riyadh." },
+        { "type": "gap", "prompt": "Making new clothes uses a lot of water and ___.", "answer": "energy", "explanation": "The text says making new clothes uses a lot of water and energy." },
+        { "type": "mc", "prompt": "What is the main idea of the blog post?", "options": ["We should buy new clothes every season.", "We can reduce clothing waste by swapping and reusing clothes.", "Sneakers are better than flip-flops."], "answer": "We can reduce clothing waste by swapping and reusing clothes.", "explanation": "The writer explains fast fashion and how her class reused clothes." }
+      ]
+    },
+    {
+      "id": "r3",
+      "title": "Three Shops and One Perfect Dress",
+      "genre": "diary",
+      "text": "Thursday, March 12\n\nDear Diary,\n\nToday Mom and I went to a big mall in Jeddah. I needed a new dress for my cousin's wedding in the spring.\n\nIn the first shop, I found a long blue dress with white stripes. I loved it, but it was too expensive. Mom said it cost more than her new phone! The shop assistant was kind. She told me that the same dress was cheaper in another color.\n\nIn the second shop, I tried on a green dress with small yellow spots. It was a beautiful color, but it was oversized. The sleeves covered my hands! The assistant asked me what size I wore. I told her I wore a small. She said they didn't have a small in green.\n\nFinally, we found the perfect dress in the third shop. It was long and simple, and it fit me well. It wasn't too slim or too baggy. It was just right. It even had a pocket for my phone!\n\nOn the way home, Mom bought me a silver bracelet to wear with it. She said I was a patient shopper today. I told her I was very tired, but very happy!\n\nNouf",
+      "questions": [
+        { "type": "mc", "prompt": "Why did Nouf need a new dress?", "options": ["for her cousin's wedding", "for a school party", "for a trip to Abha"], "answer": "for her cousin's wedding", "explanation": "She writes that she needed a new dress for her cousin's wedding in the spring." },
+        { "type": "tf", "statement": "The blue dress with white stripes was cheap.", "answer": false, "explanation": "Nouf says the blue dress was too expensive." },
+        { "type": "mc", "prompt": "What was the problem with the green dress?", "options": ["It was too expensive.", "It was too big.", "It was too short."], "answer": "It was too big.", "explanation": "The green dress was oversized, and the sleeves covered her hands." },
+        { "type": "gap", "prompt": "The assistant asked Nouf what size she ___.", "answer": "wore", "explanation": "The diary reports the question with a past verb: \"The assistant asked me what size I wore.\"" },
+        { "type": "tf", "statement": "The assistant said they had a small in green.", "answer": false, "explanation": "She said they didn't have a small in green." },
+        { "type": "mc", "prompt": "What did Mom buy on the way home?", "options": ["a silver bracelet", "a pair of gloves", "a new phone"], "answer": "a silver bracelet", "explanation": "On the way home, Mom bought her a silver bracelet to wear with the dress." }
+      ]
+    },
+    {
+      "id": "r4",
+      "title": "Green and White for Our Team",
+      "genre": "school newsletter",
+      "text": "Our school football team has a new tracksuit, and the students chose it!\n\nLast spring, our principal, Mr. Saleh, told us that the old tracksuits were too small and too thin. He said the team needed something new before winter. Winters in Abha are cold, and the boys usually train early in the morning.\n\nSo the art club had a design competition. More than forty students sent in drawings. Omar from Grade 6 drew a dark green tracksuit with two white stripes on the arms. He said green was the color of the mountains around Abha. Everyone loved it!\n\nWe asked Omar if he was surprised. He told us he was very surprised and very proud.\n\nThe new tracksuits arrived last week. They are warm, and they have deep pockets for gloves. The coach asked every player what size he needed, so all the tracksuits fit well. None of them are oversized or too tight.\n\nThe tracksuits weren't cheap, but parents and teachers helped to pay for them. The coach said the team was looking great. Now we just need to win some matches!\n\nCome and watch the team play on Thursday at 4 p.m.",
+      "questions": [
+        { "type": "mc", "prompt": "Who designed the new tracksuit?", "options": ["Mr. Saleh", "Omar", "the coach"], "answer": "Omar", "explanation": "Omar from Grade 6 drew the dark green tracksuit with white stripes." },
+        { "type": "tf", "statement": "Mr. Saleh said the old tracksuits were too big.", "answer": false, "explanation": "He told the students that the old tracksuits were too small and too thin." },
+        { "type": "mc", "prompt": "Why did Omar choose green?", "options": ["It is the school's color.", "It is the color of the mountains around Abha.", "It was the cheapest color."], "answer": "It is the color of the mountains around Abha.", "explanation": "He said green was the color of the mountains around Abha." },
+        { "type": "gap", "prompt": "The new tracksuits have deep ___ for gloves.", "answer": ["pockets", "pocket"], "explanation": "The newsletter says the tracksuits are warm and have deep pockets for gloves." },
+        { "type": "tf", "statement": "The coach asked each player what size he needed.", "answer": true, "explanation": "The coach asked every player what size he needed, so all the tracksuits fit well." },
+        { "type": "mc", "prompt": "\"We asked Omar if he was surprised.\" What were the newsletter team's exact words?", "options": ["\"Are you surprised?\"", "\"Do you like green?\"", "\"Were you happy?\""], "answer": "\"Are you surprised?\"", "explanation": "In reported speech, \"Are you surprised?\" becomes \"asked if he was surprised.\"" }
+      ]
+    },
+    {
+      "id": "r5",
+      "title": "Grandma's Box of Treasures",
+      "genre": "e-mail",
+      "text": "Hi Reem,\n\nHow are you? How is the weather in Tabuk? Is it cold yet? Here in Riyadh, it's still warm, but the mornings are nicer now that it's fall.\n\nLast weekend, my brother Fahad and I visited Grandma. She opened an old wooden box and showed us her clothes from when she was a girl. It was so interesting!\n\nGrandma told us that she didn't have sneakers when she was young. She said all the children wore simple sandals in summer and winter. Fahad asked her if she had pajamas. She laughed and said she slept in an old cotton dress!\n\nThen she took out a small white handkerchief with blue spots. She said her mother made it by hand. Grandma told us that clothes weren't cheap in those days, so people kept them for many years.\n\nAt the bottom of the box, there was a gold bracelet. Grandma said it was a gift from her father. Then she put it on my wrist and told me it was mine now! I was so surprised. I'm going to keep it forever.\n\nDo you have any old family things at your house? Write and tell me!\n\nLove,\nLama",
+      "questions": [
+        { "type": "mc", "prompt": "What season is it in Riyadh now?", "options": ["summer", "fall", "winter"], "answer": "fall", "explanation": "Lama writes that the mornings are nicer now that it's fall." },
+        { "type": "tf", "statement": "Grandma wore sneakers when she was young.", "answer": false, "explanation": "Grandma told them that she didn't have sneakers when she was young." },
+        { "type": "mc", "prompt": "What did Grandma sleep in when she was a girl?", "options": ["pajamas", "an old cotton dress", "a tracksuit"], "answer": "an old cotton dress", "explanation": "She laughed and said she slept in an old cotton dress." },
+        { "type": "gap", "prompt": "Grandma's handkerchief was white with blue ___.", "answer": "spots", "explanation": "She took out a small white handkerchief with blue spots." },
+        { "type": "tf", "statement": "Grandma said clothes were cheap in the past.", "answer": false, "explanation": "Grandma told them that clothes weren't cheap in those days." },
+        { "type": "gap", "prompt": "Fahad asked Grandma ___ she had pajamas.", "answer": ["if", "whether"], "explanation": "We report a yes/no question with asked + if: \"Fahad asked her if she had pajamas.\"" }
+      ]
+    }
+  ],
+  "wordWork": {
+    "title": "Categorizing words: nouns, adjectives and verbs",
+    "rule": "A noun is a person, place or thing (gloves, size). An adjective describes a noun (baggy, warm). A verb is an action (buy, wear). Some words can be more than one type: fall can be a season (noun) or an action (verb, past: fell).",
+    "items": [
+      { "type": "mc", "prompt": "Which word is an adjective?", "options": ["expensive", "pocket", "wear"], "answer": "expensive", "explanation": "Expensive describes a thing, so it is an adjective." },
+      { "type": "mc", "prompt": "Which word is a noun?", "options": ["sunglasses", "cheap", "buy"], "answer": "sunglasses", "explanation": "Sunglasses are a thing, so the word is a noun." },
+      { "type": "mc", "prompt": "Which word is a verb?", "options": ["wear", "slim", "bracelet"], "answer": "wear", "explanation": "Wear is an action, so it is a verb." },
+      { "type": "gap", "prompt": "\"These gloves are warm.\" The word warm is a/an ___.", "bank": ["adjective", "noun", "verb"], "answer": "adjective", "explanation": "Warm describes the gloves, so it is an adjective." },
+      { "type": "gap", "prompt": "\"We go to Abha in the summer.\" The word summer is a/an ___.", "bank": ["noun", "adjective", "verb"], "answer": "noun", "explanation": "Summer is the name of a season, so it is a noun." },
+      { "type": "gap", "prompt": "\"These sneakers fit me well.\" The word fit is a/an ___.", "bank": ["verb", "noun", "adjective"], "answer": "verb", "explanation": "Here fit is what the sneakers do, so it is a verb." },
+      { "type": "mc", "prompt": "\"I almost fell on the wet floor.\" What type of word is fell?", "options": ["verb", "noun", "adjective"], "answer": "verb", "explanation": "Fell is the past of the action fall, so it is a verb." },
+      { "type": "mc", "prompt": "\"The leaves change color in the fall.\" What type of word is fall?", "options": ["noun", "verb", "adjective"], "answer": "noun", "explanation": "Here fall is the name of a season, so it is a noun." },
+      { "type": "mc", "prompt": "Which group has only adjectives?", "options": ["baggy, cheap, slim", "pocket, size, gloves", "buy, wear, choose"], "answer": "baggy, cheap, slim", "explanation": "Baggy, cheap and slim all describe clothes." },
+      { "type": "gap", "prompt": "\"Fahad bought a tracksuit.\" The word bought is a/an ___.", "bank": ["verb", "noun", "adjective"], "answer": "verb", "explanation": "Bought is the past of the action buy, so it is a verb." }
+    ]
+  },
+  "writing": [
+    {
+      "prompt": "Write an anecdote about a fashion emergency: a time when you or a friend wore the wrong clothes.",
+      "hint": "When was it? Where were you? What happened? How did you solve it? Use: said, told me, asked if ... and words like baggy, oversized, warm, size.",
+      "minWords": 50,
+      "model": "Last winter, my family went to the desert for a picnic. I wore a tank top and flip-flops because it was warm in the afternoon. At night, it was very cold! My cousin asked me if I was OK. I told him I was freezing. He gave me his oversized jacket. It was baggy, but I felt warm. In the end, we laughed about it."
+    },
+    {
+      "prompt": "Report a conversation in a clothes shop.",
+      "hint": "Use said, told me/us, asked if and asked what. Move the verbs back: like → liked, is → was, are looking → were looking.",
+      "minWords": 40,
+      "model": "Yesterday I went to the mall with my brother. He told me he needed new sneakers. The shop assistant asked him what size he wore. He said he wore size 38. Then he asked if they had blue ones. The assistant said they only had black ones, so he bought those."
+    }
+  ],
+  "speaking": [
+    "He said he was buying new flip-flops.",
+    "She told me she wanted a new bracelet.",
+    "They asked if the shop sold warm gloves.",
+    "The assistant asked what size I wore.",
+    "These baggy pants don't fit me.",
+    "Sunglasses protect your eyes in the summer.",
+    "Old clothes can have a new life."
+  ]
+}

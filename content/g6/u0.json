@@ -1,0 +1,1148 @@
+{
+  "id": "u0",
+  "unit": 0,
+  "title": "Welcome!",
+  "emoji": "👋",
+  "color": "#d9480f",
+  "bigQuestion": "How do we talk about our lives in the past, present and future?",
+  "summary": "Students revise present, past and future forms and comparisons, and learn friendly everyday expressions for a new school year.",
+  "warmup": [
+    "What did you do in the summer vacation?",
+    "What are you going to do this school year?",
+    "What is your favorite school subject? Why?",
+    "Who is the tallest person in your family?"
+  ],
+  "vocab": [
+    {
+      "word": "cookie",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Things",
+      "meaning": "a small, flat, sweet cake",
+      "example": "Nouf baked a date cookie for her brother.",
+      "emoji": "🍪"
+    },
+    {
+      "word": "helmet",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Things",
+      "meaning": "a hard hat that keeps your head safe",
+      "example": "Omar always wears a helmet on his bike.",
+      "emoji": "⛑️"
+    },
+    {
+      "word": "tie",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Things",
+      "meaning": "a long piece of cloth worn around the neck with a shirt",
+      "example": "My uncle wears a blue tie to work.",
+      "emoji": "👔"
+    },
+    {
+      "word": "storyboard",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Things",
+      "meaning": "pictures in boxes that show the plan of a story or film",
+      "example": "We drew a storyboard for our class video.",
+      "emoji": "🎬"
+    },
+    {
+      "word": "journalist",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Around town",
+      "meaning": "a person who writes the news for newspapers or TV",
+      "example": "The journalist asked the football coach three questions.",
+      "emoji": "📰"
+    },
+    {
+      "word": "gate",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Around town",
+      "meaning": "a door in a fence or wall",
+      "example": "Please meet me at the school gate at noon.",
+      "emoji": "🚪"
+    },
+    {
+      "word": "taxi",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Around town",
+      "meaning": "a car you pay to take you somewhere",
+      "example": "We took a taxi to the airport in Jeddah.",
+      "emoji": "🚕"
+    },
+    {
+      "word": "agree",
+      "pos": "verb",
+      "set": 2,
+      "cat": "Other words",
+      "meaning": "to think the same as another person",
+      "example": "I agree with Sara. The test was easy.",
+      "emoji": "🤝"
+    },
+    {
+      "word": "glass",
+      "pos": "noun",
+      "set": 2,
+      "cat": "Other words",
+      "meaning": "a cup made of glass, with no handle",
+      "example": "Can I have a glass of water, please?",
+      "emoji": "🥛"
+    },
+    {
+      "word": "last name",
+      "pos": "noun",
+      "set": 2,
+      "cat": "Other words",
+      "meaning": "your family name",
+      "example": "My first name is Khalid, and my last name is Alharbi.",
+      "emoji": "🪪"
+    },
+    {
+      "word": "at the moment",
+      "pos": "phrase",
+      "set": 2,
+      "cat": "Useful phrases",
+      "meaning": "now",
+      "example": "I'm busy at the moment. Can you wait?",
+      "emoji": "⏰"
+    },
+    {
+      "word": "Go away!",
+      "pos": "phrase",
+      "set": 2,
+      "cat": "Useful phrases",
+      "meaning": "a rude way to tell someone to leave",
+      "example": "Please don't say “Go away!” to your friends. It isn't kind.",
+      "emoji": "🙅"
+    },
+    {
+      "word": "if you want",
+      "pos": "phrase",
+      "set": 2,
+      "cat": "Useful phrases",
+      "meaning": "you can do it if you like",
+      "example": "You can sit next to me if you want.",
+      "emoji": "🙂"
+    },
+    {
+      "word": "in a minute",
+      "pos": "phrase",
+      "set": 2,
+      "cat": "Useful phrases",
+      "meaning": "very soon; after a short time",
+      "example": "Wait for me. I'll help you in a minute.",
+      "emoji": "⏳"
+    },
+    {
+      "word": "No problem!",
+      "pos": "phrase",
+      "set": 2,
+      "cat": "Useful phrases",
+      "meaning": "a friendly way to say yes or that's OK",
+      "example": "“Can you close the door?” “No problem!”",
+      "emoji": "👍"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "Simple Present vs. Present Progressive",
+      "rule": "Use the simple present for habits and facts: things that happen often or are always true. Use the present progressive for actions that are happening now, at the moment.",
+      "form": "Simple present: I play / she plays | Present progressive: am / is / are + verb-ing",
+      "examples": [
+        "Fahad walks to school every day.",
+        "Fahad is riding in a taxi at the moment.",
+        "Sara doesn't drink coffee.",
+        "Are you reading a story right now?"
+      ],
+      "items": [
+        {
+          "type": "mc",
+          "prompt": "Look! Omar ___ his helmet.",
+          "options": [
+            "is putting on",
+            "puts on",
+            "put on"
+          ],
+          "answer": "is putting on",
+          "explanation": "“Look!” shows the action is happening now, so we use the present progressive."
+        },
+        {
+          "type": "mc",
+          "prompt": "My mother ___ cookies every Friday.",
+          "options": [
+            "bakes",
+            "is baking",
+            "bake"
+          ],
+          "answer": "bakes",
+          "explanation": "“Every Friday” is a habit, so we use the simple present. She → bakes."
+        },
+        {
+          "type": "mc",
+          "prompt": "Be quiet! The baby ___.",
+          "options": [
+            "is sleeping",
+            "sleeps",
+            "sleep"
+          ],
+          "answer": "is sleeping",
+          "explanation": "The baby is sleeping right now, so we use am / is / are + -ing."
+        },
+        {
+          "type": "mc",
+          "prompt": "Water ___ at 100 degrees.",
+          "options": [
+            "boils",
+            "is boiling",
+            "boil"
+          ],
+          "answer": "boils",
+          "explanation": "This is a fact that is always true, so we use the simple present."
+        },
+        {
+          "type": "gap",
+          "prompt": "Reem ___ a book at the moment.",
+          "hint": "(read)",
+          "answer": [
+            "is reading",
+            "'s reading"
+          ],
+          "explanation": "“At the moment” means now, so we use is + reading."
+        },
+        {
+          "type": "gap",
+          "prompt": "Khalid usually ___ to school by bus.",
+          "hint": "(go)",
+          "answer": "goes",
+          "explanation": "“Usually” shows a habit. With he / she / it, go becomes goes."
+        },
+        {
+          "type": "gap",
+          "prompt": "We ___ TV now. We're doing our homework.",
+          "hint": "(not / watch)",
+          "answer": [
+            "are not watching",
+            "aren't watching",
+            "'re not watching"
+          ],
+          "explanation": "The action is not happening now, so we use are not + -ing."
+        },
+        {
+          "type": "gap",
+          "prompt": "___ your brother wear a tie to work?",
+          "bank": [
+            "Does",
+            "Is",
+            "Do"
+          ],
+          "answer": "Does",
+          "explanation": "This is a habit question about he (your brother), so we use Does + verb."
+        },
+        {
+          "type": "order",
+          "answer": "She is talking to the journalist now.",
+          "alt": [
+            "Now she is talking to the journalist.",
+            "She is now talking to the journalist."
+          ],
+          "explanation": "Present progressive: subject + is + verb-ing."
+        },
+        {
+          "type": "order",
+          "answer": "Do you walk to school every day?",
+          "explanation": "Simple present questions start with Do / Does + subject + verb."
+        },
+        {
+          "type": "transform",
+          "instruction": "Change it to the present progressive. Add “now” at the end.",
+          "prompt": "Nouf drinks a glass of milk.",
+          "answer": [
+            "Nouf is drinking a glass of milk now.",
+            "Nouf's drinking a glass of milk now."
+          ],
+          "explanation": "drinks → is drinking: am / is / are + verb-ing for actions happening now."
+        },
+        {
+          "type": "transform",
+          "instruction": "Make it negative.",
+          "prompt": "Sara likes pizza.",
+          "answer": [
+            "Sara does not like pizza.",
+            "Sara doesn't like pizza."
+          ],
+          "explanation": "Simple present negative: does not (doesn't) + verb without -s."
+        },
+        {
+          "type": "fix",
+          "sentence": "He is wanting a new bike.",
+          "correct": false,
+          "answer": "He wants a new bike.",
+          "explanation": "“Want” is a feeling verb. We don't usually use it with -ing."
+        },
+        {
+          "type": "fix",
+          "sentence": "They are playing football at the moment.",
+          "correct": true,
+          "answer": "They are playing football at the moment.",
+          "explanation": "Correct! The action is happening now: are + playing."
+        },
+        {
+          "type": "fix",
+          "sentence": "My sister go to school by taxi.",
+          "correct": false,
+          "answer": "My sister goes to school by taxi.",
+          "explanation": "With he / she / it in the simple present, add -s or -es: goes."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": "Simple Past vs. Past Progressive",
+      "rule": "Use the simple past for a short, finished action. Use the past progressive (was / were + -ing) for a longer action that was in progress. We often use them together with “when” and “while”.",
+      "form": "Simple past: I walked / I went | Past progressive: was / were + verb-ing",
+      "examples": [
+        "I was walking to the gate when it started to rain.",
+        "While Omar was eating, the phone rang.",
+        "We visited AlUla last year.",
+        "What were you doing at eight o'clock?"
+      ],
+      "items": [
+        {
+          "type": "mc",
+          "prompt": "I ___ my homework when the lights went out.",
+          "options": [
+            "was doing",
+            "am doing",
+            "do"
+          ],
+          "answer": "was doing",
+          "explanation": "The homework was a longer action in progress in the past: was + doing."
+        },
+        {
+          "type": "mc",
+          "prompt": "Fahad was riding his bike when he ___ off.",
+          "options": [
+            "fell",
+            "is falling",
+            "falls"
+          ],
+          "answer": "fell",
+          "explanation": "Falling off is a short, finished action, so we use the simple past: fell."
+        },
+        {
+          "type": "mc",
+          "prompt": "What ___ you doing at eight o'clock last night?",
+          "options": [
+            "were",
+            "was",
+            "did"
+          ],
+          "answer": "were",
+          "explanation": "Past progressive with you: were + doing."
+        },
+        {
+          "type": "mc",
+          "prompt": "We ___ to Abha last summer.",
+          "options": [
+            "went",
+            "are going",
+            "go"
+          ],
+          "answer": "went",
+          "explanation": "“Last summer” is a finished time, and the trip is a finished action: went."
+        },
+        {
+          "type": "gap",
+          "prompt": "While the journalist ___, the taxi arrived.",
+          "hint": "(talk)",
+          "answer": [
+            "was talking"
+          ],
+          "explanation": "After “while” we use the past progressive for the longer action: was talking."
+        },
+        {
+          "type": "gap",
+          "prompt": "I was walking home when I ___ Nouf.",
+          "hint": "(see)",
+          "answer": "saw",
+          "explanation": "Seeing Nouf is the short action that happened in the middle: saw."
+        },
+        {
+          "type": "gap",
+          "prompt": "Yesterday, Khalid ___ to school.",
+          "hint": "(not / go)",
+          "answer": [
+            "did not go",
+            "didn't go"
+          ],
+          "explanation": "Simple past negative: did not (didn't) + verb."
+        },
+        {
+          "type": "gap",
+          "prompt": "While Sara ___, the phone rang.",
+          "hint": "(cook)",
+          "answer": [
+            "was cooking"
+          ],
+          "explanation": "“While” shows the longer action in progress: was cooking."
+        },
+        {
+          "type": "order",
+          "answer": "I was reading when you called me.",
+          "alt": [
+            "When you called me I was reading."
+          ],
+          "explanation": "Longer action (was reading) + when + short action (called)."
+        },
+        {
+          "type": "order",
+          "answer": "What were you doing yesterday afternoon?",
+          "explanation": "Past progressive question: What + were + you + verb-ing?"
+        },
+        {
+          "type": "transform",
+          "instruction": "Make it a question.",
+          "prompt": "Omar was sleeping at ten o'clock.",
+          "answer": [
+            "Was Omar sleeping at ten o'clock?"
+          ],
+          "explanation": "Move was to the start: Was Omar sleeping ...?"
+        },
+        {
+          "type": "transform",
+          "instruction": "Join the sentences with “when”.",
+          "prompt": "I was eating lunch. My friend arrived.",
+          "answer": [
+            "I was eating lunch when my friend arrived.",
+            "When my friend arrived, I was eating lunch.",
+            "When my friend arrived I was eating lunch."
+          ],
+          "explanation": "The longer action uses was + -ing; the short action after “when” uses the simple past."
+        },
+        {
+          "type": "fix",
+          "sentence": "While I walked to the gate, I was seeing a cat.",
+          "correct": false,
+          "answer": "While I was walking to the gate, I saw a cat.",
+          "explanation": "The long action is walking (was walking); the short action is seeing (saw)."
+        },
+        {
+          "type": "fix",
+          "sentence": "She was watching TV when I called her.",
+          "correct": true,
+          "answer": "She was watching TV when I called her.",
+          "explanation": "Correct! Long action: was watching. Short action: called."
+        },
+        {
+          "type": "fix",
+          "sentence": "We was playing outside.",
+          "correct": false,
+          "answer": "We were playing outside.",
+          "explanation": "With we / you / they, use were, not was."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "title": "Comparative and Superlative Forms",
+      "rule": "Use a comparative (-er or more ... than) to compare two things. Use a superlative (the -est or the most) to compare three or more things. Some words are special: good – better – the best, bad – worse – the worst.",
+      "form": "Short words: tall → taller than → the tallest | Long words: more / the most + adjective",
+      "examples": [
+        "A taxi is faster than a bike.",
+        "Riyadh is the biggest city in Saudi Arabia.",
+        "This storyboard is more interesting than mine.",
+        "Fahad is the best player on our team."
+      ],
+      "items": [
+        {
+          "type": "mc",
+          "prompt": "A camel is ___ than a cat.",
+          "options": [
+            "bigger",
+            "biggest",
+            "more big"
+          ],
+          "answer": "bigger",
+          "explanation": "We compare two animals, so we use the comparative: big → bigger."
+        },
+        {
+          "type": "mc",
+          "prompt": "This is the ___ cookie in the box!",
+          "options": [
+            "best",
+            "better",
+            "most good"
+          ],
+          "answer": "best",
+          "explanation": "“The ... in the box” compares many things. good → the best."
+        },
+        {
+          "type": "mc",
+          "prompt": "For me, math is ___ than art.",
+          "options": [
+            "more difficult",
+            "difficulter",
+            "most difficult"
+          ],
+          "answer": "more difficult",
+          "explanation": "“Difficult” is a long word, so we say more difficult than."
+        },
+        {
+          "type": "mc",
+          "prompt": "Khalid is the ___ boy in our class.",
+          "options": [
+            "tallest",
+            "taller",
+            "more tall"
+          ],
+          "answer": "tallest",
+          "explanation": "We compare Khalid with everyone in the class, so we use the superlative: the tallest."
+        },
+        {
+          "type": "gap",
+          "prompt": "My helmet is ___ than your helmet.",
+          "hint": "(heavy)",
+          "answer": "heavier",
+          "explanation": "For words ending in -y, change y to i and add -er: heavier."
+        },
+        {
+          "type": "gap",
+          "prompt": "In summer, Jeddah is ___ than Abha.",
+          "hint": "(hot)",
+          "answer": "hotter",
+          "explanation": "hot → hotter. We double the t before -er."
+        },
+        {
+          "type": "gap",
+          "prompt": "This is the ___ picture in the storyboard.",
+          "hint": "(beautiful)",
+          "answer": "most beautiful",
+          "explanation": "“Beautiful” is a long word, so the superlative is the most beautiful."
+        },
+        {
+          "type": "gap",
+          "prompt": "Today's weather is ___ than yesterday's.",
+          "hint": "(bad)",
+          "answer": "worse",
+          "explanation": "bad is special: bad → worse → the worst."
+        },
+        {
+          "type": "order",
+          "answer": "Sara is the youngest girl in her family.",
+          "explanation": "Superlative: the + adjective-est + noun."
+        },
+        {
+          "type": "order",
+          "answer": "Is a taxi faster than a bus?",
+          "explanation": "Question with a comparative: Is + A + faster than + B?"
+        },
+        {
+          "type": "transform",
+          "instruction": "Rewrite the sentence with “taller”.",
+          "prompt": "Omar is shorter than Fahad.",
+          "answer": [
+            "Fahad is taller than Omar.",
+            "Fahad is taller than Omar is."
+          ],
+          "explanation": "If Omar is shorter, then Fahad is taller than Omar."
+        },
+        {
+          "type": "transform",
+          "instruction": "Use the superlative of “old”. Who is the oldest?",
+          "prompt": "Nouf is 10. Reem is 11. Sara is 12.",
+          "answer": [
+            "Sara is the oldest.",
+            "Sara is the oldest girl.",
+            "Sara is the oldest of the three.",
+            "Sara is the oldest of the three girls.",
+            "Sara is the oldest of all."
+          ],
+          "explanation": "We compare three girls, so we use the superlative: the oldest."
+        },
+        {
+          "type": "fix",
+          "sentence": "My bag is more heavier than yours.",
+          "correct": false,
+          "answer": "My bag is heavier than yours.",
+          "explanation": "Don't use “more” and -er together. Say heavier than."
+        },
+        {
+          "type": "fix",
+          "sentence": "This is the most interesting book in the library.",
+          "correct": true,
+          "answer": "This is the most interesting book in the library.",
+          "explanation": "Correct! Long word + many books → the most interesting."
+        },
+        {
+          "type": "fix",
+          "sentence": "Nouf is the goodest student in the class.",
+          "correct": false,
+          "answer": "Nouf is the best student in the class.",
+          "explanation": "good is special: good → better → the best."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "title": "Future Forms: will, be going to, may, might",
+      "rule": "Use “be going to” for plans you have already made. Use “will” for quick decisions, offers and things you are sure about. Use “may” or “might” when something is possible, but you are not sure.",
+      "form": "am / is / are going to + verb | will + verb | may / might + verb",
+      "examples": [
+        "We are going to visit AlUla next week.",
+        "You look thirsty. I'll get you a glass of water.",
+        "It might rain tomorrow.",
+        "Fahad may come to the party, but he isn't sure."
+      ],
+      "items": [
+        {
+          "type": "mc",
+          "prompt": "Look at those dark clouds! It ___ rain.",
+          "options": [
+            "is going to",
+            "went to",
+            "rains"
+          ],
+          "answer": "is going to",
+          "explanation": "We can see the clouds now, so we use “is going to” for what will happen next."
+        },
+        {
+          "type": "mc",
+          "prompt": "“The phone is ringing!” “OK, I ___ answer it.”",
+          "options": [
+            "will",
+            "was",
+            "did"
+          ],
+          "answer": "will",
+          "explanation": "This is a quick decision made right now, so we use will."
+        },
+        {
+          "type": "mc",
+          "prompt": "I'm not sure, but we ___ go to the park later.",
+          "options": [
+            "might",
+            "are",
+            "did"
+          ],
+          "answer": "might",
+          "explanation": "“I'm not sure” shows it is only possible, so we use might."
+        },
+        {
+          "type": "mc",
+          "prompt": "Next year, Nouf ___ thirteen years old.",
+          "options": [
+            "will be",
+            "was",
+            "is being"
+          ],
+          "answer": "will be",
+          "explanation": "This is a sure fact about the future, so we use will be."
+        },
+        {
+          "type": "gap",
+          "prompt": "We ___ our grandparents next weekend. We have already bought the tickets!",
+          "hint": "(be going to / visit)",
+          "answer": [
+            "are going to visit",
+            "'re going to visit"
+          ],
+          "explanation": "It is a plan we have already made: are going to + verb."
+        },
+        {
+          "type": "gap",
+          "prompt": "Omar ___ come today. He isn't sure yet.",
+          "bank": [
+            "might",
+            "is going to",
+            "did"
+          ],
+          "answer": [
+            "might",
+            "may"
+          ],
+          "explanation": "He isn't sure, so we use might (or may)."
+        },
+        {
+          "type": "gap",
+          "prompt": "Don't worry, I ___ you with your homework.",
+          "bank": [
+            "will help",
+            "helped",
+            "am helping"
+          ],
+          "answer": [
+            "will help",
+            "'ll help"
+          ],
+          "explanation": "This is an offer, so we use will + verb."
+        },
+        {
+          "type": "gap",
+          "prompt": "It ___ cold tomorrow. The weather report says sunny and 30 degrees.",
+          "hint": "(not / be)",
+          "answer": [
+            "will not be",
+            "won't be",
+            "is not going to be",
+            "isn't going to be",
+            "'s not going to be"
+          ],
+          "explanation": "We are sure about the weather, so we use won't be (or isn't going to be)."
+        },
+        {
+          "type": "order",
+          "answer": "I am going to be a journalist.",
+          "explanation": "Plan for the future: am going to + verb."
+        },
+        {
+          "type": "order",
+          "answer": "Will you come to my house tomorrow?",
+          "explanation": "Questions with will: Will + subject + verb?"
+        },
+        {
+          "type": "transform",
+          "instruction": "Make it negative.",
+          "prompt": "We are going to take a taxi.",
+          "answer": [
+            "We are not going to take a taxi.",
+            "We aren't going to take a taxi.",
+            "We're not going to take a taxi."
+          ],
+          "explanation": "Put not after are: are not going to."
+        },
+        {
+          "type": "transform",
+          "instruction": "Make it a question.",
+          "prompt": "Sara will agree with you.",
+          "answer": [
+            "Will Sara agree with you?"
+          ],
+          "explanation": "Move will to the start: Will Sara agree ...?"
+        },
+        {
+          "type": "fix",
+          "sentence": "She will to call you in a minute.",
+          "correct": false,
+          "answer": "She will call you in a minute.",
+          "explanation": "After will we use the verb without “to”."
+        },
+        {
+          "type": "fix",
+          "sentence": "They might come to the party.",
+          "correct": true,
+          "answer": "They might come to the party.",
+          "explanation": "Correct! might + verb shows something is possible."
+        },
+        {
+          "type": "fix",
+          "sentence": "I going to wear my new tie.",
+          "correct": false,
+          "answer": "I am going to wear my new tie.",
+          "explanation": "Don't forget am / is / are before going to."
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "r1",
+      "title": "The School News Team",
+      "genre": "story",
+      "text": "It is the first week of school, and Sara is standing at the school gate. She is looking for the art room. At the moment, she is a little nervous because she doesn't know anyone in her new class.\n\nA tall girl walks over to her. “Hi! I'm Reem. Are you new?” she asks. “Yes, I'm Sara,” says Sara. “What's your last name?” asks Reem. “Alqahtani,” Sara answers.\n\nReem smiles. “I'm in the school news team. We are going to make a video about our school. Do you want to help us? You can draw the storyboard if you want.” “No problem!” says Sara. “I love drawing.”\n\nIn the art room, a girl called Nouf is writing questions for an interview with the principal. She wants to be a journalist one day. “Can you help me in a minute?” she asks Sara. “Of course!” Sara says.\n\nAfter the meeting, Sara feels much happier than before. She thinks this year might be her best year ever.",
+      "questions": [
+        {
+          "type": "tf",
+          "statement": "At the start of the story, Sara is standing at the school gate.",
+          "answer": true,
+          "explanation": "The story says Sara is standing at the school gate."
+        },
+        {
+          "type": "mc",
+          "prompt": "Why is Sara nervous?",
+          "options": [
+            "She doesn't know anyone in her class.",
+            "She lost her helmet.",
+            "She is late for school."
+          ],
+          "answer": "She doesn't know anyone in her class.",
+          "explanation": "She is nervous because she doesn't know anyone in her new class."
+        },
+        {
+          "type": "gap",
+          "prompt": "Sara's last name is ___.",
+          "answer": "Alqahtani",
+          "explanation": "Sara tells Reem her last name: Alqahtani."
+        },
+        {
+          "type": "mc",
+          "prompt": "What is the news team going to make?",
+          "options": [
+            "a video about the school",
+            "a big cake",
+            "a book about animals"
+          ],
+          "answer": "a video about the school",
+          "explanation": "Reem says they are going to make a video about the school."
+        },
+        {
+          "type": "tf",
+          "statement": "Nouf wants to be a journalist one day.",
+          "answer": true,
+          "explanation": "The story says Nouf wants to be a journalist one day."
+        },
+        {
+          "type": "mc",
+          "prompt": "How does Sara feel at the end?",
+          "options": [
+            "happier than before",
+            "angry",
+            "bored"
+          ],
+          "answer": "happier than before",
+          "explanation": "After the meeting, Sara feels much happier than before."
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "title": "My Summer and My Plans",
+      "genre": "blog post",
+      "text": "Hello, everyone! My name is Omar, and I'm twelve years old. This summer was the best summer of my life.\n\nIn July, my family and I visited my uncle in Abha. The weather there was much cooler than in Riyadh. One afternoon, we were walking in the mountains when it started to rain. We didn't have umbrellas, so we ran to a small café. My uncle bought us hot tea and date cookies. They were the most delicious cookies in the world!\n\nIn August, I learned to ride my new bike. I always wear my helmet, because my mother says safety is more important than speed. My little sister is learning to ride, too. At the moment, she is practicing in our garden.\n\nNow school is starting again. This year, I'm going to join the school news team. I want to be a journalist when I grow up. I might write a story about the animals in our area. I think it will be a great year!",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "Where did Omar's family go in July?",
+          "options": [
+            "Abha",
+            "Jeddah",
+            "AlUla"
+          ],
+          "answer": "Abha",
+          "explanation": "Omar says they visited his uncle in Abha."
+        },
+        {
+          "type": "tf",
+          "statement": "The weather in Abha was hotter than in Riyadh.",
+          "answer": false,
+          "explanation": "It was cooler in Abha than in Riyadh."
+        },
+        {
+          "type": "mc",
+          "prompt": "What were they doing when it started to rain?",
+          "options": [
+            "walking in the mountains",
+            "eating cookies",
+            "riding in a taxi"
+          ],
+          "answer": "walking in the mountains",
+          "explanation": "“We were walking in the mountains when it started to rain.”"
+        },
+        {
+          "type": "gap",
+          "prompt": "Omar always wears his ___ when he rides his bike.",
+          "answer": "helmet",
+          "explanation": "He always wears his helmet because safety is important."
+        },
+        {
+          "type": "tf",
+          "statement": "Omar is going to join the school news team.",
+          "answer": true,
+          "explanation": "He says, “This year, I'm going to join the school news team.”"
+        },
+        {
+          "type": "mc",
+          "prompt": "What might Omar write about?",
+          "options": [
+            "the animals in his area",
+            "his uncle's car",
+            "a famous football player"
+          ],
+          "answer": "the animals in his area",
+          "explanation": "He might write a story about the animals in his area."
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "title": "The Day Everything Went Wrong",
+      "genre": "diary",
+      "text": "Monday, September 8\n\nDear Diary,\n\nToday was the strangest day of the school year so far. This morning, Dad's car didn't start, so we called a taxi. While we were waiting outside, my little brother Omar was eating a chocolate cookie and talking about football.\n\nThe taxi was slower than a tortoise because the roads were very busy. When we arrived, the school gate was already closed! I knocked on the gate, and Mr. Saleh opened it. “No problem!” he said with a smile.\n\nOur teacher was talking about the school film club when I walked into class. He wants us to make a storyboard for a short film. I agree with him that it is a great idea. Khalid and I are going to make it together.\n\nAt lunch, I dropped a glass of water on my new tie. What a mess! I was cleaning my tie when Khalid laughed at me. “Go away!” I said, but I was laughing too.\n\nAt the moment, I am sitting at my desk and writing this. Tomorrow will be better. I'm going to wake up earlier, and I might ride my bike to school. I'll wear my helmet, of course!\n\nFahad",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "Why did Fahad go to school by taxi?",
+          "options": [
+            "Dad's car didn't start.",
+            "He missed the school bus.",
+            "It was raining."
+          ],
+          "answer": "Dad's car didn't start.",
+          "explanation": "The diary says Dad's car didn't start, so they called a taxi."
+        },
+        {
+          "type": "tf",
+          "statement": "The taxi was fast because the roads were empty.",
+          "answer": false,
+          "explanation": "The taxi was slower than a tortoise because the roads were very busy."
+        },
+        {
+          "type": "mc",
+          "prompt": "What was the teacher doing when Fahad walked into class?",
+          "options": [
+            "talking about the school film club",
+            "writing on the board",
+            "reading a story"
+          ],
+          "answer": "talking about the school film club",
+          "explanation": "“Our teacher was talking about the school film club when I walked into class.”"
+        },
+        {
+          "type": "gap",
+          "prompt": "At lunch, Fahad dropped a glass of water on his new ___.",
+          "answer": "tie",
+          "explanation": "Fahad writes that he dropped a glass of water on his new tie."
+        },
+        {
+          "type": "tf",
+          "statement": "Fahad and Khalid are going to make the storyboard together.",
+          "answer": true,
+          "explanation": "Fahad writes, “Khalid and I are going to make it together.”"
+        },
+        {
+          "type": "mc",
+          "prompt": "In “At the moment, I am sitting at my desk,” why does Fahad use the present progressive?",
+          "options": [
+            "The action is happening now.",
+            "The action is a habit.",
+            "The action finished yesterday."
+          ],
+          "answer": "The action is happening now.",
+          "explanation": "We use the present progressive with “at the moment” for actions happening now."
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "title": "Meet Our New Art Teacher",
+      "genre": "interview",
+      "text": "Lama, our school journalist, talked to Ms. Huda, the new art teacher at our girls' school.\n\nLama: Welcome to our school, Ms. Huda! Can you tell us your last name?\nMs. Huda: It's Alharbi, but the girls usually call me Ms. Huda.\n\nLama: Where did you work before?\nMs. Huda: I taught art in Jeddah for five years. I was living near the Red Sea when I painted my first big picture.\n\nLama: What are the girls doing in art class at the moment?\nMs. Huda: At the moment, the Grade 6 girls are making a storyboard for a short cartoon. They draw every picture by hand. It is harder than drawing on a computer, but it is more fun!\n\nLama: Is art important?\nMs. Huda: Some people say art is just for fun, but I don't agree. Art helps us see the world in a new way.\n\nLama: What are your plans for this year?\nMs. Huda: We are going to have an art show in March. Some girls might sell their pictures. If you want to help, come to the art room on Tuesday.\n\nLama: One last question: what is your favorite snack?\nMs. Huda: Date cookies, of course! I'll bring some to the art show.",
+      "questions": [
+        {
+          "type": "gap",
+          "prompt": "Ms. Huda's last name is ___.",
+          "answer": "Alharbi",
+          "explanation": "Ms. Huda says her last name is Alharbi."
+        },
+        {
+          "type": "mc",
+          "prompt": "Where did Ms. Huda teach art before?",
+          "options": [
+            "Jeddah",
+            "Abha",
+            "Riyadh"
+          ],
+          "answer": "Jeddah",
+          "explanation": "She says, “I taught art in Jeddah for five years.”"
+        },
+        {
+          "type": "tf",
+          "statement": "The Grade 6 girls are drawing their storyboard on a computer.",
+          "answer": false,
+          "explanation": "Ms. Huda says they draw every picture by hand."
+        },
+        {
+          "type": "mc",
+          "prompt": "What does Ms. Huda say about drawing by hand?",
+          "options": [
+            "It is harder, but it is more fun.",
+            "It is easier and faster.",
+            "It is boring."
+          ],
+          "answer": "It is harder, but it is more fun.",
+          "explanation": "She says drawing by hand is harder than drawing on a computer, but more fun."
+        },
+        {
+          "type": "tf",
+          "statement": "The school is going to have an art show in March.",
+          "answer": true,
+          "explanation": "Ms. Huda says, “We are going to have an art show in March.”"
+        },
+        {
+          "type": "mc",
+          "prompt": "In “Some girls might sell their pictures,” what does “might” show?",
+          "options": [
+            "It is possible, but not sure.",
+            "It is a fixed plan.",
+            "It happens every day."
+          ],
+          "answer": "It is possible, but not sure.",
+          "explanation": "We use “might” when something is possible, but we are not sure."
+        }
+      ]
+    },
+    {
+      "id": "r5",
+      "title": "How Do You Get to School?",
+      "genre": "school newsletter",
+      "text": "This month, the young journalists of our Grade 6 news team asked 60 boys at our school this question: How do you get to school?\n\nHere are the results. Most boys, 32 of them, come by car with their fathers. Twelve boys walk to school, and ten boys come by school bus. Four boys come by taxi, and only two boys ride their bikes.\n\nWalking is the healthiest way to get to school, but it isn't always the easiest. In summer, Riyadh is hotter than many other cities. Yousef walks every day. “I usually leave home at 6:30, when it is cooler,” he says.\n\nThe bus is slower than a car, but many boys think it is more fun. “I talk to my friends on the bus every morning,” says Fahad.\n\nThe two bike riders always wear their helmets. Last week, Omar was riding to school when his bike chain broke. “Walking was harder than riding, but I wasn't late!” he laughed.\n\nNext month, our school is going to start a Walk to School Day. Teachers will stand at the gate with cold glasses of water for all the walkers. If you want to join, give your name to Mr. Nasser. It might be the best day of the year!",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "How do most boys get to school?",
+          "options": [
+            "by car",
+            "by school bus",
+            "on foot",
+            "by taxi"
+          ],
+          "answer": "by car",
+          "explanation": "Most boys, 32 of them, come by car."
+        },
+        {
+          "type": "tf",
+          "statement": "More boys come by taxi than by bike.",
+          "answer": true,
+          "explanation": "Four boys come by taxi, but only two boys ride their bikes."
+        },
+        {
+          "type": "gap",
+          "prompt": "The bus is ___ than a car, but many boys think it is more fun.",
+          "answer": "slower",
+          "explanation": "The newsletter says, “The bus is slower than a car,” using a comparative."
+        },
+        {
+          "type": "mc",
+          "prompt": "Why does Yousef leave home at 6:30?",
+          "options": [
+            "It is cooler then.",
+            "The bus leaves early.",
+            "He plays football before school."
+          ],
+          "answer": "It is cooler then.",
+          "explanation": "Yousef says he leaves at 6:30, when it is cooler."
+        },
+        {
+          "type": "tf",
+          "statement": "Omar's bike chain broke while he was riding to school.",
+          "answer": true,
+          "explanation": "Omar was riding to school when his bike chain broke."
+        },
+        {
+          "type": "mc",
+          "prompt": "What will teachers do on Walk to School Day?",
+          "options": [
+            "stand at the gate with cold water",
+            "drive the boys to school",
+            "give prizes to the bus riders"
+          ],
+          "answer": "stand at the gate with cold water",
+          "explanation": "Teachers will stand at the gate with cold glasses of water for the walkers."
+        }
+      ]
+    }
+  ],
+  "wordWork": {
+    "title": "Everyday expressions",
+    "rule": "Short phrases help us be polite and friendly. “In a minute” means soon, “No problem!” means “Yes, happily!”, and “Go away!” is rude, so we try not to use it.",
+    "items": [
+      {
+        "type": "mc",
+        "prompt": "Your friend asks, “Can you pass me the glass?” What is a friendly answer?",
+        "options": [
+          "No problem!",
+          "Go away!",
+          "Last name!"
+        ],
+        "answer": "No problem!",
+        "explanation": "“No problem!” is a friendly way to say yes."
+      },
+      {
+        "type": "mc",
+        "prompt": "Your little brother wants to play, but you are busy for a short time. What is a polite answer?",
+        "options": [
+          "In a minute.",
+          "Go away!",
+          "Last name."
+        ],
+        "answer": "In a minute.",
+        "explanation": "“In a minute” politely says you will come soon."
+      },
+      {
+        "type": "gap",
+        "prompt": "I'm doing my homework at the ___. I'll call you later.",
+        "answer": "moment",
+        "explanation": "“At the moment” means now."
+      },
+      {
+        "type": "gap",
+        "prompt": "You can borrow my pen if you ___.",
+        "answer": "want",
+        "explanation": "“If you want” means you can do it if you like."
+      },
+      {
+        "type": "mc",
+        "prompt": "Which expression is NOT polite?",
+        "options": [
+          "Go away!",
+          "No problem!",
+          "In a minute."
+        ],
+        "answer": "Go away!",
+        "explanation": "“Go away!” is rude. Try “In a minute” instead."
+      },
+      {
+        "type": "gap",
+        "prompt": "My first name is Nouf, and my ___ name is Alotaibi.",
+        "answer": "last",
+        "explanation": "Your last name is your family name."
+      },
+      {
+        "type": "mc",
+        "prompt": "Sara says, “The film was great!” You think so too. What do you say?",
+        "options": [
+          "I agree!",
+          "Go away!",
+          "In a minute!"
+        ],
+        "answer": "I agree!",
+        "explanation": "We say “I agree” when we think the same as someone."
+      },
+      {
+        "type": "gap",
+        "prompt": "Wait for me. I'll be ready in a ___.",
+        "answer": "minute",
+        "explanation": "“In a minute” means very soon."
+      }
+    ]
+  },
+  "writing": [
+    {
+      "prompt": "Introduce yourself to a new classmate.",
+      "hint": "Use: My name is ..., My last name is ..., I usually ..., At the moment I'm ...",
+      "minWords": 40,
+      "model": "Hi! My name is Reem, and my last name is Alharbi. I'm eleven years old, and I live in Jeddah. I usually walk to school with my sister. I love drawing and reading stories. At the moment, I'm learning to bake cookies with my mom. Do you want to be my friend?"
+    },
+    {
+      "prompt": "Write about your plans for this school year.",
+      "hint": "Use: I'm going to ..., I will ..., I might ..., better than ..., the best ...",
+      "minWords": 40,
+      "model": "This year, I'm going to work harder than last year. I want to be the best reader in my class, so I'm going to read a new book every week. I might join the school news team, because I want to be a journalist one day. I think this will be a great year!"
+    }
+  ],
+  "speaking": [
+    "No problem! I can help you.",
+    "I'm busy at the moment. I'll come in a minute.",
+    "You can sit with us if you want.",
+    "I was reading when the taxi arrived.",
+    "A camel is bigger than a goat.",
+    "We are going to visit AlUla next month.",
+    "It might rain tomorrow."
+  ]
+}

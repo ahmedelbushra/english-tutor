@@ -1,0 +1,12 @@
+[
+  {
+    "id": "tg3",
+    "title": "Top Goal 3",
+    "level": "Grade 6",
+    "emoji": "🚀",
+    "color": "#6c5ce7",
+    "dir": "content/g6",
+    "units": ["u0", "u1", "u2", "u3", "u4", "u5", "u6", "u7", "u8", "u9"],
+    "about": "Grade 6 English (Saudi MoE). Vocabulary, grammar, reading, writing and speaking for every unit."
+  }
+]

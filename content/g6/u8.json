@@ -1,0 +1,255 @@
+{
+  "id": "u8",
+  "unit": 8,
+  "title": "Recent Events",
+  "emoji": "🎓",
+  "color": "#0c8599",
+  "bigQuestion": "What have you done recently, and what are your plans?",
+  "summary": "Students learn school-life and future-plans words, talk about recent events with the Present Perfect (already, ever, just, never, yet), give advice and talk about rules with can / could / must / have to / should, and think about making decisions that are right for them.",
+  "warmup": [
+    "What clubs are there at your school?",
+    "How do you feel before exams?",
+    "What have you done this semester that you are proud of?",
+    "What do you want to do when you are a teenager?"
+  ],
+  "vocab": [
+    { "word": "advertisement", "pos": "noun", "set": 1, "cat": "School life", "meaning": "a notice or video that tells people about something", "example": "I saw an advertisement for the new chess club.", "emoji": "📢" },
+    { "word": "athletics", "pos": "noun", "set": 1, "cat": "School life", "meaning": "sports like running, jumping and throwing", "example": "Fahad won a medal in athletics last year.", "emoji": "🏅" },
+    { "word": "classmate", "pos": "noun", "set": 1, "cat": "School life", "meaning": "a student in the same class as you", "example": "My classmate Omar helped me with my math.", "emoji": "🧑‍🤝‍🧑" },
+    { "word": "exams", "pos": "noun", "set": 1, "cat": "School life", "meaning": "important tests at school", "example": "We have our English exams next week.", "emoji": "📝" },
+    { "word": "grades", "pos": "noun", "set": 1, "cat": "School life", "meaning": "the marks you get for your schoolwork", "example": "Sara got excellent grades in science.", "emoji": "💯" },
+    { "word": "gymnastics", "pos": "noun", "set": 1, "cat": "School life", "meaning": "a sport with jumps, rolls and balancing", "example": "Nouf can do a handstand in gymnastics.", "emoji": "🤸" },
+    { "word": "presentation", "pos": "noun", "set": 1, "cat": "School life", "meaning": "a talk you give to show information to others", "example": "Reem gave a presentation about the Red Sea.", "emoji": "📊" },
+    { "word": "semester", "pos": "noun", "set": 1, "cat": "School life", "meaning": "one part of the school year", "example": "This semester, I want to read more books.", "emoji": "📅" },
+
+    { "word": "application", "pos": "noun", "set": 2, "cat": "Plans for the future", "meaning": "a form you fill out to ask for something", "example": "Khalid filled out an application for the summer course.", "emoji": "📄" },
+    { "word": "assistant", "pos": "noun", "set": 2, "cat": "Plans for the future", "meaning": "a person who helps someone with their work", "example": "My uncle is an assistant at the hospital.", "emoji": "🧑‍💼" },
+    { "word": "scholarship", "pos": "noun", "set": 2, "cat": "Plans for the future", "meaning": "money given to a good student to pay for study", "example": "My sister got a scholarship to study in Jeddah.", "emoji": "💵" },
+    { "word": "teenager", "pos": "noun", "set": 2, "cat": "Plans for the future", "meaning": "a person between 13 and 19 years old", "example": "My brother is a teenager. He is fifteen.", "emoji": "🧑" },
+
+    { "word": "decide", "pos": "verb", "set": 1, "cat": "Action words", "meaning": "to choose what to do after thinking", "example": "I can't decide which club to join.", "emoji": "🤔" },
+    { "word": "follow", "pos": "verb", "set": 1, "cat": "Action words", "meaning": "to go after someone, or watch and listen carefully", "example": "Please follow the teacher to the library.", "emoji": "👣" },
+    { "word": "graduate", "pos": "verb", "set": 1, "cat": "Action words", "meaning": "to finish your studies at a school or university", "example": "My cousin will graduate from university in June.", "emoji": "🎓" },
+    { "word": "sign up", "pos": "phrasal verb", "set": 1, "cat": "Action words", "meaning": "to put your name on a list to join something", "example": "Did you sign up for the football team?", "emoji": "✍️" },
+    { "word": "apply", "pos": "verb", "set": 2, "cat": "Action words", "meaning": "to ask in writing for a job, course or place", "example": "Sara wants to apply for the art course.", "emoji": "📨" },
+    { "word": "improve", "pos": "verb", "set": 2, "cat": "Action words", "meaning": "to get better, or make something better", "example": "Reading every day can improve your English.", "emoji": "📈" },
+    { "word": "invent", "pos": "verb", "set": 2, "cat": "Action words", "meaning": "to make something new for the first time", "example": "Omar wants to invent a robot that cleans rooms.", "emoji": "💡" },
+    { "word": "keep", "pos": "verb", "set": 2, "cat": "Action words", "meaning": "to have something and not give it away", "example": "I keep my old school photos in a box.", "emoji": "📦" },
+
+    { "word": "instead", "pos": "adverb", "set": 1, "cat": "Describing words", "meaning": "in the place of something or someone else", "example": "There was no milk, so I drank juice instead.", "emoji": "🔄" },
+    { "word": "interested", "pos": "adjective", "set": 1, "cat": "Describing words", "meaning": "wanting to know or learn more about something", "example": "Khalid is very interested in space.", "emoji": "🙋" },
+    { "word": "interesting", "pos": "adjective", "set": 2, "cat": "Describing words", "meaning": "making you want to know more", "example": "The museum trip was really interesting.", "emoji": "🤩" },
+    { "word": "several", "pos": "adjective", "set": 2, "cat": "Describing words", "meaning": "more than two, but not many", "example": "Several students stayed after school to practice.", "emoji": "🔢" }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "Present Perfect with already, ever, just, never, yet",
+      "rule": "We use the Present Perfect (have/has + past participle) for things that happened before now when we don't say exactly when. Just means a very short time ago, and already means sooner than expected. Yet goes at the end of questions and negatives, ever is for questions (at any time?), and never means not at any time.",
+      "form": "have/has + just / already / never + past participle | Have/Has + subject + ever + past participle? | haven't/hasn't + past participle ... yet",
+      "examples": [
+        "I've just signed up for the gymnastics club.",
+        "Sara has already finished her presentation.",
+        "Have you ever won a medal?",
+        "Omar has never been to Abha.",
+        "We haven't decided yet."
+      ],
+      "items": [
+        { "type": "mc", "prompt": "The bell has ___ rung. Hurry to class!", "options": ["just", "yet", "ever"], "answer": "just", "explanation": "Just means a very short time ago." },
+        { "type": "mc", "prompt": "I haven't finished my presentation ___.", "options": ["yet", "already", "ever"], "answer": "yet", "explanation": "Yet goes at the end of negative sentences." },
+        { "type": "mc", "prompt": "Khalid has ___ been to Abha. He wants to go one day.", "options": ["never", "ever", "yet"], "answer": "never", "explanation": "Never means not at any time. Khalid hasn't been there." },
+        { "type": "mc", "prompt": "We've ___ done our homework, so we can play now.", "options": ["already", "yet", "ever"], "answer": "already", "explanation": "Already means it happened sooner than expected. It goes after have." },
+        { "type": "mc", "prompt": "___ you ever been to a gymnastics show?", "options": ["Have", "Did", "Are"], "answer": "Have", "explanation": "Present Perfect questions start with Have/Has: Have you ever been ...?" },
+        { "type": "mc", "prompt": "She ___ applied for the scholarship yet.", "options": ["hasn't", "haven't", "didn't"], "answer": "hasn't", "explanation": "Use hasn't with she in the Present Perfect." },
+        { "type": "mc", "prompt": "Sara has just ___ her exam grades.", "options": ["seen", "saw", "see"], "answer": "seen", "explanation": "After has, we use the past participle: seen." },
+
+        { "type": "gap", "prompt": "Have you ever ___ a presentation?", "hint": "(give)", "answer": "given", "explanation": "The past participle of give is given." },
+        { "type": "gap", "prompt": "Nouf has just ___ up for the athletics club.", "hint": "(sign)", "answer": "signed", "explanation": "Sign is regular, so the past participle is signed." },
+        { "type": "gap", "prompt": "We haven't ___ our exam grades yet.", "hint": "(get)", "answer": ["gotten", "got"], "explanation": "The past participle of get is gotten (American English) or got." },
+        { "type": "gap", "prompt": "Khalid has never ___ a machine before.", "hint": "(invent)", "answer": "invented", "explanation": "Invent is regular: invented." },
+        { "type": "gap", "prompt": "Has Reem ___ for the scholarship yet?", "hint": "(apply)", "answer": "applied", "explanation": "Apply ends in consonant + y, so we change y to i: applied." },
+        { "type": "gap", "prompt": "I've already ___ my classmates about the trip.", "hint": "(tell)", "answer": "told", "explanation": "The past participle of tell is told." },
+        { "type": "gap", "prompt": "My cousin has ___ graduated! The party is today.", "bank": ["just", "yet", "ever"], "answer": ["just", "already"], "explanation": "Just means a very short time ago. Yet and ever don't go here." },
+        { "type": "gap", "prompt": "Have you decided what to do next semester ___?", "bank": ["yet", "never", "just"], "answer": "yet", "explanation": "Yet goes at the end of questions." },
+
+        { "type": "order", "answer": "Have you ever tried gymnastics?", "explanation": "Have + you + ever + past participle?" },
+        { "type": "order", "answer": "I have just signed up for athletics.", "explanation": "have + just + past participle." },
+        { "type": "order", "answer": "We haven't decided what to do yet.", "alt": ["We haven't yet decided what to do."], "explanation": "Yet usually goes at the end of a negative sentence." },
+        { "type": "order", "answer": "She has already finished her presentation.", "alt": ["She has finished her presentation already."], "explanation": "Already usually goes between has and the past participle." },
+        { "type": "order", "answer": "My brother has never failed an exam.", "explanation": "has + never + past participle." },
+
+        { "type": "transform", "instruction": "Make it negative with yet.", "prompt": "Omar has finished his presentation.", "answer": ["Omar hasn't finished his presentation yet.", "Omar has not finished his presentation yet."], "explanation": "hasn't + past participle ... yet." },
+        { "type": "transform", "instruction": "Make a question with ever.", "prompt": "You have won a medal.", "answer": ["Have you ever won a medal?"], "explanation": "Have + you + ever + past participle?" },
+        { "type": "transform", "instruction": "Add just.", "prompt": "The semester has ended.", "answer": ["The semester has just ended."], "explanation": "Just goes between has and the past participle." },
+        { "type": "transform", "instruction": "Make a question with yet.", "prompt": "Sara has applied for the course.", "answer": ["Has Sara applied for the course yet?"], "explanation": "Has + subject + past participle ... yet?" },
+        { "type": "transform", "instruction": "Rewrite with never.", "prompt": "I haven't ever seen that advertisement.", "answer": ["I have never seen that advertisement.", "I've never seen that advertisement."], "explanation": "Haven't ever means the same as have never." },
+
+        { "type": "fix", "sentence": "I have already decide.", "correct": false, "answer": "I have already decided.", "explanation": "After have, use the past participle: decided." },
+        { "type": "fix", "sentence": "Have you ever been to a gymnastics show?", "correct": true, "answer": "Have you ever been to a gymnastics show?", "explanation": "Correct: Have + you + ever + been." },
+        { "type": "fix", "sentence": "She hasn't signed up yet.", "correct": true, "answer": "She hasn't signed up yet.", "explanation": "Correct: hasn't + past participle + yet." },
+        { "type": "fix", "sentence": "Khalid has never ride a horse.", "correct": false, "answer": "Khalid has never ridden a horse.", "explanation": "The past participle of ride is ridden." },
+        { "type": "fix", "sentence": "They has just graduated.", "correct": false, "answer": "They have just graduated.", "explanation": "Use have with they, not has." }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": "Modal verbs: can, could, must, have to, should",
+      "rule": "Can is for ability or for something that is possible. Could is for an idea or suggestion. Must is for something you think is very important to do, have to is for a rule from someone else, and should is for advice. After can, could, must and should, use the base verb with no to and no -s. Have to changes with he/she/it: has to.",
+      "form": "subject + can / could / must / should + base verb | subject + have to / has to + base verb",
+      "examples": [
+        "Fahad can run very fast.",
+        "You could look on the school website.",
+        "I must study for my exams.",
+        "We have to wear a uniform at school.",
+        "You should apply for the scholarship."
+      ],
+      "items": [
+        { "type": "mc", "prompt": "Fahad ___ swim very fast.", "options": ["can", "cans", "can to"], "answer": "can", "explanation": "Can never takes -s or to: Fahad can swim." },
+        { "type": "mc", "prompt": "She ___ apply for the scholarship before Friday.", "options": ["has to", "have to", "has"], "answer": "has to", "explanation": "With she, have to becomes has to." },
+        { "type": "mc", "prompt": "You should ___ for your exams.", "options": ["study", "to study", "studies"], "answer": "study", "explanation": "After should, use the base verb with no to." },
+        { "type": "mc", "prompt": "Do we ___ wear sneakers for athletics?", "options": ["have to", "must", "should to"], "answer": "have to", "explanation": "Questions with do use have to: Do we have to ...?" },
+        { "type": "mc", "prompt": "Which sentence gives advice?", "options": ["You should ask your teacher for help.", "You have to wear a uniform.", "I can run fast."], "answer": "You should ask your teacher for help.", "explanation": "We use should to give advice." },
+        { "type": "mc", "prompt": "Which sentence is about ability?", "options": ["Reem can speak three languages.", "Reem should rest.", "Reem has to go home."], "answer": "Reem can speak three languages.", "explanation": "Can tells us what someone is able to do." },
+        { "type": "mc", "prompt": "Which sentence talks about a rule from someone else?", "options": ["We have to be at school by 7 a.m.", "We could go to the park.", "I can ride a bike."], "answer": "We have to be at school by 7 a.m.", "explanation": "Have to is for rules from outside, like school rules." },
+
+        { "type": "gap", "prompt": "Khalid is good at gymnastics. He ___ do a handstand.", "bank": ["can", "has to", "should"], "answer": "can", "explanation": "Can is for ability." },
+        { "type": "gap", "prompt": "We ___ to finish our presentation by Sunday. The teacher said so.", "bank": ["have", "must", "should"], "answer": "have", "explanation": "Only have goes before to: have to is a rule from the teacher." },
+        { "type": "gap", "prompt": "You look tired. You ___ go to bed early tonight.", "bank": ["should", "can", "has to"], "answer": ["should", "must", "could"], "explanation": "Should is for advice. Has to doesn't go with you." },
+        { "type": "gap", "prompt": "\"What can we do this weekend?\" \"We ___ visit the science museum!\"", "bank": ["could", "have to", "must not"], "answer": ["could", "can", "should"], "explanation": "Could is for an idea or suggestion." },
+        { "type": "gap", "prompt": "I ___ remember to call my grandmother. I promised her!", "bank": ["must", "could", "can"], "answer": ["must", "have to", "should"], "explanation": "Must is for something you feel is very important to do." },
+        { "type": "gap", "prompt": "Sara ___ come to the club today because she needs to study for an exam.", "bank": ["can't", "should", "has to"], "answer": ["can't", "cannot", "can not"], "explanation": "Can't means it isn't possible for her today." },
+        { "type": "gap", "prompt": "Does Omar ___ wear a tracksuit for athletics?", "bank": ["have to", "has to", "must"], "answer": "have to", "explanation": "After does, use have to (not has to)." },
+
+        { "type": "order", "answer": "You should try to improve your grades.", "explanation": "should + base verb (try)." },
+        { "type": "order", "answer": "We have to wear a uniform.", "explanation": "have to + base verb (wear)." },
+        { "type": "order", "answer": "You could join the gymnastics club.", "explanation": "could + base verb for a suggestion." },
+        { "type": "order", "answer": "I must finish my application today.", "alt": ["Today I must finish my application."], "explanation": "must + base verb (finish)." },
+        { "type": "order", "answer": "Can you help me with my presentation?", "explanation": "Questions with can: Can + subject + base verb?" },
+
+        { "type": "transform", "instruction": "Rewrite with has to.", "prompt": "Sara must wear a uniform. (It's a school rule.)", "answer": ["Sara has to wear a uniform."], "explanation": "For a rule from outside, use has to with she." },
+        { "type": "transform", "instruction": "Make it negative.", "prompt": "You should believe every advertisement.", "answer": ["You shouldn't believe every advertisement.", "You should not believe every advertisement."], "explanation": "Add not after should: shouldn't." },
+        { "type": "transform", "instruction": "Make it a question.", "prompt": "Reem can speak French.", "answer": ["Can Reem speak French?"], "explanation": "Put can before the subject." },
+        { "type": "transform", "instruction": "Make it a question.", "prompt": "We have to sign up today.", "answer": ["Do we have to sign up today?"], "explanation": "Questions with have to use do: Do we have to ...?" },
+        { "type": "transform", "instruction": "Make a suggestion with could. Start with: You could ...", "prompt": "Why don't you ask your classmate for help?", "answer": ["You could ask your classmate for help."], "explanation": "could + base verb gives a suggestion." },
+
+        { "type": "fix", "sentence": "You should to study for the exams.", "correct": false, "answer": "You should study for the exams.", "explanation": "No to after should." },
+        { "type": "fix", "sentence": "He have to apply before Monday.", "correct": false, "answer": "He has to apply before Monday.", "explanation": "With he, use has to." },
+        { "type": "fix", "sentence": "We must keep our classroom clean.", "correct": true, "answer": "We must keep our classroom clean.", "explanation": "Correct: must + base verb." },
+        { "type": "fix", "sentence": "Do I must sign up online?", "correct": false, "answer": "Do I have to sign up online?", "explanation": "We don't use do with must. Use Do I have to ...?" },
+        { "type": "fix", "sentence": "Omar cans run very fast.", "correct": false, "answer": "Omar can run very fast.", "explanation": "Can never takes -s." },
+        { "type": "fix", "sentence": "You could ask the assistant in the library.", "correct": true, "answer": "You could ask the assistant in the library.", "explanation": "Correct: could + base verb for a suggestion." }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "r1",
+      "title": "Reem's Choice",
+      "genre": "story",
+      "text": "It was the first week of the new semester, and there was a big advertisement on the school wall: Sign up for a club! Reem's best friends, Nouf and Sara, ran to the athletics table. \"Come on, Reem! We've already signed up,\" Nouf said.\n\nReem looked at the athletics table. Then she looked at the table next to it. It said Young Inventors Club. A teacher was showing a small robot that could clean a desk. Reem's eyes opened wide.\n\n\"I've never been good at running,\" she thought. \"But I've always wanted to invent things.\" She felt worried. Her friends wanted her to join athletics with them.\n\nReem took a deep breath. She walked to the inventors' table and wrote her name. Then she went back to her friends. \"I'm sorry,\" she said. \"I've decided to join the inventors' club instead.\"\n\nSara smiled. \"That's great! You should do what you love.\" Nouf agreed. \"And you can invent a robot that carries our bags after athletics!\"\n\nTwo months later, Reem gave a presentation about her first invention. Her friends sat in the front row and clapped the loudest.",
+      "questions": [
+        { "type": "mc", "prompt": "Where did Reem see the advertisement?", "options": ["on the school wall", "on TV", "in a magazine"], "answer": "on the school wall", "explanation": "There was a big advertisement on the school wall." },
+        { "type": "tf", "statement": "Nouf and Sara had already signed up for athletics.", "answer": true, "explanation": "Nouf said, \"We've already signed up.\"" },
+        { "type": "mc", "prompt": "Why did Reem choose the inventors' club?", "options": ["She always wanted to invent things.", "She was sick.", "The athletics club was full."], "answer": "She always wanted to invent things.", "explanation": "She thought, \"I've always wanted to invent things.\"" },
+        { "type": "tf", "statement": "Reem's friends were angry about her decision.", "answer": false, "explanation": "Sara smiled and Nouf agreed. They were happy for her." },
+        { "type": "gap", "prompt": "Reem decided to join the inventors' club ___ of the athletics club.", "answer": "instead", "explanation": "She said, \"I've decided to join the inventors' club instead.\"" },
+        { "type": "mc", "prompt": "How do you think Reem felt at her presentation?", "options": ["proud and happy", "bored", "angry with her friends"], "answer": "proud and happy", "explanation": "She showed her first invention, and her friends clapped the loudest." }
+      ]
+    },
+    {
+      "id": "r2",
+      "title": "News from Riyadh",
+      "genre": "e-mail",
+      "text": "Hi Yousef,\n\nHow are you? It's been a long time since you moved to Dammam! I miss playing football with you after school. Here is my news.\n\nWe've just finished our exams. I was worried about math, but I got a great grade! My classmates and I made a study group, and it really helped me improve.\n\nGuess what? I've signed up for the gymnastics club. I've never done gymnastics before, so I fall a lot! Our coach says I have to practice every day.\n\nI've also applied to be an assistant in the school library. I had to fill out an application and talk to the librarian. I haven't heard back yet, but I hope I get it. I love books, and the library has several new science magazines.\n\nMy big brother is a teenager now. He wants to get a scholarship to study engineering. He says he wants to invent a car that runs on sunlight!\n\nWhat about you? Have you joined any clubs yet? Do you like your new school? You should send me some photos!\n\nWrite back soon,\nKhalid",
+      "questions": [
+        { "type": "tf", "statement": "Khalid and Yousef go to the same school now.", "answer": false, "explanation": "Yousef moved to Dammam, and Khalid is still in Riyadh." },
+        { "type": "mc", "prompt": "How did Khalid improve his math grade?", "options": ["He made a study group with his classmates.", "He watched videos.", "His brother taught him."], "answer": "He made a study group with his classmates.", "explanation": "He made a study group with his classmates, and it helped." },
+        { "type": "tf", "statement": "Khalid has done gymnastics many times before.", "answer": false, "explanation": "He says, \"I've never done gymnastics before.\"" },
+        { "type": "gap", "prompt": "Khalid has applied to be an ___ in the school library.", "answer": "assistant", "explanation": "He applied to be an assistant in the school library." },
+        { "type": "mc", "prompt": "What does Khalid's brother want to invent?", "options": ["a car that runs on sunlight", "a robot teacher", "a new phone"], "answer": "a car that runs on sunlight", "explanation": "He wants to invent a car that runs on sunlight." },
+        { "type": "mc", "prompt": "What does Khalid ask Yousef to do?", "options": ["send some photos", "call him on Friday", "visit Riyadh"], "answer": "send some photos", "explanation": "He writes, \"You should send me some photos!\"" }
+      ]
+    },
+    {
+      "id": "r3",
+      "title": "The Girl Who Invented a Smart Bottle",
+      "genre": "interview",
+      "text": "Our school magazine has just interviewed Sara from Grade 6. She has invented a water bottle that reminds you to drink.\n\nQ: Congratulations, Sara! What exactly have you invented?\nA: Thank you! I've invented a smart bottle. It has a small light. If you don't drink for one hour, the light turns on.\n\nQ: Why did you decide to make it?\nA: Last summer, my little brother got sick because he didn't drink enough water. I wanted to help him.\n\nQ: Have you ever invented anything before?\nA: No, never! This is my first invention. But I've always been interested in science.\n\nQ: Was it difficult?\nA: Yes, very! I've made several bottles, and the first three didn't work. My teacher said I should keep trying. Each time, I could improve something small.\n\nQ: Have you shown it to your classmates yet?\nA: Yes, I've already given a presentation in class. Everyone wanted one!\n\nQ: What advice can you give other students?\nA: You don't have to be a genius. You must be patient, and you should never give up.\n\nQ: What's next?\nA: I haven't decided yet. Maybe a bottle that can talk!",
+      "questions": [
+        { "type": "mc", "prompt": "What does Sara's bottle do?", "options": ["It turns on a light if you don't drink for an hour.", "It keeps water cold all day.", "It plays music when it is empty."], "answer": "It turns on a light if you don't drink for an hour.", "explanation": "Sara says that if you don't drink for one hour, the light turns on." },
+        { "type": "tf", "statement": "Sara has invented many things before.", "answer": false, "explanation": "She answers \"No, never!\" and says this is her first invention." },
+        { "type": "mc", "prompt": "Why did Sara decide to make the bottle?", "options": ["Her brother got sick because he didn't drink enough water.", "Her teacher gave her homework.", "She wanted to win a scholarship."], "answer": "Her brother got sick because he didn't drink enough water.", "explanation": "Last summer, her little brother got sick because he didn't drink enough water." },
+        { "type": "tf", "statement": "Sara has already shown her bottle to her classmates.", "answer": true, "explanation": "She says, \"I've already given a presentation in class.\"" },
+        { "type": "gap", "prompt": "Sara's teacher said she should keep ___.", "answer": "trying", "explanation": "Sara says, \"My teacher said I should keep trying.\"" },
+        { "type": "mc", "prompt": "Which sentence from the interview gives advice?", "options": ["You should never give up.", "I've invented a smart bottle.", "I haven't decided yet."], "answer": "You should never give up.", "explanation": "We use should for advice, and Sara gives this advice to other students." }
+      ]
+    },
+    {
+      "id": "r4",
+      "title": "My Brother's Big Dream",
+      "genre": "blog post",
+      "text": "Hi everyone! It's Fahad again. Today I want to tell you about my big brother, Nasser.\n\nNasser is a teenager. He's eighteen, and he has just graduated from high school. My whole family went to his graduation. Mom cried, and Dad took about a hundred photos!\n\nNasser has always been interested in medicine. He wants to be a doctor and help people in our town. Last month, he saw an advertisement for a scholarship at a university in Jeddah. He decided to apply.\n\nThe application was long. He had to write about himself and send his grades. He also had to get two letters from his teachers. He worked on it every night for two weeks. I helped him a little. I made him tea!\n\nNasser has already sent his application, but he hasn't heard back yet. He checks his e-mail about twenty times a day. Mom says he should relax, but he can't.\n\nI've never seen my brother so nervous. I'm nervous too! If he gets the scholarship, he will have to move to Jeddah. I'll miss him, but I know he can do it.\n\nHave you ever applied for something important? Leave a comment below!",
+      "questions": [
+        { "type": "mc", "prompt": "What has Nasser just done?", "options": ["graduated from high school", "moved to Jeddah", "become a doctor"], "answer": "graduated from high school", "explanation": "Fahad writes that Nasser has just graduated from high school." },
+        { "type": "tf", "statement": "Nasser saw the scholarship advertisement last month.", "answer": true, "explanation": "Last month, he saw an advertisement for a scholarship at a university in Jeddah." },
+        { "type": "mc", "prompt": "What did Nasser have to send with his application?", "options": ["his grades", "a video", "a photo of his family"], "answer": "his grades", "explanation": "He had to write about himself and send his grades." },
+        { "type": "mc", "prompt": "How did Fahad help his brother?", "options": ["He made him tea.", "He wrote his letters.", "He sent his e-mails."], "answer": "He made him tea.", "explanation": "Fahad writes, \"I helped him a little. I made him tea!\"" },
+        { "type": "tf", "statement": "Nasser has heard back from the university.", "answer": false, "explanation": "He has sent his application, but he hasn't heard back yet." },
+        { "type": "gap", "prompt": "Mom says Nasser ___ relax.", "answer": "should", "explanation": "Mom gives advice with should: \"Mom says he should relax.\"" }
+      ]
+    },
+    {
+      "id": "r5",
+      "title": "End of Semester News",
+      "genre": "school newsletter",
+      "text": "Al-Yasmin Girls' School, Abha\n\nWhat a busy semester it has been! Here is the latest news from Grade 6.\n\nExams: The students have just finished their final exams. Well done, girls! Your grades will be ready next Sunday. You can see them online.\n\nGymnastics: Our gymnastics team has won second place in the Abha schools' competition. They have practiced three times a week since September. Lama and Reem have never competed before, but they were amazing!\n\nThe school garden: Grade 6 has already planted several trees behind the library. But we haven't finished the flower beds yet, and we need help! Students who are interested can sign up with Ms. Amal, our science assistant.\n\nAthletics Day: Athletics Day was on Thursday, but it rained, so we had a quiz in the hall instead. We will have the races next month.\n\nReminders: All students must bring their library books back by Wednesday. You have to return them before the holiday. And remember, you should read at least one book over the break!\n\nHave a great holiday, everyone!",
+      "questions": [
+        { "type": "mc", "prompt": "What place did the gymnastics team win?", "options": ["first", "second", "third"], "answer": "second", "explanation": "The team has won second place in the Abha schools' competition." },
+        { "type": "tf", "statement": "Lama and Reem have competed in gymnastics many times.", "answer": false, "explanation": "The newsletter says Lama and Reem have never competed before." },
+        { "type": "gap", "prompt": "Students who are interested in the garden can ___ with Ms. Amal.", "answer": "sign up", "explanation": "Interested students can sign up with Ms. Amal, the science assistant." },
+        { "type": "tf", "statement": "Grade 6 has finished the flower beds.", "answer": false, "explanation": "The newsletter says, \"We haven't finished the flower beds yet.\"" },
+        { "type": "mc", "prompt": "What happened on Athletics Day?", "options": ["The girls had a quiz in the hall.", "The girls ran races in the rain.", "The girls planted trees."], "answer": "The girls had a quiz in the hall.", "explanation": "It rained, so they had a quiz in the hall instead." },
+        { "type": "mc", "prompt": "In \"The students have just finished their final exams\", which word tells us it happened a very short time ago?", "options": ["just", "have", "final", "finished"], "answer": "just", "explanation": "Just with the Present Perfect means a very short time ago." }
+      ]
+    }
+  ],
+  "wordWork": {
+    "title": "Categorizing words: verbs, nouns and adjectives",
+    "rule": "Many verbs have a noun in the same word family. We often add -ion, -ation or -ment: decide → decision, apply → application, improve → improvement. Adjectives with -ed tell how a person feels (interested); adjectives with -ing describe the thing (interesting).",
+    "items": [
+      { "type": "mc", "prompt": "Which word is a noun?", "options": ["application", "apply", "improve"], "answer": "application", "explanation": "Application is a thing (a form), so it is a noun." },
+      { "type": "mc", "prompt": "Which word is a verb?", "options": ["invent", "invention", "interesting"], "answer": "invent", "explanation": "Invent is an action, so it is a verb." },
+      { "type": "gap", "prompt": "Verb: apply → Noun: ___", "answer": "application", "explanation": "apply → application (y changes to i, then add -cation)." },
+      { "type": "gap", "prompt": "Verb: improve → Noun: ___", "answer": "improvement", "explanation": "Add -ment: improve → improvement." },
+      { "type": "gap", "prompt": "Verb: decide → Noun: ___", "answer": "decision", "explanation": "decide → decision (take away -de and add -sion)." },
+      { "type": "gap", "prompt": "Verb: invent → Noun: ___", "answer": "invention", "explanation": "Add -ion: invent → invention." },
+      { "type": "gap", "prompt": "I'm ___ in gymnastics. I want to join the club.", "bank": ["interested", "interesting"], "answer": "interested", "explanation": "Use -ed for how a person feels: I'm interested." },
+      { "type": "gap", "prompt": "That was a very ___ presentation about space!", "bank": ["interesting", "interested"], "answer": "interesting", "explanation": "Use -ing to describe the thing: an interesting presentation." },
+      { "type": "mc", "prompt": "\"Reem gave a great presentation.\" What type of word is presentation?", "options": ["noun", "verb", "adjective"], "answer": "noun", "explanation": "Presentation is a thing Reem gave, so it is a noun." },
+      { "type": "mc", "prompt": "Which group has only verbs?", "options": ["decide, follow, keep", "grades, exams, semester", "several, interested, interesting"], "answer": "decide, follow, keep", "explanation": "Decide, follow and keep are all actions." }
+    ]
+  },
+  "writing": [
+    {
+      "prompt": "Write an e-mail to catch up with an old friend.",
+      "hint": "Talk about exams, clubs and plans. Use: I've just ..., I've already ..., I haven't ... yet, I've never ..., Have you ever ...?",
+      "minWords": 60,
+      "model": "Hi Sara,\n\nHow have you been? I've just finished my exams, and I got good grades in English and science! I've already signed up for the art club for next semester. I've never painted with oils before, so I'm excited. I haven't decided about the summer course yet. Have you ever been to a summer course? Write back soon!\n\nNouf"
+    },
+    {
+      "prompt": "Give advice to a new student at your school.",
+      "hint": "Use: You can ..., You could ..., You must ..., You have to ..., You should ...",
+      "minWords": 40,
+      "model": "Welcome to our school! You have to wear the school uniform every day. You must be on time for your classes. You should sign up for a club because it's fun. You could join the science club. If you need help, you can always ask your classmates."
+    }
+  ],
+  "speaking": [
+    "I've just signed up for the gymnastics club.",
+    "Have you ever given a presentation?",
+    "I haven't decided what to do yet.",
+    "We have to study for our exams.",
+    "You should apply for the scholarship.",
+    "You could ask your classmate for help.",
+    "My brother has never failed an exam."
+  ]
+}

@@ -1,0 +1,1166 @@
+{
+  "id": "u6",
+  "unit": 6,
+  "title": "Environments",
+  "emoji": "🏞️",
+  "color": "#1971c2",
+  "bigQuestion": "How can we explore and protect the environments around us?",
+  "summary": "Students learn words for places in nature, directions and weather, talk about plans and timetables with future forms, make predictions with may / might / could, make adjectives from nouns with -y, and think about climate change.",
+  "warmup": [
+    "What is the most beautiful place in nature you have visited?",
+    "Would you like to explore a cave or a castle? Why?",
+    "What is the weather usually like in the north and the south of Saudi Arabia?",
+    "What are you going to do this weekend?",
+    "How can we help to protect our environment?"
+  ],
+  "vocab": [
+    {
+      "word": "north",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Directions",
+      "meaning": "the direction that is at the top of a map",
+      "example": "Tabuk is in the north of Saudi Arabia.",
+      "emoji": "⬆️"
+    },
+    {
+      "word": "south",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Directions",
+      "meaning": "the direction that is at the bottom of a map",
+      "example": "Abha is in the south, and it has lots of green hills.",
+      "emoji": "⬇️"
+    },
+    {
+      "word": "east",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Directions",
+      "meaning": "the direction where the sun comes up",
+      "example": "The sun rises in the east every morning.",
+      "emoji": "➡️"
+    },
+    {
+      "word": "west",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Directions",
+      "meaning": "the direction where the sun goes down",
+      "example": "Jeddah is in the west, next to the Red Sea.",
+      "emoji": "⬅️"
+    },
+    {
+      "word": "turn left",
+      "pos": "verb phrase",
+      "set": 2,
+      "cat": "Directions",
+      "meaning": "to change direction and go to the left",
+      "example": "Turn left at the big stone, and you will see the cave.",
+      "emoji": "↩️"
+    },
+    {
+      "word": "turn right",
+      "pos": "verb phrase",
+      "set": 2,
+      "cat": "Directions",
+      "meaning": "to change direction and go to the right",
+      "example": "Turn right after the bridge to find the hotel.",
+      "emoji": "↪️"
+    },
+    {
+      "word": "adventure",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Places and things",
+      "meaning": "an exciting trip or experience",
+      "example": "Our camping trip in the desert was a real adventure.",
+      "emoji": "🧭"
+    },
+    {
+      "word": "bridge",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Places and things",
+      "meaning": "a road or path that goes over water or a road",
+      "example": "We walked across the old bridge over the stream.",
+      "emoji": "🌉"
+    },
+    {
+      "word": "castle",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Places and things",
+      "meaning": "a big, strong, old building with high walls",
+      "example": "There is an old castle on top of the hill.",
+      "emoji": "🏰"
+    },
+    {
+      "word": "cave",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Places and things",
+      "meaning": "a big hole in the side of a hill or under the ground",
+      "example": "Bats sleep in the cave during the day.",
+      "emoji": "🕳️"
+    },
+    {
+      "word": "hill",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Places and things",
+      "meaning": "high land, but not as high as a mountain",
+      "example": "The children ran up the hill to see the sunset.",
+      "emoji": "⛰️"
+    },
+    {
+      "word": "ocean",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Places and things",
+      "meaning": "a very big area of salt water",
+      "example": "Whales and dolphins live in the ocean.",
+      "emoji": "🌊"
+    },
+    {
+      "word": "stream",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Places and things",
+      "meaning": "a very small, narrow river",
+      "example": "We put our feet in the cold stream.",
+      "emoji": "🏞️"
+    },
+    {
+      "word": "path",
+      "pos": "noun",
+      "set": 2,
+      "cat": "Places and things",
+      "meaning": "a narrow way that people walk on",
+      "example": "Stay on the path so you don't get lost.",
+      "emoji": "🥾"
+    },
+    {
+      "word": "stone",
+      "pos": "noun",
+      "set": 2,
+      "cat": "Places and things",
+      "meaning": "a small piece of rock",
+      "example": "Omar threw a stone into the water.",
+      "emoji": "🪨"
+    },
+    {
+      "word": "air",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Weather",
+      "meaning": "what we breathe; it is all around us",
+      "example": "The air in the mountains is fresh and cool.",
+      "emoji": "💨"
+    },
+    {
+      "word": "fog",
+      "pos": "noun",
+      "set": 1,
+      "cat": "Weather",
+      "meaning": "a thick cloud near the ground that is hard to see through",
+      "example": "There was so much fog that we couldn't see the road.",
+      "emoji": "🌫️"
+    },
+    {
+      "word": "foggy",
+      "pos": "adjective",
+      "set": 2,
+      "cat": "Weather",
+      "meaning": "with a lot of fog",
+      "example": "It is often foggy in Abha in the summer.",
+      "emoji": "🌁"
+    },
+    {
+      "word": "storm",
+      "pos": "noun",
+      "set": 2,
+      "cat": "Weather",
+      "meaning": "very bad weather with strong wind and rain",
+      "example": "During the storm, we stayed inside the house.",
+      "emoji": "⛈️"
+    },
+    {
+      "word": "dark",
+      "pos": "adjective",
+      "set": 2,
+      "cat": "Describing words",
+      "meaning": "with little or no light",
+      "example": "It's very dark in the cave, so bring a flashlight.",
+      "emoji": "🌑"
+    },
+    {
+      "word": "deep",
+      "pos": "adjective",
+      "set": 1,
+      "cat": "Describing words",
+      "meaning": "going a long way down from the top",
+      "example": "The water is deep here. Don't swim alone!",
+      "emoji": "🤿"
+    },
+    {
+      "word": "high",
+      "pos": "adjective",
+      "set": 2,
+      "cat": "Describing words",
+      "meaning": "a long way up from the ground",
+      "example": "The castle has very high walls.",
+      "emoji": "🏔️"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "Talking about the future",
+      "rule": "Use be going to for plans you have already made and for things you can see will happen. Use will for quick decisions, offers and promises. Use the Simple Present for timetables (trains, shops, tours), and the Present Progressive for arrangements with a day or time.",
+      "form": "plan: am / is / are going to + verb · quick decision / offer: will ('ll) + verb · timetable: Simple Present (opens, leaves) · arrangement: am / is / are + verb-ing + time",
+      "examples": [
+        "We're going to explore the cave this weekend.",
+        "Look at those black clouds! It's going to rain.",
+        "The museum opens at 10 a.m. tomorrow.",
+        "We're flying to Abha on Thursday.",
+        "Your bag looks heavy. I'll carry it for you."
+      ],
+      "items": [
+        {
+          "type": "mc",
+          "prompt": "The old fort ___ at 8 a.m. every day, so we can visit it tomorrow morning.",
+          "options": [
+            "opens",
+            "opening",
+            "open"
+          ],
+          "answer": "opens",
+          "explanation": "Opening times are a timetable, so we use the Simple Present: opens."
+        },
+        {
+          "type": "mc",
+          "prompt": "Look at those dark clouds! It ___ rain.",
+          "options": [
+            "is going to",
+            "going to",
+            "is going"
+          ],
+          "answer": "is going to",
+          "explanation": "We can see the clouds, so we use is going to for the prediction."
+        },
+        {
+          "type": "mc",
+          "prompt": "A: This bag is very heavy! B: ___",
+          "options": [
+            "I'll carry it for you.",
+            "I carried it for you yesterday.",
+            "I'm carry it for you."
+          ],
+          "answer": "I'll carry it for you.",
+          "explanation": "For a quick offer, we use will ('ll) + verb."
+        },
+        {
+          "type": "mc",
+          "prompt": "We ___ the train to Jeddah tomorrow. Dad bought the tickets yesterday.",
+          "options": [
+            "are taking",
+            "takes",
+            "taking",
+            "is taking"
+          ],
+          "answer": "are taking",
+          "explanation": "It is an arrangement with a time, so we use the Present Progressive: are taking."
+        },
+        {
+          "type": "mc",
+          "prompt": "What time ___ the bus leave tomorrow?",
+          "options": [
+            "does",
+            "is",
+            "do"
+          ],
+          "answer": "does",
+          "explanation": "Bus times are a timetable, so we use the Simple Present: does the bus leave."
+        },
+        {
+          "type": "mc",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "I'm going to visit the cave next week.",
+            "I going to visit the cave next week.",
+            "I'm go to visit the cave next week."
+          ],
+          "answer": "I'm going to visit the cave next week.",
+          "explanation": "Be going to needs am / is / are + going to + verb."
+        },
+        {
+          "type": "mc",
+          "prompt": "Nouf ___ going to climb the hill on Saturday.",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "answer": "is",
+          "explanation": "Nouf is one person, so we use is going to."
+        },
+        {
+          "type": "gap",
+          "prompt": "We ___ going to explore the cave this weekend.",
+          "answer": "are",
+          "explanation": "With we, the form is are going to."
+        },
+        {
+          "type": "gap",
+          "prompt": "Be careful! You ___ going to fall into the stream!",
+          "answer": "are",
+          "explanation": "We can see it will happen, so we use are going to with you."
+        },
+        {
+          "type": "gap",
+          "prompt": "The train to Dammam ___ at 7:30 tomorrow morning.",
+          "hint": "(leave)",
+          "bank": [
+            "leaves",
+            "leave",
+            "leaving"
+          ],
+          "answer": [
+            "leaves",
+            "will leave",
+            "is leaving",
+            "is going to leave"
+          ],
+          "explanation": "Train times are a timetable, so the Simple Present leaves is best."
+        },
+        {
+          "type": "gap",
+          "prompt": "A: I'm thirsty. B: Wait, ___ get you some water.",
+          "hint": "(I / will)",
+          "answer": [
+            "I'll",
+            "I will"
+          ],
+          "explanation": "B decides to help right now, so we use will ('ll)."
+        },
+        {
+          "type": "gap",
+          "prompt": "Don't worry, Mom. I promise I ___ be late.",
+          "hint": "(not / will)",
+          "answer": [
+            "won't",
+            "will not"
+          ],
+          "explanation": "For promises we use will. The negative is won't / will not."
+        },
+        {
+          "type": "gap",
+          "prompt": "What time ___ the castle close tonight?",
+          "hint": "(do)",
+          "answer": "does",
+          "explanation": "Closing times are a timetable, so we ask with does."
+        },
+        {
+          "type": "gap",
+          "prompt": "Nouf ___ a party next Thursday. She has invited ten friends.",
+          "hint": "(have)",
+          "answer": [
+            "is having",
+            "is going to have",
+            "will have"
+          ],
+          "explanation": "It is a plan with a day, so we use is having (or is going to have)."
+        },
+        {
+          "type": "gap",
+          "prompt": "Omar ___ his grandfather in AlUla tomorrow. He has his plane ticket.",
+          "hint": "(visit)",
+          "answer": [
+            "is visiting",
+            "is going to visit",
+            "will visit"
+          ],
+          "explanation": "It is an arrangement for tomorrow, so we use is visiting (or is going to visit)."
+        },
+        {
+          "type": "order",
+          "answer": "We are going to cross the bridge.",
+          "explanation": "Subject + are going to + verb."
+        },
+        {
+          "type": "order",
+          "answer": "The boat leaves at six tomorrow.",
+          "alt": [
+            "Tomorrow the boat leaves at six.",
+            "The boat leaves tomorrow at six."
+          ],
+          "explanation": "Timetables use the Simple Present: the boat leaves."
+        },
+        {
+          "type": "order",
+          "answer": "I will carry your bag for you.",
+          "explanation": "An offer: I will + verb."
+        },
+        {
+          "type": "order",
+          "answer": "Are you meeting your cousins on Friday?",
+          "explanation": "Present Progressive question: Are + you + verb-ing."
+        },
+        {
+          "type": "order",
+          "answer": "It is going to be a great adventure!",
+          "explanation": "It is going to + be + adjective + noun."
+        },
+        {
+          "type": "transform",
+          "instruction": "Make it negative.",
+          "prompt": "We are going to climb the hill.",
+          "answer": [
+            "We are not going to climb the hill.",
+            "We aren't going to climb the hill.",
+            "We're not going to climb the hill."
+          ],
+          "explanation": "Put not after are: are not going to."
+        },
+        {
+          "type": "transform",
+          "instruction": "Make a question.",
+          "prompt": "Sara is going to visit the cave.",
+          "answer": [
+            "Is Sara going to visit the cave?"
+          ],
+          "explanation": "Move is to the start: Is Sara going to ...?"
+        },
+        {
+          "type": "transform",
+          "instruction": "Make it negative.",
+          "prompt": "The bus will stop at the bridge.",
+          "answer": [
+            "The bus will not stop at the bridge.",
+            "The bus won't stop at the bridge."
+          ],
+          "explanation": "The negative of will is will not / won't."
+        },
+        {
+          "type": "transform",
+          "instruction": "Make a question with What time.",
+          "prompt": "The cave tour starts at 10 a.m.",
+          "answer": [
+            "What time does the cave tour start?"
+          ],
+          "explanation": "Simple Present question: What time + does + subject + verb?"
+        },
+        {
+          "type": "fix",
+          "sentence": "Look at the sky! It going to snow.",
+          "correct": false,
+          "answer": "Look at the sky! It's going to snow.",
+          "explanation": "We need is: It's / It is going to snow."
+        },
+        {
+          "type": "fix",
+          "sentence": "The plane is leave at 8 p.m. tomorrow.",
+          "correct": false,
+          "answer": "The plane leaves at 8 p.m. tomorrow.",
+          "explanation": "For a timetable, use the Simple Present: leaves."
+        },
+        {
+          "type": "fix",
+          "sentence": "I'll open the window for you.",
+          "correct": true,
+          "answer": "I'll open the window for you.",
+          "explanation": "Correct: will ('ll) for an offer."
+        },
+        {
+          "type": "fix",
+          "sentence": "We are visit our grandparents next weekend.",
+          "correct": false,
+          "answer": "We are visiting our grandparents next weekend.",
+          "explanation": "The Present Progressive needs verb + -ing: are visiting."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": "Predictions with may, might, could",
+      "rule": "Use may, might or could + verb when something is possible, but you are not sure. They all mean 'maybe'. For the negative, use may not or might not.",
+      "form": "subject + may / might / could + verb · subject + may not / might not + verb",
+      "examples": [
+        "The cave may be very dark, so bring a flashlight.",
+        "We could get lost without a guide.",
+        "There might be a storm tonight.",
+        "Reem might not come with us."
+      ],
+      "items": [
+        {
+          "type": "mc",
+          "prompt": "Take a coat. It ___ be cold on the hill.",
+          "options": [
+            "might",
+            "mights",
+            "might to"
+          ],
+          "answer": "might",
+          "explanation": "Might never changes, and it is followed by a verb without to."
+        },
+        {
+          "type": "mc",
+          "prompt": "We could ___ lost in the fog.",
+          "options": [
+            "get",
+            "gets",
+            "getting",
+            "to get"
+          ],
+          "answer": "get",
+          "explanation": "After could we use the base verb: get."
+        },
+        {
+          "type": "mc",
+          "prompt": "The stream ___ not be deep. Let's check.",
+          "options": [
+            "may",
+            "does",
+            "is"
+          ],
+          "answer": "may",
+          "explanation": "May not + verb shows we are not sure."
+        },
+        {
+          "type": "mc",
+          "prompt": "Which sentence means \"Maybe there will be a storm\"?",
+          "options": [
+            "There might be a storm.",
+            "There is a storm.",
+            "There was a storm."
+          ],
+          "answer": "There might be a storm.",
+          "explanation": "Might means maybe, so it shows something is possible."
+        },
+        {
+          "type": "mc",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "It may rain tomorrow.",
+            "It may rains tomorrow.",
+            "It may to rain tomorrow."
+          ],
+          "answer": "It may rain tomorrow.",
+          "explanation": "May + base verb, with no -s and no to."
+        },
+        {
+          "type": "mc",
+          "prompt": "I'm not sure, but Omar ___ come to the castle with us.",
+          "options": [
+            "could",
+            "coulds",
+            "can to"
+          ],
+          "answer": "could",
+          "explanation": "Could + verb shows it is possible."
+        },
+        {
+          "type": "gap",
+          "prompt": "Bring a flashlight. The cave ___ be very dark.",
+          "answer": [
+            "may",
+            "might",
+            "could"
+          ],
+          "explanation": "We are not sure, so we use may, might or could."
+        },
+        {
+          "type": "gap",
+          "prompt": "Don't stand near the edge. You ___ fall!",
+          "answer": [
+            "might",
+            "may",
+            "could"
+          ],
+          "explanation": "It is possible, so we use might, may or could."
+        },
+        {
+          "type": "gap",
+          "prompt": "The sky is clear. It ___ rain today.",
+          "hint": "(not)",
+          "answer": [
+            "may not",
+            "might not",
+            "mightn't"
+          ],
+          "explanation": "For a negative prediction we use may not or might not."
+        },
+        {
+          "type": "gap",
+          "prompt": "We might ___ a boat to cross the river.",
+          "hint": "(need)",
+          "answer": "need",
+          "explanation": "After might we use the base verb: need."
+        },
+        {
+          "type": "gap",
+          "prompt": "Fahad isn't sure. He ___ go to the beach this weekend, or he might stay home.",
+          "answer": [
+            "may",
+            "might",
+            "could"
+          ],
+          "explanation": "He isn't sure, so we use may, might or could."
+        },
+        {
+          "type": "gap",
+          "prompt": "Take some water. The walk to the castle could ___ very long.",
+          "hint": "(be)",
+          "answer": "be",
+          "explanation": "After could we use the base verb: be."
+        },
+        {
+          "type": "gap",
+          "prompt": "Nouf doesn't like walking. She ___ enjoy the hiking trip.",
+          "hint": "(not)",
+          "answer": [
+            "may not",
+            "might not",
+            "mightn't"
+          ],
+          "explanation": "For a negative prediction we use may not or might not."
+        },
+        {
+          "type": "gap",
+          "prompt": "There ___ be fog on the bridge tonight, so please drive slowly, Dad.",
+          "answer": [
+            "may",
+            "might",
+            "could"
+          ],
+          "explanation": "We are not sure about the fog, so we use may, might or could."
+        },
+        {
+          "type": "order",
+          "answer": "It might be foggy tomorrow.",
+          "alt": [
+            "Tomorrow it might be foggy."
+          ],
+          "explanation": "Subject + might + be + adjective."
+        },
+        {
+          "type": "order",
+          "answer": "We could get lost in the cave.",
+          "explanation": "Subject + could + base verb."
+        },
+        {
+          "type": "order",
+          "answer": "The bridge may not be safe.",
+          "explanation": "Negative: may + not + base verb."
+        },
+        {
+          "type": "order",
+          "answer": "There might be a storm tonight.",
+          "alt": [
+            "Tonight there might be a storm."
+          ],
+          "explanation": "There + might + be + noun."
+        },
+        {
+          "type": "order",
+          "answer": "The stream might be too deep.",
+          "explanation": "Subject + might + be + too + adjective."
+        },
+        {
+          "type": "transform",
+          "instruction": "Rewrite with might.",
+          "prompt": "Maybe it will rain this afternoon.",
+          "answer": [
+            "It might rain this afternoon.",
+            "This afternoon it might rain.",
+            "This afternoon, it might rain."
+          ],
+          "explanation": "Might + base verb has the same meaning as maybe ... will."
+        },
+        {
+          "type": "transform",
+          "instruction": "Rewrite with may.",
+          "prompt": "Perhaps the castle is closed today.",
+          "answer": [
+            "The castle may be closed today."
+          ],
+          "explanation": "Is becomes may be."
+        },
+        {
+          "type": "transform",
+          "instruction": "Rewrite with might not.",
+          "prompt": "Maybe Reem won't come to the cave.",
+          "answer": [
+            "Reem might not come to the cave.",
+            "Reem mightn't come to the cave."
+          ],
+          "explanation": "Won't come becomes might not come."
+        },
+        {
+          "type": "transform",
+          "instruction": "Rewrite with could.",
+          "prompt": "Maybe we will see dolphins in the ocean.",
+          "answer": [
+            "We could see dolphins in the ocean."
+          ],
+          "explanation": "Could + base verb shows it is possible."
+        },
+        {
+          "type": "fix",
+          "sentence": "It might rains tomorrow.",
+          "correct": false,
+          "answer": "It might rain tomorrow.",
+          "explanation": "After might, use the base verb with no -s."
+        },
+        {
+          "type": "fix",
+          "sentence": "We may to need a boat.",
+          "correct": false,
+          "answer": "We may need a boat.",
+          "explanation": "Don't use to after may."
+        },
+        {
+          "type": "fix",
+          "sentence": "The path could be dangerous in the dark.",
+          "correct": true,
+          "answer": "The path could be dangerous in the dark.",
+          "explanation": "Correct: could + be shows something is possible."
+        },
+        {
+          "type": "fix",
+          "sentence": "She mights be late.",
+          "correct": false,
+          "answer": "She might be late.",
+          "explanation": "Might never takes -s."
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "r1",
+      "title": "Lost in the Fog",
+      "genre": "story",
+      "text": "Last spring, Reem's family went on an adventure in the mountains near Abha. On the first morning, their guide, Uncle Saad, met them at the hotel. \"We're going to walk to an old stone castle on the hill,\" he said. \"Listen carefully. The weather here changes quickly. It might get foggy, so stay on the path and stay together.\"\n\nFirst, they walked along a small stream. Then they crossed a wooden bridge and turned left at a big stone. After an hour, they saw the castle. It had high walls and a dark tower. Reem took lots of photos.\n\nSuddenly, thick fog came down from the hills. Reem couldn't see her little brother, Khalid! She called his name, but there was no answer. Then she remembered Uncle Saad's words. \"Stay on the path!\" she shouted. A minute later, Khalid answered. He was standing on the path, just a few meters away.\n\nUncle Saad led everyone back slowly. That evening, Reem said, \"I'm glad we listened to you. Next time, I'll listen even more carefully!\"",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "Where did Reem's family go?",
+          "options": [
+            "to the mountains near Abha",
+            "to the ocean near Jeddah",
+            "to the desert near Riyadh"
+          ],
+          "answer": "to the mountains near Abha",
+          "explanation": "The story says they went to the mountains near Abha."
+        },
+        {
+          "type": "mc",
+          "prompt": "What did they do after they crossed the bridge?",
+          "options": [
+            "They turned left at a big stone.",
+            "They swam in the stream.",
+            "They went back to the hotel."
+          ],
+          "answer": "They turned left at a big stone.",
+          "explanation": "They crossed the bridge and then turned left at a big stone."
+        },
+        {
+          "type": "tf",
+          "statement": "The castle had high walls.",
+          "answer": true,
+          "explanation": "The story says it had high walls and a dark tower."
+        },
+        {
+          "type": "tf",
+          "statement": "Khalid was lost in a cave.",
+          "answer": false,
+          "explanation": "Khalid was on the path in the fog, not in a cave."
+        },
+        {
+          "type": "gap",
+          "prompt": "Uncle Saad told them to stay on the ___ and stay together.",
+          "answer": "path",
+          "explanation": "He said, \"stay on the path and stay together.\""
+        },
+        {
+          "type": "mc",
+          "prompt": "What did Reem learn?",
+          "options": [
+            "It is important to listen to others.",
+            "Fog is not dangerous.",
+            "Castles are boring."
+          ],
+          "answer": "It is important to listen to others.",
+          "explanation": "She is glad they listened, and she will listen more carefully next time."
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "title": "Our Changing Planet",
+      "genre": "article",
+      "text": "Our planet is getting warmer. This is called climate change. Cars, factories and power stations put gases into the air. These gases act like a blanket around the Earth and keep the heat in.\n\nScientists say climate change could change many environments. The ice in the north and the south of the world is melting, so the oceans are getting higher. In the future, some beaches and islands might disappear under the water. There may also be more storms, and some hot places could get even hotter and drier. Animals and plants might lose their homes.\n\nThe good news is that we can help. Saudi Arabia is planting millions of trees to make the air cleaner. NEOM is going to use energy from the sun and the wind. You can help too. Walk or cycle when you can. Turn off the lights when you leave a room. Don't waste water.\n\nIf we all make small changes, our planet will be a better place for people, animals and plants. What are you going to do to help?",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "What is the main idea of the article?",
+          "options": [
+            "The planet is getting warmer, but we can help.",
+            "Storms are fun to watch.",
+            "Trees grow quickly in the desert."
+          ],
+          "answer": "The planet is getting warmer, but we can help.",
+          "explanation": "The article explains climate change and how we can help."
+        },
+        {
+          "type": "gap",
+          "prompt": "Gases act like a ___ around the Earth.",
+          "answer": "blanket",
+          "explanation": "The article says the gases act like a blanket and keep the heat in."
+        },
+        {
+          "type": "tf",
+          "statement": "The ice in the north and south is melting.",
+          "answer": true,
+          "explanation": "The article says the ice in the north and south is melting."
+        },
+        {
+          "type": "mc",
+          "prompt": "Why are the oceans getting higher?",
+          "options": [
+            "because the ice is melting",
+            "because there are more fish",
+            "because of the fog"
+          ],
+          "answer": "because the ice is melting",
+          "explanation": "The ice is melting, so the oceans are getting higher."
+        },
+        {
+          "type": "tf",
+          "statement": "NEOM is going to use energy from oil only.",
+          "answer": false,
+          "explanation": "NEOM is going to use energy from the sun and the wind."
+        },
+        {
+          "type": "mc",
+          "prompt": "Which is one way you can help?",
+          "options": [
+            "Turn off the lights when you leave a room.",
+            "Drive everywhere by car.",
+            "Leave the water running."
+          ],
+          "answer": "Turn off the lights when you leave a room.",
+          "explanation": "The article tells us to turn off the lights when we leave a room."
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "title": "Into the Cave!",
+      "genre": "blog post",
+      "text": "Hi everyone, it's Omar! This weekend, my family and I are going on a real adventure. We're going to explore a cave in the desert north of Riyadh.\n\nHere is our plan. We're leaving home on Friday at six in the morning. The tour starts at eight o'clock, and it finishes at noon. Our guide is meeting us at the entrance.\n\nMy dad says the cave is very deep. Some parts are more than one hundred meters under the ground! It may be very dark inside, so I'm going to bring two flashlights. There might be bats on the high stone walls. My little sister is a bit scared, so I told her, \"Don't worry. I'll hold your hand.\"\n\nThe air inside the cave could be cold, even in summer, so Mom is packing jackets for everyone. The path into the cave is narrow and rocky, so we're going to wear strong shoes.\n\nAt the bottom, there is a small lake with clear blue water. I might take photos of it, but my camera might not work well in the dark.\n\nI'll write another post next week with my photos. What do you think we will find down there?",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "When does the cave tour start?",
+          "options": [
+            "at eight o'clock",
+            "at six o'clock",
+            "at noon"
+          ],
+          "answer": "at eight o'clock",
+          "explanation": "Omar writes, \"The tour starts at eight o'clock.\""
+        },
+        {
+          "type": "tf",
+          "statement": "Omar is going to bring two flashlights.",
+          "answer": true,
+          "explanation": "Omar says it may be very dark, so he is going to bring two flashlights."
+        },
+        {
+          "type": "tf",
+          "statement": "The air inside the cave is always hot.",
+          "answer": false,
+          "explanation": "Omar says the air inside the cave could be cold, even in summer."
+        },
+        {
+          "type": "mc",
+          "prompt": "Omar writes, \"There might be bats on the high stone walls.\" What does this mean?",
+          "options": [
+            "Maybe there are bats, but Omar isn't sure.",
+            "There are definitely bats.",
+            "There were bats last year."
+          ],
+          "answer": "Maybe there are bats, but Omar isn't sure.",
+          "explanation": "Might means maybe: Omar thinks bats are possible, but he is not sure."
+        },
+        {
+          "type": "gap",
+          "prompt": "Mom is packing ___ for everyone because the air could be cold.",
+          "answer": "jackets",
+          "explanation": "The blog says Mom is packing jackets for everyone."
+        },
+        {
+          "type": "mc",
+          "prompt": "What promise did Omar make to his little sister?",
+          "options": [
+            "to hold her hand",
+            "to buy her a flashlight",
+            "to take her photo"
+          ],
+          "answer": "to hold her hand",
+          "explanation": "Omar told her, \"Don't worry. I'll hold your hand.\" We use will for promises."
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "title": "Our Trip to the Red Sea",
+      "genre": "school newsletter",
+      "text": "Al-Yasmin Girls' School Newsletter\n\nNext Tuesday, all Grade 6 students are visiting a marine center on the Red Sea coast, south of Jeddah. Here is everything you need to know.\n\nThe bus leaves the school at 7:30 a.m. and arrives at the center at about 9:00. Please don't be late, because the bus won't wait!\n\nIn the morning, a scientist is giving us a talk about the ocean. She is going to show us how coral reefs grow. Then we are taking a glass-bottom boat out to the reef. The water there isn't very deep, so we will see fish, turtles and maybe even a dolphin!\n\nThe weather report says it might be windy in the afternoon. There may also be a storm in the evening, but we will be back at school by 3:00 p.m. If the waves are too high, we could visit the aquarium instead of going on the boat trip.\n\nPlease bring a hat, sunscreen, water and lunch. The sun on the coast is very strong, and the air is hot and humid.\n\nOur science teacher, Ms. Huda, says, \"This trip is going to be an amazing adventure. Our students will learn how to protect the ocean.\"",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "What time does the bus leave the school?",
+          "options": [
+            "7:30 a.m.",
+            "9:00 a.m.",
+            "3:00 p.m."
+          ],
+          "answer": "7:30 a.m.",
+          "explanation": "The newsletter says the bus leaves the school at 7:30 a.m."
+        },
+        {
+          "type": "tf",
+          "statement": "The marine center is north of Jeddah.",
+          "answer": false,
+          "explanation": "The marine center is on the Red Sea coast, south of Jeddah."
+        },
+        {
+          "type": "mc",
+          "prompt": "What is the scientist going to show the students?",
+          "options": [
+            "how coral reefs grow",
+            "how to catch fish",
+            "how to drive a boat"
+          ],
+          "answer": "how coral reefs grow",
+          "explanation": "The newsletter says she is going to show them how coral reefs grow."
+        },
+        {
+          "type": "gap",
+          "prompt": "The weather report says it ___ be windy in the afternoon.",
+          "bank": [
+            "might",
+            "will",
+            "is"
+          ],
+          "answer": [
+            "might",
+            "may",
+            "could"
+          ],
+          "explanation": "The text says it might be windy: we use might for something possible but not sure."
+        },
+        {
+          "type": "tf",
+          "statement": "The students will be back at school before the evening.",
+          "answer": true,
+          "explanation": "The newsletter says they will be back at school by 3:00 p.m."
+        },
+        {
+          "type": "mc",
+          "prompt": "What could the students do if the waves are too high?",
+          "options": [
+            "visit the aquarium",
+            "swim in a pool",
+            "go home early"
+          ],
+          "answer": "visit the aquarium",
+          "explanation": "The newsletter says they could visit the aquarium instead of going on the boat trip."
+        }
+      ]
+    },
+    {
+      "id": "r5",
+      "title": "Storm on Camp Night",
+      "genre": "story",
+      "text": "Khalid and his cousin Fahad were very excited. Their fathers were taking them camping near the Tuwaiq hills, west of Riyadh.\n\nIn the afternoon, the boys climbed a small hill and looked around. In the east, they could see the city. In the west, big black clouds were coming. \"Look at those clouds!\" said Fahad's father. \"There's going to be a storm. We may need to leave our tent.\"\n\nKhalid's father checked the map. \"There is a cave about five hundred meters to the north,\" he said. \"It could be safer than the tent. Follow the path, and turn right at the old tree.\"\n\nThey packed quickly. While they were walking, the wind got stronger, and sand filled the air. Khalid held Fahad's arm. \"Don't let go,\" he said. \"I won't,\" said Fahad.\n\nTen minutes later, they reached the cave. It wasn't very deep, but it was dry. The storm lasted for an hour. Outside, rain fell and the dark sky flashed. Inside, the boys ate dates, drank tea and told stories by the light of a flashlight.\n\nThe next morning, the air was fresh and clean. \"That was the best adventure ever,\" said Khalid. \"Next time, we'll check the weather first!\"",
+      "questions": [
+        {
+          "type": "mc",
+          "prompt": "Where did the boys go camping?",
+          "options": [
+            "near the Tuwaiq hills",
+            "near the Red Sea",
+            "in AlUla"
+          ],
+          "answer": "near the Tuwaiq hills",
+          "explanation": "The story says their fathers took them camping near the Tuwaiq hills, west of Riyadh."
+        },
+        {
+          "type": "mc",
+          "prompt": "Fahad's father said, \"There's going to be a storm.\" Why did he use going to?",
+          "options": [
+            "He could see big black clouds coming.",
+            "He was making a promise.",
+            "He was reading a timetable."
+          ],
+          "answer": "He could see big black clouds coming.",
+          "explanation": "We use be going to when we can see something will happen, and he said, \"Look at those clouds!\""
+        },
+        {
+          "type": "tf",
+          "statement": "The cave was about five hundred meters to the north.",
+          "answer": true,
+          "explanation": "Khalid's father said there was a cave about five hundred meters to the north."
+        },
+        {
+          "type": "gap",
+          "prompt": "Follow the path, and turn ___ at the old tree.",
+          "bank": [
+            "right",
+            "left",
+            "north"
+          ],
+          "answer": "right",
+          "explanation": "Khalid's father said, \"Follow the path, and turn right at the old tree.\""
+        },
+        {
+          "type": "tf",
+          "statement": "The cave was very deep.",
+          "answer": false,
+          "explanation": "The story says the cave wasn't very deep, but it was dry."
+        },
+        {
+          "type": "mc",
+          "prompt": "What did the boys do inside the cave?",
+          "options": [
+            "They ate dates and told stories.",
+            "They slept in the tent.",
+            "They played football."
+          ],
+          "answer": "They ate dates and told stories.",
+          "explanation": "Inside, the boys ate dates, drank tea and told stories by the light of a flashlight."
+        }
+      ]
+    }
+  ],
+  "wordWork": {
+    "title": "Suffixes: making adjectives from nouns",
+    "rule": "We can add -y to many weather and nature nouns to make adjectives: storm → stormy, cloud → cloudy. Some short words double the last letter (fog → foggy, sun → sunny). Other suffixes are -ful (help → helpful) and -ous (danger → dangerous).",
+    "items": [
+      {
+        "type": "gap",
+        "prompt": "There is a lot of fog today. It is ___.",
+        "answer": "foggy",
+        "explanation": "Fog + -y = foggy. We double the g."
+      },
+      {
+        "type": "gap",
+        "prompt": "There is a storm tonight. It is a ___ night.",
+        "answer": "stormy",
+        "explanation": "Storm + -y = stormy."
+      },
+      {
+        "type": "gap",
+        "prompt": "The sun is shining. It's a ___ day!",
+        "answer": "sunny",
+        "explanation": "Sun + -y = sunny. We double the n."
+      },
+      {
+        "type": "mc",
+        "prompt": "There is a lot of wind. It is ___.",
+        "options": [
+          "windy",
+          "windful",
+          "windous"
+        ],
+        "answer": "windy",
+        "explanation": "Wind + -y = windy."
+      },
+      {
+        "type": "mc",
+        "prompt": "The path has lots of rocks. It is ___.",
+        "options": [
+          "rocky",
+          "rockful",
+          "rockous"
+        ],
+        "answer": "rocky",
+        "explanation": "Rock + -y = rocky."
+      },
+      {
+        "type": "gap",
+        "prompt": "The sky is full of clouds. It's ___.",
+        "answer": "cloudy",
+        "explanation": "Cloud + -y = cloudy."
+      },
+      {
+        "type": "mc",
+        "prompt": "Swimming in a storm is not safe. It is ___.",
+        "options": [
+          "dangerous",
+          "dangery",
+          "dangerful"
+        ],
+        "answer": "dangerous",
+        "explanation": "Danger + -ous = dangerous."
+      },
+      {
+        "type": "mc",
+        "prompt": "Uncle Saad gave us lots of help. He was very ___.",
+        "options": [
+          "helpful",
+          "helpy",
+          "helpous"
+        ],
+        "answer": "helpful",
+        "explanation": "Help + -ful = helpful."
+      },
+      {
+        "type": "gap",
+        "prompt": "It's snowing in Tabuk! The mountains are ___.",
+        "answer": "snowy",
+        "explanation": "Snow + -y = snowy."
+      },
+      {
+        "type": "mc",
+        "prompt": "Which noun + suffix is correct?",
+        "options": [
+          "fog → foggy",
+          "fog → fogy",
+          "fog → fogful"
+        ],
+        "answer": "fog → foggy",
+        "explanation": "Fog ends in one vowel + one consonant, so we double the g: foggy."
+      }
+    ]
+  },
+  "writing": [
+    {
+      "prompt": "Write a short article about climate change. What might happen in the future, and what are you going to do to help?",
+      "hint": "Use may / might / could for predictions and going to / will for plans.",
+      "minWords": 50,
+      "model": "Climate change is a big problem. In the future, summers might get hotter, and there could be more storms. Some animals may lose their homes. I want to help, so I am going to walk to my friend's house instead of going by car. I will turn off the lights when I leave a room. Small changes can help our planet."
+    },
+    {
+      "prompt": "Write directions from your school to a place in nature or an old building. What will people see on the way?",
+      "hint": "Use turn left, turn right, bridge, path, hill, north, south, east, west.",
+      "minWords": 45,
+      "model": "Start at the school gate and walk north. Turn left at the mosque and walk along the path next to the stream. Cross the small bridge. Then turn right and go up the hill. At the top of the hill, you will see an old stone castle. Be careful, because the path could be rocky."
+    }
+  ],
+  "speaking": [
+    "We're going to explore the cave on Saturday.",
+    "The museum opens at ten o'clock tomorrow.",
+    "It's cold in here. I'll close the window.",
+    "Bring a flashlight. The cave may be dark.",
+    "We might get lost in the fog.",
+    "Turn left at the bridge, then turn right at the big stone.",
+    "It could be stormy tonight, so let's stay inside.",
+    "When we listen to other people, we can learn a lot."
+  ]
+}
