@@ -5,9 +5,9 @@ A private studio for one-on-one English lessons (built for Preply tutoring, Grad
 - **Students:** a profile for each learner with a *progress orbit* (mastery per unit), skill bars,
   homework history and lesson notes.
 - **Teach mode:** screen-share slides for every unit (words with audio, grammar rules, live practice
-  questions, readings, a speaking drill, a word wheel) with a timer, stars and quick notes.
+  questions, readings, a word wheel) with a timer, stars and quick notes.
 - **Homework missions:** built in a few clicks from about 550 original grammar questions plus vocabulary games,
-  readings, speaking and writing. Paste one message into the lesson chat.
+  readings and writing. Paste one message into the lesson chat.
 - **Results come back through the chat:** the student taps *Copy my result*, pastes it, and you click it.
 
 Start here: **[docs/SETUP.md](docs/SETUP.md)**.
